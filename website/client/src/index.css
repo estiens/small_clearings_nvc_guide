@@ -81,23 +81,37 @@
     @apply bg-background text-foreground;
     font-family: 'IBM Plex Mono', 'Courier New', monospace;
     font-size: 15px;
-    line-height: 1.85;
+    line-height: 1.78;
     color: var(--ink);
     background-color: var(--newsprint);
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  /* Paragraph rhythm — replaces inline `marginTop: 1.2rem` */
+  .zine-column p {
+    margin-top: 1.15rem;
+  }
+  .zine-column p:first-child {
+    margin-top: 0;
+  }
+  /* Inline italics — used so frequently they earn a tighter look */
+  .zine-column em {
+    font-style: italic;
+    color: var(--ink);
+  }
+  /* Inline strong used as a paragraph-opener throughout */
+  .zine-column strong {
+    font-weight: 700;
+    letter-spacing: -0.005em;
   }
 }
 
-/* ---- NOISE TEXTURE OVERLAY ---- */
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  z-index: 9999;
-  opacity: 0.025;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
-  background-size: 200px 200px;
-}
+/* ---- (Removed: SVG noise overlay)
+   Previously a 2.5% photocopier-grain texture sat on top of the page.
+   Removed because the aesthetic direction explicitly rules out
+   photocopier grain / halftone overlays — newsprint warmth in this
+   design now comes from the background color alone, not fake material. */
 
 /* ---- TYPOGRAPHY ---- */
 .font-display {
@@ -112,45 +126,87 @@ body::before {
   font-family: 'IBM Plex Mono', 'Courier New', monospace;
 }
 
-/* ---- ZINE LAYOUT ---- */
+/* ---- ZINE LAYOUT ----
+   Measure tuned for IBM Plex Mono at 15px — ~62–66 chars/line on desktop,
+   ~58 on mobile. Mono needs a touch more room than a proportional face
+   to avoid feeling cramped, but not so much that the page becomes a wall. */
 .zine-column {
-  max-width: 680px;
+  max-width: 660px;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 2rem;
-  padding-right: 2rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+@media (min-width: 720px) {
+  .zine-column {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
 
 @media (min-width: 1100px) {
   .zine-column {
-    margin-left: 10%;
-    margin-right: 0;
-    max-width: 620px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 640px;
   }
 }
 
-/* ---- CHAPTER HEADER BARS ---- */
+/* ---- CHAPTER HEADER BARS ----
+   Inverted bar — anchors the top of each chapter. Bleeds to the column
+   gutter so it feels printed-on rather than placed in. The thin turmeric
+   underbar gives it a second tone, prevents it reading as a button. */
 .chapter-bar {
+  position: relative;
   background-color: var(--ink);
   color: var(--newsprint);
-  padding: 0.75rem 2rem;
-  margin-left: -2rem;
-  margin-right: -2rem;
+  padding: 0.85rem 1.5rem;
+  margin-left: -1.5rem;
+  margin-right: -1.5rem;
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.7rem;
-  letter-spacing: 0.25em;
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
+  z-index: 2;
 }
 
-/* ---- SECTION DINGMARKS ---- */
+.chapter-bar::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -3px;
+  height: 2px;
+  background-color: var(--turmeric);
+  opacity: 0.85;
+}
+
+@media (min-width: 720px) {
+  .chapter-bar {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-left: -2rem;
+    margin-right: -2rem;
+  }
+}
+
+/* ---- SECTION DINGMARKS ----
+   Glyph-based section breaks. Centered, generous breathing room above
+   and below — they act as a held breath between thoughts. Letterspacing
+   on multi-glyph runs (∗ ∗ ∗ / ❯ ❯ ❯) gives them more presence as a
+   composed mark. */
 .dingmark {
   display: block;
   text-align: center;
-  font-size: 1.4rem;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.25rem;
   color: var(--turmeric);
-  margin: 2.5rem 0;
-  opacity: 0.7;
-  letter-spacing: 0.5rem;
+  margin: 3rem 0 2.5rem;
+  opacity: 0.75;
+  letter-spacing: 0.6em;
+  line-height: 1;
 }
 
 /* ---- ANNOTATION SYSTEM ---- */
@@ -185,23 +241,24 @@ body::before {
   z-index: 100;
   background-color: var(--ink);
   color: var(--newsprint);
-  padding: 0.6rem 0.9rem;
-  font-family: 'Caveat', cursive;
-  font-size: 0.95rem;
-  line-height: 1.4;
-  width: 280px;
-  max-width: 90vw;
-  pointer-events: auto;
+  padding: 0.8rem 1rem;
+  font-family: 'IBM Plex Mono', 'Courier New', monospace;
+  font-size: 1rem;
+  line-height: 1.5;
+  width: 320px;
+  max-width: 92vw;
+  pointer-events: none;
+  visibility: hidden;
   opacity: 0;
   transform: translateY(4px);
-  transition: opacity 0.15s ease, transform 0.15s ease;
+  transition: opacity 0.18s ease, transform 0.18s ease, visibility 0s linear 0.18s;
   box-shadow: 3px 3px 0 var(--turmeric);
 }
 
 .annotation-tip a {
   color: var(--turmeric);
   text-decoration: underline;
-  font-size: 0.85rem;
+  font-size: 0.95rem;
   display: block;
   margin-top: 0.3rem;
   word-break: break-all;
@@ -210,52 +267,59 @@ body::before {
 .annotation-tip.visible {
   opacity: 1;
   transform: translateY(0);
+  visibility: visible;
+  pointer-events: auto;
+  transition: opacity 0.18s ease, transform 0.18s ease;
 }
 
-/* Right-rail marginalia for wide screens */
-@media (min-width: 1100px) {
-  .annotation-tip {
-    left: auto;
-    right: -320px;
-    top: -4px;
-    width: 280px;
-  }
-}
+/* Annotation tooltip stays anchored below the link on all viewports now
+   that the column is centered (no right-rail to fly into). */
 
-/* ---- PSEUDO-FEELINGS TABLE ---- */
+/* ---- PSEUDO-FEELINGS TABLE ----
+   Three-column translation table. Mono throughout (ledger feel),
+   inverted header bar consistent with chapter-bar, zebra striping
+   in newsprint tint. */
 .pf-table {
   width: 100%;
   border-collapse: collapse;
   font-size: 0.82rem;
-  margin: 2rem 0;
+  line-height: 1.55;
+  margin: 2.5rem 0;
   border: 1.5px solid var(--ink);
 }
 
 .pf-table th {
   background-color: var(--ink);
   color: var(--newsprint);
-  padding: 0.5rem 0.75rem;
+  padding: 0.65rem 0.75rem;
   text-align: left;
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.7rem;
-  letter-spacing: 0.1em;
+  font-size: 0.66rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
   text-transform: uppercase;
 }
 
 .pf-table td {
-  padding: 0.45rem 0.75rem;
-  border-bottom: 1px solid oklch(0.75 0.020 65);
+  padding: 0.55rem 0.75rem;
+  border-bottom: 1px solid oklch(0.78 0.020 65);
   vertical-align: top;
 }
 
+.pf-table tr:last-child td {
+  border-bottom: none;
+}
+
 .pf-table tr:nth-child(even) td {
-  background-color: oklch(0.93 0.012 80);
+  background-color: oklch(0.94 0.012 80);
 }
 
 .pf-table td:first-child {
   font-weight: 700;
   color: var(--vermillion);
-  font-size: 0.8rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.005em;
+  white-space: nowrap;
 }
 
 /* ---- NEEDS TABLE ---- */
@@ -282,39 +346,287 @@ body::before {
   background-color: oklch(0.93 0.012 80);
 }
 
-/* ---- PULL QUOTES ---- */
+/* ---- PULL QUOTES ----
+   Aphoristic interjections — a different speech-act than the body.
+   No background fill (no Substack blockquote look). Italic Playfair,
+   slightly oversized, hung off a turmeric rule that sits above rather
+   than left — the quote reads as something printed across the page
+   rather than indented within it. */
 .pull-quote {
-  border-left: 3px solid var(--turmeric);
-  padding: 0.75rem 1.25rem;
-  margin: 2rem 0;
-  font-family: 'Playfair Display', serif;
-  font-size: 1.1rem;
-  font-style: italic;
-  color: var(--faded);
-  background-color: oklch(0.93 0.015 80);
-}
-
-/* ---- PRACTICE BOX ---- */
-.practice-box {
-  border: 2px solid var(--ink);
-  padding: 1.5rem;
-  margin: 2.5rem 0;
   position: relative;
-  background-color: oklch(0.93 0.012 80);
+  margin: 2.75rem 0 2.5rem;
+  padding: 1.5rem 0 0.25rem;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.35rem;
+  font-weight: 700;
+  font-style: italic;
+  line-height: 1.35;
+  color: var(--ink);
+  letter-spacing: -0.005em;
 }
 
-.practice-box::before {
-  content: 'PRACTICE';
+.pull-quote::before {
+  content: '';
   position: absolute;
-  top: -0.7rem;
+  top: 0;
+  left: 0;
+  width: 3.5rem;
+  height: 2px;
+  background-color: var(--turmeric);
+}
+
+.pull-quote em {
+  font-style: italic;
+  color: var(--ink);
+}
+
+@media (min-width: 720px) {
+  .pull-quote {
+    font-size: 1.5rem;
+    padding-right: 2rem;
+  }
+}
+
+/* ============================================================
+   CALLOUT SYSTEM
+   A small family of typographic callouts, all built off the same
+   base ground. They share:
+     - a warm tonal ground (slightly darker than newsprint, no harsh
+       border-all-the-way-around)
+     - top + bottom hairline rules in ink rather than a full box
+       (less corporate, more printed-zine)
+     - vertical breathing room consistent with pull-quotes
+   Variants then change the typographic register based on the role:
+   the OFNR callout is the marquee, big and structural; the inline
+   variant is a one-liner aphorism; the translation variant pairs
+   two voices; the practice variant gets a tab label.
+   ============================================================ */
+.callout {
+  margin: 2.5rem 0;
+  padding: 1.75rem 0 1.5rem;
+  border-top: 1.5px solid var(--ink);
+  border-bottom: 1.5px solid var(--ink);
+  background-color: transparent;
+  position: relative;
+}
+
+.callout > p {
+  margin-top: 0;
+}
+
+.callout > p + p {
+  margin-top: 1rem;
+}
+
+/* ---- OFNR — the central scaffolding callout ----
+   Four Playfair drop letters do the visual heavy lifting; the gloss
+   beside each is mono so the contrast in register reads cleanly.
+   On wide screens the letters sit in a left rail. On narrow screens
+   the letters float as inline drop-caps so the layout doesn't break.
+   This is one of two big typographic anchors in the booklet — the
+   hero title and this. */
+.callout--ofnr {
+  padding: 2.25rem 0 2rem;
+  border-top-width: 2px;
+  border-bottom-width: 2px;
+}
+
+.callout--ofnr .callout-label {
+  display: block;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.65rem;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: var(--turmeric);
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+}
+
+.callout--ofnr dl {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 1.25rem;
+  row-gap: 1.1rem;
+  margin: 0;
+}
+
+.callout--ofnr dt {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 2.5rem;
+  line-height: 0.9;
+  color: var(--ink);
+  text-align: center;
+  width: 1.2em;
+  align-self: start;
+  letter-spacing: -0.02em;
+}
+
+.callout--ofnr dd {
+  margin: 0;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: var(--ink);
+  align-self: center;
+  padding-top: 0.15rem;
+}
+
+.callout--ofnr dd .term {
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  color: var(--turmeric);
+  display: block;
+  margin-bottom: 0.1rem;
+}
+
+@media (min-width: 720px) {
+  .callout--ofnr dt {
+    font-size: 3.4rem;
+  }
+  .callout--ofnr dd {
+    font-size: 1rem;
+  }
+}
+
+/* ---- Inline aphorism callout ----
+   One-line callouts that punctuate the body. Smaller scale than OFNR,
+   no drop letters — just the rule, the type, and a moment of held
+   silence around it. Used for the §III "request vs demand" line and
+   similar aphoristic moments. */
+.callout--inline {
+  padding: 1.25rem 0 1.1rem;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  margin: 2rem 0;
+}
+
+.callout--inline p {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2rem;
+  line-height: 1.4;
+  font-style: italic;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -0.005em;
+}
+
+.callout--inline em {
+  font-style: italic;
+}
+
+/* ---- Translation callout ----
+   Used in §IV for the inner-critic → resonant-self-witness translations.
+   Two voices: the critic in vermillion italic, the translated voice in
+   ink italic, separated by a turmeric arrow. The vertical rule on the
+   left ties it back to the family. */
+.callout--translation {
+  padding: 1.5rem 1.25rem;
+  border: none;
+  border-left: 3px solid var(--turmeric);
+  background-color: oklch(0.94 0.012 80);
+}
+
+.callout--translation .t-row {
+  font-size: 0.92rem;
+  line-height: 1.7;
+}
+
+.callout--translation .t-row + .t-row {
+  margin-top: 0.9rem;
+  padding-top: 0.9rem;
+  border-top: 1px dashed oklch(0.78 0.020 65);
+}
+
+.callout--translation .t-from {
+  color: var(--vermillion);
+  font-style: italic;
+}
+
+.callout--translation .t-arrow {
+  color: var(--turmeric);
+  font-family: 'IBM Plex Mono', monospace;
+  margin: 0 0.4rem;
+  font-style: normal;
+  font-weight: 500;
+  opacity: 0.85;
+}
+
+.callout--translation .t-to {
+  font-style: italic;
+  color: var(--ink);
+}
+
+/* ---- Margin note callout ----
+   The turmeric-bordered note (appendix critique block). Lower-key
+   than a pull-quote, denser than the body — used for editorial
+   asides that sit beside the main thread. */
+.callout--margin {
+  padding: 1.25rem 1.25rem;
+  border: none;
+  border-left: 2px solid var(--turmeric);
+  background-color: oklch(0.94 0.012 80);
+  margin: 2rem 0;
+}
+
+.callout--margin p {
+  font-size: 0.88rem;
+  line-height: 1.7;
+  color: var(--ink);
+}
+
+/* ---- PRACTICE BOX (now part of the callout family) ---- */
+.practice-box,
+.callout--practice {
+  border: none;
+  border-top: 2px solid var(--ink);
+  border-bottom: 2px solid var(--ink);
+  padding: 2rem 1.25rem 1.5rem;
+  margin: 3rem 0;
+  position: relative;
+  background-color: transparent;
+}
+
+.practice-box::before,
+.callout--practice::before {
+  content: 'Practice';
+  position: absolute;
+  top: -0.65rem;
   left: 1rem;
   background-color: var(--newsprint);
-  padding: 0 0.5rem;
+  padding: 0 0.6rem;
   font-size: 0.65rem;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.28em;
   font-family: 'IBM Plex Mono', monospace;
   color: var(--turmeric);
   font-weight: 700;
+  text-transform: uppercase;
+}
+
+.practice-box p,
+.callout--practice p {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.92rem;
+  line-height: 1.75;
+  margin-top: 0;
+}
+
+.practice-box p + p,
+.callout--practice p + p {
+  margin-top: 0.85rem;
+}
+
+.practice-box .practice-title,
+.callout--practice .practice-title {
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  color: var(--ink);
+  display: block;
+  margin-bottom: 0.5rem;
 }
 
 /* ---- APPENDIX VOCAB ---- */
@@ -332,25 +644,26 @@ body::before {
 }
 
 .vocab-card {
-  border: 1px solid var(--border);
-  padding: 1rem;
-  background-color: oklch(0.94 0.010 80);
+  border: 1px solid oklch(0.78 0.020 65);
+  border-top: 2px solid var(--ink);
+  padding: 1.1rem 1.1rem 1.25rem;
+  background-color: oklch(0.945 0.010 80);
 }
 
 .vocab-card h4 {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.72rem;
-  letter-spacing: 0.15em;
+  font-size: 0.7rem;
+  letter-spacing: 0.18em;
   text-transform: uppercase;
   color: var(--turmeric);
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.6rem;
   font-weight: 700;
 }
 
 .vocab-card p {
-  font-size: 0.8rem;
-  line-height: 1.6;
-  color: var(--faded);
+  font-size: 0.82rem;
+  line-height: 1.7;
+  color: var(--ink);
 }
 
 /* ---- STICKY FOOTER NAV ---- */
@@ -362,37 +675,155 @@ body::before {
   z-index: 50;
   background-color: var(--ink);
   color: var(--newsprint);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0;
-  height: 36px;
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.65rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
   border-top: 2px solid var(--turmeric);
+  font-family: 'IBM Plex Mono', monospace;
 }
 
-.sticky-footer a {
-  color: oklch(0.75 0.012 80);
+.sticky-footer-inner {
+  max-width: 920px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  height: 44px;
+  padding: 0 1rem;
+}
+
+.sticky-footer-cur {
+  font-size: 0.7rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: oklch(0.78 0.012 80);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-shrink: 1;
+  min-width: 0;
+}
+
+.sticky-footer-list {
+  list-style: none;
+  display: flex;
+  align-items: stretch;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  gap: 0;
+  flex-shrink: 0;
+}
+
+.sticky-footer-item {
+  display: flex;
+}
+
+.sticky-footer-item a {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: oklch(0.62 0.012 80);
   text-decoration: none;
-  padding: 0 0.75rem;
+  padding: 0 0.65rem;
   height: 100%;
   display: flex;
   align-items: center;
-  transition: color 0.12s ease, background-color 0.12s ease;
-  border-right: 1px solid oklch(0.25 0.010 50);
+  transition: color 0.15s ease, background-color 0.15s ease;
+  position: relative;
 }
 
-.sticky-footer a:first-child {
-  border-left: 1px solid oklch(0.25 0.010 50);
+.sticky-footer-item a::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: 4px;
+  transform: translateX(-50%);
+  width: 0;
+  height: 2px;
+  background-color: var(--turmeric);
+  transition: width 0.18s ease;
 }
 
-.sticky-footer a:hover,
-.sticky-footer a.active {
+/* Hover label — the section title floats above the numeral on hover/focus.
+   Drawn with ::before from data-title; pointer-events disabled so the
+   anchor itself stays the hit target. */
+.sticky-footer-item a::before {
+  content: attr(data-title);
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%) translateY(4px);
+  background-color: var(--ink);
+  color: var(--newsprint);
+  font-family: 'IBM Plex Mono', monospace;
+  font-style: normal;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  padding: 0.4rem 0.7rem;
+  white-space: nowrap;
+  border-top: 2px solid var(--turmeric);
+  box-shadow: 2px 2px 0 var(--turmeric);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease, transform 0.15s ease;
+  z-index: 51;
+}
+
+.sticky-footer-item a:hover::before,
+.sticky-footer-item a:focus-visible::before {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+.sticky-footer-item a:hover {
+  color: var(--newsprint);
+}
+
+.sticky-footer-item a.active {
   color: var(--turmeric);
-  background-color: oklch(0.10 0.010 50);
+}
+
+.sticky-footer-item a.active::after {
+  width: calc(100% - 0.8rem);
+}
+
+/* On narrow screens, hide the active-chapter label so the
+   numerals get the whole bar. The hover labels still work on touch
+   via :focus-visible after a tap; not relied upon for primary nav. */
+@media (max-width: 640px) {
+  .sticky-footer-cur {
+    display: none;
+  }
+  .sticky-footer-inner {
+    justify-content: center;
+    padding: 0 0.5rem;
+  }
+  .sticky-footer-item a {
+    font-size: 0.95rem;
+    padding: 0 0.5rem;
+  }
+  /* Anchor the hover labels to the viewport edges for the first/last
+     items so they don't get clipped at the screen edge. */
+  .sticky-footer-item:first-child a::before {
+    left: 0.5rem;
+    transform: translateY(4px);
+  }
+  .sticky-footer-item:first-child a:hover::before,
+  .sticky-footer-item:first-child a:focus-visible::before {
+    transform: translateY(0);
+  }
+  .sticky-footer-item:last-child a::before {
+    left: auto;
+    right: 0.5rem;
+    transform: translateY(4px);
+  }
+  .sticky-footer-item:last-child a:hover::before,
+  .sticky-footer-item:last-child a:focus-visible::before {
+    transform: translateY(0);
+  }
 }
 
 /* ---- HERO ---- */
@@ -423,27 +854,50 @@ body::before {
   line-height: 1.6;
 }
 
-/* ---- CHAPTER NUMBER (ghosted) ---- */
+/* ---- CHAPTER NUMBER (ghosted)
+   Large Playfair numeral that lives behind the chapter, like a press
+   watermark. Sits *behind* the chapter-bar (z-index: 1), low opacity,
+   pulled to the right edge so it never crashes into copy. */
 .chapter-ghost {
   font-family: 'Playfair Display', serif;
-  font-size: clamp(6rem, 20vw, 14rem);
+  font-size: clamp(7rem, 22vw, 15rem);
   font-weight: 900;
+  font-style: italic;
   color: var(--ink);
-  opacity: 0.04;
-  line-height: 1;
+  opacity: 0.045;
+  line-height: 0.85;
   pointer-events: none;
   user-select: none;
   position: absolute;
-  right: -0.5rem;
-  top: -1rem;
+  right: -1rem;
+  top: 0.5rem;
+  z-index: 1;
+  letter-spacing: -0.04em;
 }
 
-/* ---- SECTION WRAPPER ---- */
+/* ---- SECTION WRAPPER ----
+   Each chapter sits in one of these. The top border is the page-turn
+   cue; the generous padding (more on desktop) gives each chapter room
+   to feel like a fresh page being entered. */
 .section-wrapper {
   position: relative;
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
   border-top: 1px solid oklch(0.80 0.018 65);
+}
+
+@media (min-width: 720px) {
+  .section-wrapper {
+    padding-top: 4.5rem;
+    padding-bottom: 4.5rem;
+  }
+}
+
+/* Body content immediately after a chapter-bar — give the bar room
+   to breathe rather than crashing the first paragraph into it. */
+.section-wrapper .chapter-bar + div,
+.section-wrapper .chapter-bar + p {
+  margin-top: 2.5rem;
 }
 
 /* ---- SCROLL FADE IN ---- */
@@ -475,7 +929,7 @@ body::before {
 
 /* ---- BOTTOM PADDING for sticky footer ---- */
 .page-content {
-  padding-bottom: 60px;
+  padding-bottom: 72px;
 }
 
 /* ---- COVER DECORATIVE LINE ---- */

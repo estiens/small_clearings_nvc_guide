@@ -68,7 +68,15 @@ The reason it matters that _attacked_ is not a feeling has nothing to do with gr
 
 Compare _I feel like you don't care_ to _I am hurt, and I am longing to feel like I matter to you._
 
-The accurate sentence is harder to say. It's also the one the other person can't easily defend against; you aren't delivering a verdict for them to answer, you're just reporting. Whether they meet the longing or not is a separate question. The bigger thing the sentence does isn't to them at all — it's to the speaker. The body that delivers a finding about someone's character sits in a different state than the body that names its own hurt out loud. We come back to this.
+The second sentence is harder to say, and harder to defend against. You aren't delivering a verdict for them to answer; you're closer to reporting. The sentence also does something to the speaker — quietly, in the body, before anyone has replied. The body that delivers a finding about someone's character sits in a different state than the body that names its own hurt out loud.
+
+Now look at that second sentence again. _I am longing to feel like I matter to you._ Notice what just happened. "Feel like I matter to you" is doing the same trick "feel attacked" was doing one level deeper — naming a story about what the other person is or isn't doing, in language that sounds like a feeling. The body still isn't quite in it.
+
+The form gets you closer in one pass. It doesn't get you all the way. What it does is hand the other person something they can meet rather than something they have to defend against. That opens the next move.
+
+Imagine the partner, instead of getting defensive, picks up the small opening and asks: _okay — what would I be doing differently if you felt like you mattered to me, and what would that actually feel like in your body?_ Now the dig keeps going. "Feel like I matter to you" might unpack into _I want you to ask about my day before you start telling me about yours_, or _I want to know I'm in your plans for the weekend before Friday afternoon_, or _I want you to put your phone down when I'm talking._ The body-feeling underneath might be relief, or steadiness, or a small quiet joy at being met. It might just be the absence of the low buzz of resentment that has been running for a year.
+
+Both of you are doing the practice together now. Neither one is on the stand.
 
 #divider
 

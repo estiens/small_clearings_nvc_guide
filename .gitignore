@@ -11,8 +11,9 @@
 Thumbs.db
 ehthumbs.db
 
-# Compiled output — compile with: typst compile typst/nvc_zine.typ
+# Compiled output — compile with: typst compile typst/nvc_zine.typ nvc_zine.pdf
 *.pdf
+!/nvc_zine.pdf
 
 # Website build artifacts
 website/node_modules/

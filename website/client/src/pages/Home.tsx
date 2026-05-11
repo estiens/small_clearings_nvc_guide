@@ -553,11 +553,35 @@ export default function Home() {
                 I matter to you.</em>
               </p>
               <p style={{ marginTop: "1.2rem" }}>
-                The accurate sentence is harder to say. It's also the one the other person can't easily defend
-                against; you aren't delivering a verdict for them to answer, you're just reporting. Whether they
-                meet the longing or not is a separate question. The bigger thing the sentence does isn't to them
-                at all — it's to the speaker. The body that delivers a finding about someone's character sits in
-                a different state than the body that names its own hurt out loud.
+                The second sentence is harder to say, and harder to defend against. You aren't delivering a
+                verdict for them to answer; you're closer to reporting. The sentence also does something to the
+                speaker — quietly, in the body, before anyone has replied. The body that delivers a finding
+                about someone's character sits in a different state than the body that names its own hurt out
+                loud.
+              </p>
+              <p style={{ marginTop: "1.2rem" }}>
+                Now look at that second sentence again. <em>I am longing to feel like I matter to you.</em>{" "}
+                Notice what just happened. "Feel like I matter to you" is doing the same trick "feel attacked"
+                was doing, one level deeper — naming a story about what the other person is or isn't doing, in
+                language that sounds like a feeling. The body still isn't quite in it.
+              </p>
+              <p style={{ marginTop: "1.2rem" }}>
+                The form gets you closer in one pass. It doesn't get you all the way. What it does is hand the
+                other person something they can meet rather than something they have to defend against. That
+                opens the next move.
+              </p>
+              <p style={{ marginTop: "1.2rem" }}>
+                Imagine the partner, instead of getting defensive, picks up the small opening and asks:{" "}
+                <em>okay — what would I be doing differently if you felt like you mattered to me, and what
+                would that actually feel like in your body?</em> Now the dig keeps going. "Feel like I matter
+                to you" might unpack into <em>I want you to ask about my day before you start telling me
+                about yours</em>, or <em>I want to know I'm in your plans for the weekend before Friday
+                afternoon</em>, or <em>I want you to put your phone down when I'm talking.</em> The
+                body-feeling underneath might be relief, or steadiness, or a small quiet joy at being met. It
+                might just be the absence of the low buzz of resentment that has been running for a year.
+              </p>
+              <p style={{ marginTop: "1.2rem" }}>
+                Both of you are doing the practice together now. Neither one is on the stand.
               </p>
             </div>
             <div className="dingmark">∗</div>
@@ -703,13 +727,30 @@ export default function Home() {
                 tend to use them as armor, and this one is no exception. The four moves are scaffolding. The
                 scaffolding is supposed to come down once the building stands up.
               </p>
-              <div style={{ margin: "2rem 0", padding: "1.25rem", border: "1.5px solid var(--ink)", background: "oklch(0.93 0.012 80)" }}>
-                <p style={{ fontFamily: "IBM Plex Mono, monospace", fontSize: "0.8rem", lineHeight: 2 }}>
-                  <strong style={{ color: "var(--turmeric)" }}>O</strong>bservation — what a camera would have recorded.<br />
-                  <strong style={{ color: "var(--turmeric)" }}>F</strong>eeling — what is in your body, not what they did to you.<br />
-                  <strong style={{ color: "var(--turmeric)" }}>N</strong>eed — the universal hunger underneath.<br />
-                  <strong style={{ color: "var(--turmeric)" }}>R</strong>equest — concrete enough to say yes or no to. If they can't say no, it was a demand.
-                </p>
+              <div className="callout callout--ofnr" role="group" aria-label="OFNR — the four moves of NVC speaking">
+                <span className="callout-label">The four moves</span>
+                <dl>
+                  <dt aria-hidden="true">O</dt>
+                  <dd>
+                    <span className="term">Observation</span>
+                    what a camera would have recorded.
+                  </dd>
+                  <dt aria-hidden="true">F</dt>
+                  <dd>
+                    <span className="term">Feeling</span>
+                    what is in your body, not what they did to you.
+                  </dd>
+                  <dt aria-hidden="true">N</dt>
+                  <dd>
+                    <span className="term">Need</span>
+                    the universal hunger underneath.
+                  </dd>
+                  <dt aria-hidden="true">R</dt>
+                  <dd>
+                    <span className="term">Request</span>
+                    concrete enough to say yes or no to. If they can't say no, it was a demand.
+                  </dd>
+                </dl>
               </div>
               <p>
                 <strong>Observation.</strong> What actually happened. Not what it means. Not who it makes them.
@@ -735,10 +776,12 @@ export default function Home() {
             <p>
               <strong>Request, and the thing recovery folks already know.</strong>
             </p>
-            <p style={{ marginTop: "1rem" }}>
-              A request is something the other person can say no to. If no isn't actually available to them,
-              it was a demand the whole time.
-            </p>
+            <div className="callout callout--inline">
+              <p>
+                A request is something the other person can say no to. If no isn't actually available to
+                them, it was a demand the whole time.
+              </p>
+            </div>
             <p style={{ marginTop: "1.2rem" }}>
               Most people who grew up in households where directly asking for things was dangerous have spent
               decades issuing demands disguised as requests, or hints disguised as requests, or — most painfully
@@ -883,14 +926,21 @@ export default function Home() {
               Self-NVC, practiced over time, slowly translates the language of that interior monologue into something
               else. The critic doesn't get silenced; it gets rendered in different grammar.
             </p>
-            <div style={{ margin: "1.5rem 0", padding: "1rem 1.25rem", borderLeft: "3px solid var(--ink)", background: "oklch(0.93 0.012 80)" }}>
-              <p style={{ fontSize: "0.85rem", lineHeight: 2 }}>
-                <em style={{ color: "var(--vermillion)" }}>You are such an idiot</em> becomes{" "}
-                <em>something in me is mortified, and I am longing for the thing not to have happened.</em><br />
-                <em style={{ color: "var(--vermillion)" }}>Why did you say that</em> becomes{" "}
-                <em>I am embarrassed, and what I needed in that moment was to feel competent, and I did not.</em><br />
-                <em style={{ color: "var(--vermillion)" }}>Pull yourself together</em> becomes{" "}
-                <em>something in me is exhausted, and I am longing for a few hours of not having to perform anything.</em>
+            <div className="callout callout--translation">
+              <p className="t-row">
+                <em className="t-from">You are such an idiot</em>
+                <span className="t-arrow">→</span>
+                <em className="t-to">something in me is mortified, and I am longing for the thing not to have happened.</em>
+              </p>
+              <p className="t-row">
+                <em className="t-from">Why did you say that</em>
+                <span className="t-arrow">→</span>
+                <em className="t-to">I am embarrassed, and what I needed in that moment was to feel competent, and I did not.</em>
+              </p>
+              <p className="t-row">
+                <em className="t-from">Pull yourself together</em>
+                <span className="t-arrow">→</span>
+                <em className="t-to">something in me is exhausted, and I am longing for a few hours of not having to perform anything.</em>
               </p>
             </div>
             <p>
@@ -1087,11 +1137,14 @@ export default function Home() {
                 <Annotation links={A.moore}>Alan Moore</Annotation> is doing when he points out that{" "}
                 <em>to cast a spell is simply to spell, to manipulate words, to change people's consciousness,
                 and a grimoire is just a grammar.</em> What{" "}
-                <Annotation links={A.raw}>Robert Anton Wilson</Annotation> is doing when he calls the verb{" "}
-                <em>to be</em> a deity mode of speech — the verb that smuggles in a god's-eye view of what
-                something or someone permanently is. Some sentences don't describe the world; they enact something
-                in it. They marry. They convict. They bless. They curse.{" "}
-                <em>I now pronounce you</em> is not a description of the event. It is the event happening.
+                D. David Bourland Jr. and E.W. Kellogg III were diagnosing when they called the verb{" "}
+                <em>to be</em> a <em>deity mode of speech</em> — a verb that, in their phrase, lets{" "}
+                <em>even the most ignorant transform their opinions magically into god-like pronouncements on
+                the nature of things.</em>{" "}
+                <Annotation links={A.raw}>Robert Anton Wilson</Annotation> popularized the line later in coarser
+                form. Some sentences don't describe the world; they enact something in it. They marry. They
+                convict. They bless. They curse. <em>I now pronounce you</em> is not a description of the event.
+                It is the event happening.
               </p>
               <p style={{ marginTop: "1.2rem" }}>
                 The pull toward the is-of-identity is mostly that fixing someone in place — even as an enemy —
@@ -1125,17 +1178,21 @@ export default function Home() {
             </div>
             <div className="dingmark">∗</div>
             <p>
-              That's the working magic. It's structurally adjacent to the move{" "}
-              <Annotation links={A.raw}>D. David Bourland Jr.</Annotation> coded as <Annotation links={A.eprime}>E-Prime</Annotation> — English written
-              without <em>is, are, was, were, be, been, being</em> at all, on the theory that purging the verb
-              forces the speaker to mark which claims are observation and which are inference.{" "}
+              That's the working magic. It's structurally adjacent to the move Bourland later coded as{" "}
+              <Annotation links={A.eprime}>E-Prime</Annotation> — English written without{" "}
+              <em>is, are, was, were, be, been, being</em> at all, on the theory that purging the verb forces
+              the speaker to mark which claims are observation and which are inference.{" "}
               <Annotation links={A.korzybski}>Alfred Korzybski</Annotation> had pointed at the larger problem
               since 1933, calling it the <em>is of identity</em> and arguing it ran from interpersonal conflict
-              to nation-state war.{" "}
-              <Annotation links={A.rosenberg}>Marshall Rosenberg</Annotation> appears to have arrived at the
-              small, lived version of the same problem from a different direction — clinical work, civil-rights
-              organizing, the practice of mediating actual fights between actual people. The convergence is
-              striking. Someone, eventually, should write the comparative essay.
+              to nation-state war. His version was <em>the map is not the territory</em> — the label is not the
+              thing, the story is not the person. Korzybski also named what happens in the gap before language
+              closes around an experience the <em>neurological delay</em>, and treated cultivating that
+              pre-verbal awareness as the central aim of his training. NVC's pause is the same gap, arrived at
+              from the other direction.{" "}
+              <Annotation links={A.rosenberg}>Marshall Rosenberg</Annotation> probably didn't read Korzybski
+              directly, and the independence makes the convergence more interesting — Rosenberg arrived at the
+              small, lived version through clinical work, civil-rights organizing, and the practice of mediating
+              actual fights between actual people. Someone, eventually, should write the comparative essay.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               The reason this matters is that the language isn't just describing the speaker's interior. It's
@@ -1190,8 +1247,9 @@ export default function Home() {
               <Annotation links={A.ifs}>Internal Family Systems</Annotation> makes from one direction, that{" "}
               <Annotation links={A.polyvagal}>polyvagal-informed somatic work</Annotation> makes from another,
               that{" "}
-              <Annotation links={A.buddhismIFS}>Buddhist parts-work</Annotation> makes from a third. NVC
-              translates between them with a small, portable grammar.
+              <Annotation links={A.buddhismIFS}>Buddhist parts-work</Annotation> — what the tradition calls{" "}
+              <em>anatta</em>, no-self — makes from a third. NVC translates between them with a small, portable
+              grammar.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               Treat NVC less as a tradition of its own and more as a passage between rooms — between IFS and
@@ -1299,11 +1357,9 @@ export default function Home() {
           </FadeIn>
 
           <FadeIn delay={100}>
-            <div className="practice-box" style={{ marginTop: "3rem" }}>
-              <p style={{ fontFamily: "IBM Plex Mono, monospace", fontSize: "0.85rem", lineHeight: 1.8 }}>
-                <strong>Smallest Possible Practice</strong>
-              </p>
-              <p style={{ marginTop: "0.75rem", fontSize: "0.85rem", lineHeight: 1.8 }}>
+            <div className="practice-box">
+              <span className="practice-title">Smallest possible practice</span>
+              <p>
                 Next time you notice the sentence <em>"I feel like you…"</em> leave your mouth or your mind, stop.
                 Place one hand on your sternum. Ask: <em>What is actually in my body right now?</em> Name one real
                 feeling and one need out loud to yourself before you speak to the other person. That stop is most
@@ -1390,8 +1446,8 @@ export default function Home() {
           </FadeIn>
 
           <FadeIn delay={150}>
-            <div style={{ marginTop: "2rem", padding: "1.25rem", border: "1.5px solid var(--turmeric)", background: "oklch(0.93 0.012 80)" }}>
-              <p style={{ fontSize: "0.82rem", lineHeight: 1.75 }}>
+            <div className="callout callout--margin" style={{ marginTop: "2rem" }}>
+              <p>
                 <strong>A note.</strong> This is the standard CNVC inventory, and it has been critiqued — most
                 forcefully by{" "}
                 <Annotation links={A.roxy}>Roxy Manning</Annotation> and the liberatory NVC lineages — for what
@@ -1414,6 +1470,17 @@ export default function Home() {
                 dives curated to extend the ideas in each passage. Links open in a new tab.
               </p>
               <p style={{ marginTop: "0.75rem" }}>
+                Source &amp; printable PDF:{" "}
+                <a
+                  href="https://github.com/estiens/small_clearings_nvc_guide"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ color: "var(--turmeric)" }}
+                >
+                  github.com/estiens/small_clearings_nvc_guide
+                </a>
+              </p>
+              <p style={{ marginTop: "0.5rem" }}>
                 CC BY 4.0 · creativecommons.org/licenses/by/4.0
               </p>
             </div>
