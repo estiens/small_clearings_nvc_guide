@@ -1375,6 +1375,20 @@ export default function Home() {
               yet decided it is safe can retraumatize.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
+              Recognition first: shutdown is not the same as quiet. A regulated quiet has eye contact,
+              present-time tracking, the small movements of a face still receiving the room. Shutdown looks
+              blanker — eyes that have gone slightly past you, breathing slowed below what the conversation
+              calls for, a body sitting too still. <em>I'm fine</em> in the wrong key.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              What you do then is not what your urge says. The urge says: ask another question, redirect, make
+              a joke, fix it. Don't. Lower your own volume. Slow your breath visibly. Soften your face. If you
+              can be making tea or walking, be doing that — it gives the body in the room something to track
+              that isn't a question. And track your own activation: their offline often spikes yours, and the
+              work is not to become two dysregulated bodies. Your staying steady is most of what you have to
+              offer. Sometimes the visit is that. They go home a little safer than they came in. Enough.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
               Trauma-informed NVC, by now, is its own sub-tradition — with its own teachers and its own corrections
               to the original packaging.{" "}
               <Annotation links={A.sarahPeyton}>Sarah Peyton</Annotation>'s work on the resonating self-witness
@@ -1393,6 +1407,13 @@ export default function Home() {
               feelings-and-needs script in that context can ask someone to perform emotional disclosure in a
               format shaped by white middle-class norms — in the same moment their anger or numbness is the most
               accurate information in the room.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              The four-step assumes a body that can find a feeling and ask for a need. When the body is frozen,
+              exhausted, in sympathetic survival, or being asked to translate itself into a vocabulary not its
+              own, the work is upstream of language. The trauma-informed lineage is the part of the field that
+              has been pointing this out, refining the practice for it, and refusing to let <em>technique</em>{" "}
+              stand in for <em>enough safety to use the technique.</em> That's where to go next.
             </p>
             <div className="pull-quote" style={{ marginTop: "2rem" }}>
               Most of what you have to do is not leave.
