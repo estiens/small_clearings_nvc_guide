@@ -80,7 +80,7 @@
   body {
     @apply bg-background text-foreground;
     font-family: 'IBM Plex Mono', 'Courier New', monospace;
-    font-size: 15px;
+    font-size: 16px;
     line-height: 1.78;
     color: var(--ink);
     background-color: var(--newsprint);
@@ -134,14 +134,14 @@
   max-width: 660px;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 @media (min-width: 720px) {
   .zine-column {
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
   }
 }
 
@@ -161,9 +161,9 @@
   position: relative;
   background-color: var(--ink);
   color: var(--newsprint);
-  padding: 0.85rem 1.5rem;
-  margin-left: -1.5rem;
-  margin-right: -1.5rem;
+  padding: 0.85rem 1rem;
+  margin-left: -1rem;
+  margin-right: -1rem;
   font-family: 'IBM Plex Mono', monospace;
   font-size: 0.72rem;
   font-weight: 500;
@@ -185,10 +185,10 @@
 
 @media (min-width: 720px) {
   .chapter-bar {
-    padding-left: 2rem;
-    padding-right: 2rem;
-    margin-left: -2rem;
-    margin-right: -2rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    margin-left: -1.25rem;
+    margin-right: -1.25rem;
   }
 }
 
