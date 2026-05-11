@@ -1,5 +1,5 @@
 // Section 07 — Conclusion
-#import "../utils.typ": divider, section-heading, practice-box, pullquote, dropcap
+#import "../utils.typ": divider, section-heading, practice-box, practice-emphasis, pullquote, dropcap
 
 #section-heading("VII", "Conclusion")
 
@@ -45,5 +45,9 @@ What earns the practice its keep, beyond the operative fact that it works, is wh
   #v(0.5em)
 
   Next time you notice the sentence _"I feel like you…"_ leave your mouth or your mind, stop. Place one hand on your sternum. Ask: _What is actually in my body right now?_ Name one real feeling and one need out loud to yourself before you speak to the other person. That stop is most of the work.
+
+  #v(0.7em)
+
+  #practice-emphasis[The Pause Is The Practice]
 ]
 
