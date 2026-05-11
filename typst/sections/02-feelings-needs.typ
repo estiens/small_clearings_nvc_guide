@@ -70,11 +70,11 @@ Compare _I feel like you don't care_ to _I am hurt, and I am longing to feel lik
 
 The second sentence is harder to say, and harder to defend against. You aren't delivering a verdict for them to answer; you're closer to reporting. The sentence also does something to the speaker — quietly, in the body, before anyone has replied. The body that delivers a finding about someone's character sits in a different state than the body that names its own hurt out loud.
 
-Now look at that second sentence again. _I am longing to feel like I matter to you._ Notice what just happened. "Feel like I matter to you" is doing the same trick "feel attacked" was doing one level deeper — naming a story about what the other person is or isn't doing, in language that sounds like a feeling. The body still isn't quite in it.
+Now look at that second sentence again. _I am longing to feel like I matter to you._ Notice what just happened. _Feel like I matter to you_ is doing the same trick _feel attacked_ was doing one level deeper — naming a story about what the other person is or isn't doing, in language that sounds like a feeling. The body still isn't quite in it.
 
 The form gets you closer in one pass. It doesn't get you all the way. What it does is hand the other person something they can meet rather than something they have to defend against. That opens the next move.
 
-Imagine the partner, instead of getting defensive, picks up the small opening and asks: _okay — what would I be doing differently if you felt like you mattered to me, and what would that actually feel like in your body?_ Now the dig keeps going. "Feel like I matter to you" might unpack into _I want you to ask about my day before you start telling me about yours_, or _I want to know I'm in your plans for the weekend before Friday afternoon_, or _I want you to put your phone down when I'm talking._ The body-feeling underneath might be relief, or steadiness, or a small quiet joy at being met. It might just be the absence of the low buzz of resentment that has been running for a year.
+Imagine the partner, instead of getting defensive, picks up the small opening and asks: _okay — what would I be doing differently if you felt like you mattered to me, and what would that actually feel like in your body?_ Now the dig keeps going. _Feel like I matter to you_ might unpack into _I want you to ask about my day before you start telling me about yours_, or _I want to know I'm in your plans for the weekend before Friday afternoon_, or _I want you to put your phone down when I'm talking._ The body-feeling underneath might be relief, or steadiness, or a small quiet joy at being met. It might just be the absence of the low buzz of resentment that has been running for a year.
 
 Both of you are doing the practice together now. Neither one is on the stand.
 
@@ -99,7 +99,7 @@ The need is the _why_ beneath the feeling. You feel hollow because something is 
   [HONESTY], [clarity, trust, transparency, authenticity],
   [MEANING], [purpose, contribution, growth, understanding, making a difference],
   [ACKNOWLEDGMENT], [appreciation, recognition, to be valued],
-  [WELLBEING], [rest, food, movement, shelter, touch, health],
+  [PHYSICAL WELLBEING], [rest, food, movement, shelter, touch, health],
   [PLAY], [joy, humor, lightness, spontaneity],
   [PEACE], [ease, quiet, order, harmony, space to breathe],
   [INTEGRATION], [to grieve, to process, to make sense of loss],
@@ -121,7 +121,7 @@ Sometimes the anger underneath is fear — of losing the connection, or that tur
 
 And sometimes none of that. Sometimes the harm detector is just doing the job it was built for, and the wrong move is talking yourself out of it before you've heard it through.
 
-There's a coarser cut underneath all of this. Not what the anger is made of — what it's for.
+There's a coarser cut underneath all of this. Not what the anger is made of — what it's for. Neither of the two that follow is a moral category — they're different animals asking for different things from the practice.
 
 Some anger is a tantrum. The wall-punching volatility of an adult who can't tolerate the word _no_, taking all the oxygen in the room, exhausting, repetitive, fundamentally an attempt to control the environment by terrifying it. Most of us have run this at least once. Many of us grew up with someone who ran it most days.
 

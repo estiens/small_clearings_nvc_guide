@@ -363,8 +363,8 @@ export default function Home() {
             <p className="hero-subtitle">Language That Transforms</p>
             <p className="hero-tagline">
                 A Field Guide to Nonviolent Communication<br />
-                for skeptics, cynics, freaks,<br />
-                and curious newcomers
+                for skeptics, cynics,<br />
+                and the emotionally exhausted
               </p>
               <div className="cover-rule" style={{ marginTop: "2.5rem" }} />
               <div style={{ marginTop: "1.5rem", paddingTop: "1rem" }}>
@@ -405,7 +405,7 @@ export default function Home() {
               <p style={{ marginTop: "1.2rem" }}>
                 Or it was the conversation in your own head at 3 AM. The one with the boss. Or the parent.
                 Or the version of yourself from eight years ago who is still, somehow, on the witness stand.
-                That one doesn't end. It just goes underground for a while.
+                That one doesn't end.
               </p>
               <p style={{ marginTop: "1.2rem" }}>
                 People who try to deploy{" "}
@@ -503,29 +503,29 @@ export default function Home() {
                 <thead>
                   <tr>
                     <th>Pseudo-feeling</th>
-                    <th>What's in the body</th>
+                    <th>What's actually in the body</th>
                     <th>Needs underneath</th>
                   </tr>
                 </thead>
                 <tbody>
                   {[
-                    ["Ignored", "lonely, scared, deflated", "mattering, contact"],
+                    ["Ignored", "lonely, scared, deflated", "mattering, inclusion, contact"],
                     ["Manipulated", "angry, helpless, tense", "autonomy, clarity, safety"],
                     ["Betrayed", "devastated, furious, disoriented", "trust, consistency, care"],
                     ["Disrespected", "humiliated, small, angry", "dignity, belonging, to be seen"],
                     ["Abandoned", "terrified, bereft, hollow", "connection, consistency, security"],
                     ["Attacked", "scared, tense, raw", "safety, respect, protection"],
-                    ["Rejected", "crushed, ashamed, small", "belonging, mattering"],
+                    ["Rejected", "crushed, ashamed, small", "belonging, acceptance, mattering"],
                     ["Used", "resentful, tired, bitter", "reciprocity, care, to be seen"],
                     ["Dismissed", "stung, frustrated, small", "to be heard, respect, mattering"],
-                    ["Controlled", "furious, closed, restless", "autonomy, trust"],
-                    ["Judged", "ashamed, small", "acceptance, safety, to be seen"],
+                    ["Controlled", "furious, closed, restless", "autonomy, sovereignty, trust"],
+                    ["Judged", "ashamed, defensive, small", "acceptance, safety, to be seen"],
                     ["Threatened", "scared, braced, tense", "safety, protection, sovereignty"],
                     ["Taken for granted", "resentful, invisible, tired", "acknowledgment, reciprocity, mattering"],
                     ["Violated", "disgusted, scared, raw", "respect, safety, bodily sovereignty"],
                     ["Blamed", "defensive, tight, small", "fairness, understanding, to be seen"],
                     ["Deceived", "furious, sick, disoriented", "honesty, trust, clarity"],
-                    ["Excluded", "lonely, ashamed, cold", "belonging, connection, inclusion"],
+                    ["Excluded", "lonely, ashamed, cold", "belonging, inclusion, connection"],
                     ["Mocked", "humiliated, hot, closed", "dignity, safety, respect"],
                   ].map(([pf, body, needs]) => (
                     <tr key={pf}>
@@ -628,7 +628,7 @@ export default function Home() {
                   ["HONESTY", "clarity, trust, transparency, authenticity"],
                   ["MEANING", "purpose, contribution, growth, understanding, making a difference"],
                   ["ACKNOWLEDGMENT", "appreciation, recognition, to be valued"],
-                  ["WELLBEING", "rest, food, movement, shelter, touch, health"],
+                  ["PHYSICAL WELLBEING", "rest, food, movement, shelter, touch, health"],
                   ["PLAY", "joy, humor, lightness, spontaneity"],
                   ["PEACE", "ease, quiet, order, harmony, space to breathe"],
                   ["INTEGRATION", "to grieve, to process, to make sense of loss"],
@@ -681,6 +681,8 @@ export default function Home() {
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               There's a coarser cut underneath all of this. Not what the anger is made of — what it's for.
+              Neither of the two that follow is a moral category — they're different animals asking for different
+              things from the practice.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               Some anger is a tantrum. The wall-punching volatility of an adult who can't tolerate the word no,
@@ -803,11 +805,12 @@ export default function Home() {
                 reach for one of these, the prosecution has already started; there's no observation left in the sentence.
               </p>
               <p style={{ marginTop: "1.2rem" }}>
-                <strong>Feeling and need.</strong> Feelings live in the body. If the sentence has the other person
-                in it, you're not yet at the feeling. The need is universal. Not the version contingent on this
-                specific person doing this specific thing. The need beneath <em>I want you to text me back faster</em>{" "}
-                is probably contact, mattering, or care. The particular person is the occasion. The hunger
-                underneath them is older than they are.
+                <strong>Feeling and need.</strong> <em>Feelings live in the body.</em> If the sentence has the
+                other person in it, you're not yet at the feeling. <em>The need is universal.</em> Not the version
+                contingent on this specific person doing this specific thing. The need beneath{" "}
+                <em>I want you to text me back faster</em> is probably <em>contact</em>, <em>mattering</em>, or{" "}
+                <em>care</em>. The particular person is the occasion. The hunger underneath them is older than
+                they are.
               </p>
             </div>
             <div className="dingmark">∗</div>
@@ -1144,7 +1147,7 @@ export default function Home() {
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               <Annotation links={A.sarahPeyton}>Sarah Peyton</Annotation> calls the part of you that learns to do
-              this the <em>Resonating Self-Witness.</em> It is a part you are deliberately cultivating, in the same
+              this the <em>Resonating Self-Witness</em>. It is a part you are deliberately cultivating, in the same
               way one might cultivate a meditation practice or a dance form — slowly, by repetition, with no
               measurable progress on most days and a different person at the end of a year.
             </p>
@@ -1323,7 +1326,7 @@ export default function Home() {
             <p style={{ marginTop: "1.2rem" }}>
               This is also why an empathic listener whose own body is dysregulated — anxious, judgmental, in a
               hurry, performing helpfulness — won't produce the effect, no matter how technically correct their
-              sentences are. The dead-eyed therapist demo voice you can hear in any badly-trained role-play is
+              sentences are. The dead-eyed therapist demo voice you can hear in any badly trained role-play is
               what happens when the technique is in place without the body underneath it.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
@@ -1391,7 +1394,7 @@ export default function Home() {
             <p style={{ marginTop: "1.2rem" }}>
               Trauma-informed NVC, by now, is its own sub-tradition — with its own teachers and its own corrections
               to the original packaging.{" "}
-              <Annotation links={A.sarahPeyton}>Sarah Peyton</Annotation>'s work on the resonating self-witness
+              <Annotation links={A.sarahPeyton}>Sarah Peyton</Annotation>'s work on the Resonating Self-Witness
               and the brain's response to warm misreading.{" "}
               <Annotation links={A.kathleen}>Kathleen Macferran</Annotation> on the load-bearing constraint that
               a conversation moves at the pace of nervous-system digestion, not the pace of the most articulate
@@ -1492,7 +1495,7 @@ export default function Home() {
               since 1933, calling it the <em>is of identity</em> and arguing it ran from interpersonal conflict
               to nation-state war. His version was <em>the map is not the territory</em> — the label is not the
               thing, the story is not the person. Korzybski also named what happens in the gap before language
-              closes around an experience the <em>neurological delay</em>, and treated cultivating that
+              closes around an experience — the <em>neurological delay</em> — and treated cultivating that
               pre-verbal awareness as the central aim of his training. NVC's pause is the same gap, arrived at
               from the other direction.{" "}
               <Annotation links={A.rosenberg}>Marshall Rosenberg</Annotation> probably didn't read Korzybski
@@ -1668,14 +1671,11 @@ export default function Home() {
             </div>
             <div className="dingmark">∗</div>
             <p>
-              For some of us, NVC can re-install the patterning in a more spiritualized costume. The over-listener
-              who never gets a need on the table. The seminar-trained adult who confuses self-abandonment with
-              compassion and starts teaching the confusion to others. The person who learned, somewhere along the
-              way, that wanting things gets you punished, and now has been given a beautiful new vocabulary in
-              which to keep not-wanting things. If you recognize yourself anywhere in that paragraph: the work,
-              for you, is probably less in the listening and more in the asking. Give yourself permission to make
-              demands the practice would technically prefer you frame as requests. Sometimes the request can wait.
-              The asking cannot.
+              For the readers who recognized themselves in the codependent version of the trap — the over-listener,
+              the swallower of needs in the room, the seminar-trained adult who has been given a beautiful new
+              vocabulary in which to keep not-wanting things — the work is probably less in the listening and more
+              in the asking. Give yourself permission to make demands the practice would technically prefer you
+              frame as requests. Sometimes the request can wait. The asking cannot.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               The point is connection. Not compliance. Not the right sentences. Not getting your partner to come
@@ -1710,10 +1710,10 @@ export default function Home() {
               shifts over years is whether the grammar is becoming more available — whether the hurt is getting
               faster at finding its words before the verdict gets to the door.
             </p>
-            <div className="pull-quote" style={{ marginTop: "2rem" }}>
+            <p style={{ marginTop: "1.2rem" }}>
               That's all the shift is. The hurt getting faster at finding its words.
-            </div>
-            <p>
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
               What earns the practice its keep, beyond the operative fact that it works, is what kind of stance
               toward another person it requires. NVC is one of the few practices currently available to ordinary
               humans that takes seriously the idea that the person across from you has an interior that is real,
@@ -1725,12 +1725,15 @@ export default function Home() {
 
           <FadeIn delay={100}>
             <div className="practice-box">
-              <span className="practice-title">Smallest possible practice</span>
+              <span className="practice-title">Smallest Possible Practice</span>
               <p>
-                Next time you notice the sentence <em>"I feel like you…"</em> leave your mouth or your mind, stop.
+                Next time you notice the sentence <em>I feel like you…</em> leaving your mouth or your mind, stop.
                 Place one hand on your sternum. Ask: <em>What is actually in my body right now?</em> Name one real
                 feeling and one need out loud to yourself before you speak to the other person. That stop is most
                 of the work.
+              </p>
+              <p className="practice-emphasis" style={{ marginTop: "1rem", fontFamily: "IBM Plex Mono, monospace", textTransform: "uppercase", letterSpacing: "0.08em", fontSize: "0.85rem", color: "var(--turmeric)" }}>
+                The Pause Is The Practice
               </p>
             </div>
           </FadeIn>
@@ -1751,31 +1754,31 @@ export default function Home() {
                 <h4>When Needs Are Met</h4>
                 <p>
                   Affectionate: compassionate, friendly, loving, open-hearted, tender, warm<br />
-                  Engaged: absorbed, alert, curious, enthusiastic, fascinated, interested<br />
+                  Engaged: absorbed, alert, curious, enthusiastic, fascinated, interested, stimulated<br />
                   Hopeful: encouraged, expectant, optimistic<br />
                   Confident: empowered, open, proud, safe, secure<br />
                   Grateful: appreciative, moved, thankful, touched<br />
                   Inspired: amazed, awed, wonder<br />
                   Joyful: amused, delighted, glad, happy, pleased, tickled<br />
                   Exhilarated: blissful, ecstatic, elated, radiant, thrilled<br />
-                  Peaceful: calm, centered, comfortable, content, fulfilled, quiet, relaxed, serene<br />
+                  Peaceful: calm, centered, comfortable, content, fulfilled, quiet, relaxed, relieved, satisfied, serene, still, trusting<br />
                   Refreshed: enlivened, rejuvenated, renewed, rested, restored, revived
                 </p>
               </div>
               <div className="vocab-card">
                 <h4>When Needs Are Not Met</h4>
                 <p>
-                  Afraid: apprehensive, dread, frightened, panicked, scared, terrified, wary<br />
+                  Afraid: apprehensive, dread, frightened, panicked, scared, terrified, wary, worried<br />
                   Angry: enraged, furious, incensed, indignant, irate, livid, outraged, resentful<br />
                   Annoyed: aggravated, disgruntled, exasperated, frustrated, impatient, irritated<br />
                   Aversion: appalled, contempt, disgusted, horrified, hostile, repulsed<br />
                   Confused: ambivalent, baffled, bewildered, hesitant, lost, perplexed, torn<br />
                   Disconnected: alienated, apathetic, bored, detached, indifferent, numb, withdrawn<br />
-                  Disquiet: agitated, alarmed, disturbed, rattled, restless, troubled, uneasy<br />
+                  Disquiet: agitated, alarmed, disturbed, rattled, restless, troubled, uneasy, unsettled<br />
                   Embarrassed: ashamed, chagrined, guilty, mortified, self-conscious<br />
                   Fatigue: burnt out, depleted, exhausted, lethargic, tired, weary<br />
                   Pain: anguished, bereaved, devastated, grief, heartbroken, hurt, lonely, miserable<br />
-                  Sad: dejected, despondent, disappointed, discouraged, disheartened, forlorn, hopeless<br />
+                  Sad: dejected, despondent, disappointed, discouraged, disheartened, forlorn, hopeless, melancholy, unhappy<br />
                   Tense: anxious, cranky, distressed, edgy, frazzled, nervous, overwhelmed, stressed<br />
                   Vulnerable: fragile, guarded, helpless, insecure, sensitive, shaky<br />
                   Yearning: envious, longing, nostalgic, pining, wistful
@@ -1793,12 +1796,12 @@ export default function Home() {
               </p>
               <div className="vocab-grid" style={{ marginTop: "1rem" }}>
                 {[
-                  ["CONNECTION", "acceptance, affection, appreciation, belonging, care, closeness, communication, community, compassion, consistency, cooperation, empathy, inclusion, intimacy, love, mutuality, nurturing, respect, safety, security, stability, support, to be heard, to be seen, to be known, trust, warmth"],
+                  ["CONNECTION", "acceptance, affection, appreciation, belonging, care, closeness, communication, community, companionship, compassion, consideration, consistency, cooperation, empathy, inclusion, intimacy, love, mutuality, nurturing, respect, safety, security, stability, support, to be heard, to be seen, to be known, trust, warmth"],
                   ["PHYSICAL WELLBEING", "air, food, movement, rest, safety, shelter, sexual expression, touch, water"],
                   ["INTEGRATION", "to grieve, to make sense of loss, to process, to mourn what cannot be changed"],
                   ["AUTONOMY", "choice, freedom, independence, self-expression, space, spontaneity"],
                   ["HONESTY", "authenticity, clarity, integrity, presence, transparency"],
-                  ["MEANING", "awareness, challenge, competence, contribution, creativity, discovery, effectiveness, growth, hope, learning, participation, purpose, self-expression, stimulation, to matter, understanding"],
+                  ["MEANING", "awareness, challenge, competence, contribution, creativity, discovery, effectiveness, growth, hope, learning, mourning, participation, purpose, self-expression, stimulation, to matter, understanding"],
                   ["ACKNOWLEDGMENT", "appreciation, celebration, gratitude, recognition, to be seen, to be valued"],
                   ["PLAY", "humor, joy, lightness, spontaneity"],
                   ["PEACE", "beauty, communion, ease, equanimity, harmony, inspiration, order, space"],

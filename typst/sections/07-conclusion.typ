@@ -35,6 +35,8 @@ You won't say it perfectly under pressure. Nobody does, not consistently, not at
 
 That's all the shift is. The hurt getting faster at finding its words.
 
+The fights don't disappear. What changes is what they're about.
+
 What earns the practice its keep, beyond the operative fact that it works, is what kind of stance toward another person it requires. NVC is one of the few practices currently available to ordinary humans that takes seriously the idea that the person across from you has an interior that is real, that is theirs, and that isn't yours to manage or correct. The same goes for your interior. You're allowed to be in there — in the body, in the present, with your actual needs — and you're allowed, if it comes to that, to want things out loud.
 
 #divider
@@ -44,7 +46,7 @@ What earns the practice its keep, beyond the operative fact that it works, is wh
 
   #v(0.5em)
 
-  Next time you notice the sentence _"I feel like you…"_ leave your mouth or your mind, stop. Place one hand on your sternum. Ask: _What is actually in my body right now?_ Name one real feeling and one need out loud to yourself before you speak to the other person. That stop is most of the work.
+  Next time you notice the sentence _I feel like you…_ leaving your mouth or your mind, stop. Place one hand on your sternum. Ask: _What is actually in my body right now?_ Name one real feeling and one need out loud to yourself before you speak to the other person. That stop is most of the work.
 
   #v(0.7em)
 

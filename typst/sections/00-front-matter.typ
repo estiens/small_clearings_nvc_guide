@@ -22,8 +22,8 @@
   #v(2.5em)
 
   #text(size: 8.5pt, fill: luma(130))[
-    for skeptics, cynics, freaks,\
-    and curious newcomers
+    for skeptics, cynics,\
+    and the emotionally exhausted
   ]
 ]
 
