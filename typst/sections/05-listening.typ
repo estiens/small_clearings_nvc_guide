@@ -23,7 +23,7 @@ None of these is malice. They are mostly the listener's own discomfort, looking 
 
 Empathy, in NVC's sense, is an orientation toward the other person's feelings and needs — the willingness to stay there without needing to solve, redirect, fix, or take the conversation back to yourself. It may involve speech. It may not. The orientation is the thing; the words follow it.
 
-What it sounds like in words, when there are words, is often a question. _Are you hurt? Are you scared? Are you exhausted? Do you need to feel like this matters to someone right now?_ You aren't asking because you don't know. You are asking because the question is the act of staying with them.
+What it sounds like in words, when there are words, is often a question. _Are you hurt? Are you scared? Are you exhausted? Do you need to feel like this matters to someone right now?_ You are asking precisely because you cannot know — they may not even know themselves yet — and the question is the room being made for the feeling to arrive. Even when you think you know, even when you absolutely do, the asking is how you tell them you want them to feel what they are feeling, and want them to know you are there for it.
 
 Sarah Peyton has been making this point for years in trauma-informed NVC training: warm misreading does more for the body than the right word delivered without warmth. The body responds to the warmth aimed at the rough vicinity of the feeling. It doesn't respond to a precise word with cool eyes.
 

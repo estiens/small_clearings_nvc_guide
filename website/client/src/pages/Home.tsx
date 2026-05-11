@@ -1032,6 +1032,14 @@ export default function Home() {
               to yourself. It may involve speech. It may not. The orientation is the thing; the words follow it.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
+              What it sounds like in words, when there are words, is often a question.{" "}
+              <em>Are you hurt? Are you scared? Are you exhausted? Do you need to feel like this matters to
+              someone right now?</em> You are asking precisely because you cannot know — they may not even
+              know themselves yet — and the question is the room being made for the feeling to arrive. Even
+              when you think you know, even when you absolutely do, the asking is how you tell them you want
+              them to feel what they are feeling, and want them to know you are there for it.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
               <Annotation links={A.sarahPeyton}>Sarah Peyton</Annotation> has been making this point for years
               in trauma-informed NVC training: <em>warm misreading does more for the body than the right word
               delivered without warmth.</em> The body responds to the warmth aimed at the rough vicinity of the
