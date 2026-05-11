@@ -33,6 +33,11 @@ const A = {
       title: "Resmaa Menakem: Finding Fear in the Body",
       desc: "Interview exploring somatic experience of fear and trauma in racialized bodies.",
     },
+    {
+      url: "https://www.wnyc.org/story/unedited-resmaa-menakem-with-krista-tippett/",
+      title: "Resmaa Menakem with Krista Tippett (Unedited)",
+      desc: "Full-length On Being interview on racialized trauma — extended cut.",
+    },
   ],
   ifs: [
     {
@@ -44,6 +49,11 @@ const A = {
       url: "https://scottbarrykaufman.com/podcast/no-bad-parts-w-richard-schwartz/",
       title: "No Bad Parts w/ Richard Schwartz",
       desc: "IFS, personal burdens, the 8 C's of Self-Energy — and an impromptu session.",
+    },
+    {
+      url: "https://tim.blog/2021/01/15/richard-schwartz-internal-family-systems-transcript/",
+      title: "Schwartz on IFS & Psychedelic Experiences w/o Drugs",
+      desc: "Long-form Tim Ferriss transcript with Schwartz on IFS in depth.",
     },
   ],
   miki: [
@@ -69,6 +79,11 @@ const A = {
       title: "Nonviolent Communication with Dr Roxy Manning",
       desc: "Direct interview on liberatory NVC and decolonising the practice.",
     },
+    {
+      url: "https://catcallmag.com/2023/10/16/how-to-have-antiracist-conversations-with-dr-manning/",
+      title: "How to Have Antiracist Conversations with Dr Manning",
+      desc: "Catcall Magazine interview tied to Manning's antiracist conversations work.",
+    },
   ],
   korzybski: [
     {
@@ -80,6 +95,11 @@ const A = {
       url: "https://www.hilaritaspress.com/podcasts/alfred-korzybski-hilaritas-press-podcast-episode-1/",
       title: "Alfred Korzybski — Hilaritas Press Podcast",
       desc: "Interview with a key General Semantics figure on Korzybski's life and ideas.",
+    },
+    {
+      url: "https://archive.org/details/sciencesanityint00korz",
+      title: "Science and Sanity (1933) — full text on Internet Archive",
+      desc: "Korzybski's foundational General Semantics text — the source of the is-of-identity critique.",
     },
   ],
   raw: [
@@ -109,6 +129,11 @@ const A = {
       url: "https://bureauoflostculture.podbean.com/e/alan-moore-on-magi/",
       title: "Podcast: Alan Moore on Magic",
       desc: "Moore on his magical practice and the creation of his modern grimoire.",
+    },
+    {
+      url: "https://arthurmag.com/2007/05/10/1815/",
+      title: "Magic is Afoot: Alan Moore on the Arts and the Occult",
+      desc: "Long Arthur Magazine interview, freely hosted — Moore at length on art, magic, language.",
     },
   ],
   polyvagal: [
@@ -158,6 +183,11 @@ const A = {
       title: "Fawning: The Disease to Please (Podcast)",
       desc: "Interview with Dr. Ingrid Clayton on fawning, people-pleasing, and healing.",
     },
+    {
+      url: "https://pete-walker.com/fourFs_TraumaTypologyComplexPTSD.htm",
+      title: "The 4Fs: A Trauma Typology in Complex PTSD",
+      desc: "Walker's primary essay on fight/flight/freeze/fawn as four distinct survival strategies.",
+    },
   ],
   contactImprov: [
     {
@@ -169,6 +199,11 @@ const A = {
       url: "https://authenticmotion.org/2017/03/01/the-somatic-practise-of-contact-improvisation/",
       title: "The Somatic Practise of Contact Improvisation",
       desc: "CI as a somatic practice fostering freedom, connection, and mind-body balance.",
+    },
+    {
+      url: "https://pillowvoices.org/episodes/the-origins-and-value-of-contact-improvisation-in-the-words-of-steve-paxton/transcript",
+      title: "Origins of CI — Steve Paxton (Pillow Voices)",
+      desc: "Oral history transcript with the founder of contact improvisation.",
     },
   ],
   buddhismIFS: [
@@ -182,12 +217,22 @@ const A = {
       title: "Anatta (No Self) in Buddhism Through Modern Psychology",
       desc: "Academic paper on Anatta and its alignments with modern psychological self-models.",
     },
+    {
+      url: "https://www.accesstoinsight.org/lib/authors/thanissaro/selvesnotself.html",
+      title: "Selves & Not-self — Thanissaro Bhikkhu",
+      desc: "Thanissaro Bhikkhu's free book on the Buddhist teaching on Anatta.",
+    },
   ],
   kathleen: [
     {
       url: "https://www.youtube.com/watch?v=cXRneCHrbT8",
       title: "The Art of Listening | Kathleen Macferran | TEDxRainier",
       desc: "Macferran on the transformative power of deep, empathetic listening.",
+    },
+    {
+      url: "https://strengthofconnection.com/",
+      title: "Strength of Connection — Kathleen Macferran",
+      desc: "Macferran's own teaching site, with talks, writings, and trauma-informed NVC resources.",
     },
   ],
   meenadchi: [
@@ -213,12 +258,92 @@ const A = {
       title: "The Sunday Read: On Female Rage — NYT",
       desc: "On female rage and Audre Lorde's 'The Uses of Anger'.",
     },
+    {
+      url: "https://refugeingrief.com/podcasts/rage-anger-becomes-her-and-by-her-i-mean-us-with-soraya-chemaly/",
+      title: "Rage Becomes Her — Soraya Chemaly on Refuge in Grief",
+      desc: "Chemaly on women's anger as a moral signal — interview with Megan Devine.",
+    },
+    {
+      url: "https://americanstudies.yale.edu/sites/default/files/files/Lorde%20-%20The%20Uses%20of%20Anger.pdf",
+      title: "The Uses of Anger — Audre Lorde (PDF)",
+      desc: "Lorde's full 1981 keynote on anger as accurate information, hosted by Yale American Studies.",
+    },
   ],
   dominicBarter: [
+    {
+      url: "https://www.restorativecircles.org/",
+      title: "Restorative Circles — official site",
+      desc: "Home of the Restorative Circles practice Dominic Barter developed in the favelas of Rio.",
+    },
+    {
+      url: "https://restorativejusticeontherise.org/dominic-barter-of-restorative-circles/",
+      title: "Dominic Barter of Restorative Circles — RJOR Podcast",
+      desc: "Long interview with Barter on the development and practice of Restorative Circles.",
+    },
     {
       url: "https://thefearlessheart.org/nonviolent-communication-for-liberation-flow-mobilization-and-emergency/",
       title: "NVC for Liberation — Miki Kashtan",
       desc: "Restorative and prefigurative NVC work in the anarchist mediation lineage.",
+    },
+  ],
+  ofnr: [
+    {
+      url: "https://thefearlessheart.org/why-observations-feelings-needs-and-requests-are-both-enough-and-not/",
+      title: "Why OFNR Are Both Enough and Not — Miki Kashtan",
+      desc: "Kashtan on what the four moves can and can't do — when the form is enough, when it isn't.",
+    },
+    {
+      url: "https://en.nvcwiki.com/index.php/Four_part_model",
+      title: "Four-Part Model — NVCWiki",
+      desc: "Community reference for the OFNR framework, with examples and variations.",
+    },
+  ],
+  cnvc: [
+    {
+      url: "https://www.cnvc.org/",
+      title: "Center for Nonviolent Communication",
+      desc: "Official home of NVC — Marshall Rosenberg's organization.",
+    },
+    {
+      url: "https://www.cnvc.org/about/marshall",
+      title: "About Marshall Rosenberg — CNVC",
+      desc: "Biographical page on the founder, with timeline and influences.",
+    },
+  ],
+  rosenbergBook: [
+    {
+      url: "https://archive.org/details/nonviolent-communication-a-language-of-life-marshall-b-rosenberg-1",
+      title: "Nonviolent Communication: A Language of Life — Internet Archive",
+      desc: "The full book, available to borrow or read on archive.org.",
+    },
+    {
+      url: "https://www.youtube.com/watch?v=Xov5z_GJ9Zs",
+      title: "Giraffe Language and Jackal Language — Marshall Rosenberg",
+      desc: "Rosenberg himself teaching the core distinction at the heart of the practice.",
+    },
+  ],
+  eprime: [
+    {
+      url: "https://en.wikipedia.org/wiki/E-Prime",
+      title: "E-Prime — Wikipedia",
+      desc: "Primer on Bourland's 1965 proposal: English without 'is, are, was, were, be, been, being'.",
+    },
+    {
+      url: "https://www.scribd.com/document/268865845/Toward-Understanding-E-Prime-by-Robert-Anton-Wilson",
+      title: "Toward Understanding E-Prime — Robert Anton Wilson",
+      desc: "RAW's own essay on E-Prime and its implications for consciousness.",
+    },
+  ],
+  edmundoNorte: [
+    {
+      url: "https://www.cnvc.org/trainers/edmundo-norte",
+      title: "Edmundo Norte — CNVC trainer profile",
+      desc: "Biography and work of one of the founding voices of liberatory NVC practice.",
+    },
+    {
+      url: "https://kpfa.org/episode/talk-it-out-radio-june-25-2017/",
+      title: "Talk It Out Radio: NVC as a Tool to End Racism — KPFA",
+      desc: "Hour-long KPFA interview with Edmundo Norte on race, power, and NVC.",
     },
   ],
 };
@@ -574,7 +699,7 @@ export default function Home() {
                 end still feels, somehow, like they're in trouble — just in a more articulate way than before.
               </p>
               <p style={{ marginTop: "1.2rem" }}>
-                Speaking with NVC reduces, in its clinical form, to four moves (OFNR). People who love acronyms
+                Speaking with NVC reduces, in its clinical form, to four moves (<Annotation links={A.ofnr}>OFNR</Annotation>). People who love acronyms
                 tend to use them as armor, and this one is no exception. The four moves are scaffolding. The
                 scaffolding is supposed to come down once the building stands up.
               </p>
@@ -933,7 +1058,7 @@ export default function Home() {
               <Annotation links={A.resmaa}>Resmaa Menakem</Annotation> on what bodies inherit and what gets stuck
               in them.{" "}
               <Annotation links={A.roxy}>Roxy Manning</Annotation>,{" "}
-              <Annotation links={A.meenadchi}>Edmundo Norte, and Meenadchi</Annotation> on the practice's blind
+              <Annotation links={A.edmundoNorte}>Edmundo Norte</Annotation>, and <Annotation links={A.meenadchi}>Meenadchi</Annotation> on the practice's blind
               spots about race, power, and which bodies the standard packaging assumes.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
@@ -1001,7 +1126,7 @@ export default function Home() {
             <div className="dingmark">∗</div>
             <p>
               That's the working magic. It's structurally adjacent to the move{" "}
-              <Annotation links={A.raw}>D. David Bourland Jr.</Annotation> coded as E-Prime — English written
+              <Annotation links={A.raw}>D. David Bourland Jr.</Annotation> coded as <Annotation links={A.eprime}>E-Prime</Annotation> — English written
               without <em>is, are, was, were, be, been, being</em> at all, on the theory that purging the verb
               forces the speaker to mark which claims are observation and which are inference.{" "}
               <Annotation links={A.korzybski}>Alfred Korzybski</Annotation> had pointed at the larger problem
@@ -1028,7 +1153,7 @@ export default function Home() {
               benefit… When we are in contact with our feelings and needs, we humans no longer make good slaves
               and underlings.
               <div style={{ fontSize: "0.75rem", marginTop: "0.75rem", opacity: 0.7, fontStyle: "normal" }}>
-                — Marshall Rosenberg, <em>Nonviolent Communication: A Language of Life</em>
+                — Marshall Rosenberg, <em><Annotation links={A.rosenbergBook}>Nonviolent Communication: A Language of Life</Annotation></em>
               </div>
             </div>
             <p>
@@ -1050,7 +1175,7 @@ export default function Home() {
               <Annotation links={A.miki}>Miki Kashtan</Annotation>'s consensus work runs on lines prefigurative
               organizers would recognize on sight.{" "}
               <Annotation links={A.roxy}>Roxy Manning</Annotation>,{" "}
-              <Annotation links={A.meenadchi}>Edmundo Norte, and Meenadchi</Annotation> have spent years pointing
+              <Annotation links={A.edmundoNorte}>Edmundo Norte</Annotation>, and <Annotation links={A.meenadchi}>Meenadchi</Annotation> have spent years pointing
               out that NVC's standard packaging often re-installs the dominator culture it was meant to refuse —
               and that the practice has to be retooled to do its actual work in bodies it wasn't originally
               designed for.
@@ -1195,7 +1320,7 @@ export default function Home() {
           <FadeIn>
             <div className="chapter-bar">Appendix — Feelings &amp; Needs Vocabulary</div>
             <p style={{ marginTop: "1.5rem", fontSize: "0.8rem", color: "var(--faded)", fontStyle: "italic" }}>
-              From Marshall Rosenberg and the Center for Nonviolent Communication. Two columns: what moves through
+              From Marshall Rosenberg and the <Annotation links={A.cnvc}>Center for Nonviolent Communication</Annotation>. Two columns: what moves through
               you when your needs are met, and when they aren't.
             </p>
             <div className="vocab-grid" style={{ marginTop: "1.5rem" }}>
@@ -1239,7 +1364,7 @@ export default function Home() {
           <FadeIn delay={100}>
             <div style={{ marginTop: "2rem" }}>
               <p style={{ fontSize: "0.8rem", color: "var(--faded)", fontStyle: "italic" }}>
-                From Marshall Rosenberg and the Center for Nonviolent Communication. These aren't preferences or
+                From Marshall Rosenberg and the <Annotation links={A.cnvc}>Center for Nonviolent Communication</Annotation>. These aren't preferences or
                 personality traits. They're the shared infrastructure — what every human is running on, all the
                 time, whether or not they have language for it.
               </p>

@@ -211,8 +211,38 @@ const devOnlyPlugins: Plugin[] = isProd
 
 const plugins = [react(), tailwindcss(), ...devOnlyPlugins];
 
+// Resolve the public base path for the build.
+//
+// GitHub Pages serves a project site at `https://<user>.github.io/<repo>/`,
+// which requires `base: "/<repo>/"`. With a custom domain (CNAME) it serves
+// at the domain root and `base` should be `/`.
+//
+// Resolution order (most specific wins):
+//   1. VITE_BASE env var       — manual override for unusual cases
+//   2. CNAME file in public/   — signals a custom domain, base = "/"
+//   3. GITHUB_REPOSITORY env   — set by GH Actions, derives "/<repo>/"
+//   4. Fallback hardcoded repo — for local prod builds without env
+//
+// To switch to a custom domain: drop a `CNAME` file containing the domain
+// into `client/public/`. Vite copies it verbatim into the build output,
+// GitHub Pages picks it up, and the base flips to "/" automatically.
+function resolveBase(): string {
+  if (!isProd) return "/";
+
+  if (process.env.VITE_BASE) return process.env.VITE_BASE;
+
+  const cnamePath = path.join(import.meta.dirname, "client", "public", "CNAME");
+  if (fs.existsSync(cnamePath)) return "/";
+
+  const repo = process.env.GITHUB_REPOSITORY?.split("/")[1];
+  if (repo) return `/${repo}/`;
+
+  return "/small_clearings_nvc_guide/";
+}
+
 export default defineConfig({
   plugins,
+  base: resolveBase(),
   resolve: {
     alias: {
       "@": path.resolve(import.meta.dirname, "client", "src"),

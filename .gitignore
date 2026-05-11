@@ -7,6 +7,10 @@
 .AppleDouble
 .LSOverride
 
+# Windows
+Thumbs.db
+ehthumbs.db
+
 # Compiled output — compile with: typst compile typst/nvc_zine.typ
 *.pdf
 
@@ -14,4 +18,27 @@
 website/node_modules/
 website/dist/
 website/.manus-logs/
+
+# MCP / tool scratch directories
+.playwright-mcp/
+.claude/
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs and env
+*.log
+.env
+.env.local
+.env.*.local
+
+# OS / tooling caches
+.cache/
+.tmp/
+*.bak
+*.tmp
 
