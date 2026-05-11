@@ -65,7 +65,7 @@
 // Hoefler Text catch a few; Athelas is the final fallback for the asterism
 // and other glyphs that exist in the body face.
 #let _orn(size: 12pt, body) = text(
-  font: ("Hoefler Text"),
+  font: ("Hoefler Text", "Hoefler Text Ornaments", "Apple Symbols", "Arial Unicode MS", "Athelas"),
   size: size,
   fill: luma(110),
   body,
