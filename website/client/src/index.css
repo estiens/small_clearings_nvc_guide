@@ -1,0 +1,520 @@
+/* ============================================================
+   SMALL CLEARINGS — DHARMA XEROX DESIGN SYSTEM
+   Movement: Post-punk samizdat meets Zen monastery notice board
+   Colors: Newsprint ground (#F5F0E8), sumi ink (#1A1410),
+           turmeric annotation (#C8860A), vermillion stamp (#C0392B)
+   Fonts: Playfair Display (display), IBM Plex Mono (body), Caveat (gloss)
+   Layout: Left-biased column, right-rail marginalia, sticky footer nav
+   ============================================================ */
+
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+}
+
+:root {
+  --radius: 0.1rem;
+  /* Newsprint ground */
+  --background: oklch(0.96 0.012 80);
+  --foreground: oklch(0.14 0.018 50);
+  /* Sumi ink */
+  --ink: #1A1410;
+  /* Turmeric annotation */
+  --turmeric: #C8860A;
+  /* Vermillion stamp */
+  --vermillion: #C0392B;
+  /* Newsprint */
+  --newsprint: #F5F0E8;
+  /* Faded ink */
+  --faded: #5A4F42;
+
+  --card: oklch(0.96 0.012 80);
+  --card-foreground: oklch(0.14 0.018 50);
+  --popover: oklch(0.93 0.015 80);
+  --popover-foreground: oklch(0.14 0.018 50);
+  --primary: oklch(0.55 0.12 65);
+  --primary-foreground: oklch(0.96 0.012 80);
+  --secondary: oklch(0.90 0.018 80);
+  --secondary-foreground: oklch(0.25 0.018 50);
+  --muted: oklch(0.91 0.010 80);
+  --muted-foreground: oklch(0.45 0.020 55);
+  --accent: oklch(0.65 0.14 65);
+  --accent-foreground: oklch(0.96 0.012 80);
+  --destructive: oklch(0.55 0.22 25);
+  --destructive-foreground: oklch(0.96 0.012 80);
+  --border: oklch(0.75 0.020 65);
+  --input: oklch(0.88 0.015 80);
+  --ring: oklch(0.55 0.12 65);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'IBM Plex Mono', 'Courier New', monospace;
+    font-size: 15px;
+    line-height: 1.85;
+    color: var(--ink);
+    background-color: var(--newsprint);
+  }
+}
+
+/* ---- NOISE TEXTURE OVERLAY ---- */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.025;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-size: 200px 200px;
+}
+
+/* ---- TYPOGRAPHY ---- */
+.font-display {
+  font-family: 'Playfair Display', 'Georgia', serif;
+}
+
+.font-gloss {
+  font-family: 'Caveat', 'Comic Sans MS', cursive;
+}
+
+.font-body {
+  font-family: 'IBM Plex Mono', 'Courier New', monospace;
+}
+
+/* ---- ZINE LAYOUT ---- */
+.zine-column {
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+@media (min-width: 1100px) {
+  .zine-column {
+    margin-left: 10%;
+    margin-right: 0;
+    max-width: 620px;
+  }
+}
+
+/* ---- CHAPTER HEADER BARS ---- */
+.chapter-bar {
+  background-color: var(--ink);
+  color: var(--newsprint);
+  padding: 0.75rem 2rem;
+  margin-left: -2rem;
+  margin-right: -2rem;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+}
+
+/* ---- SECTION DINGMARKS ---- */
+.dingmark {
+  display: block;
+  text-align: center;
+  font-size: 1.4rem;
+  color: var(--turmeric);
+  margin: 2.5rem 0;
+  opacity: 0.7;
+  letter-spacing: 0.5rem;
+}
+
+/* ---- ANNOTATION SYSTEM ---- */
+.annotated {
+  position: relative;
+  cursor: pointer;
+  border-bottom: 1.5px solid var(--turmeric);
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.annotated:hover {
+  color: var(--turmeric);
+}
+
+.annotated::after {
+  content: attr(data-glyph);
+  font-family: 'Caveat', cursive;
+  font-size: 0.75rem;
+  color: var(--turmeric);
+  vertical-align: super;
+  margin-left: 1px;
+  opacity: 0.85;
+}
+
+/* Annotation tooltip */
+.annotation-tip {
+  position: absolute;
+  left: 0;
+  top: calc(100% + 6px);
+  z-index: 100;
+  background-color: var(--ink);
+  color: var(--newsprint);
+  padding: 0.6rem 0.9rem;
+  font-family: 'Caveat', cursive;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  width: 280px;
+  max-width: 90vw;
+  pointer-events: auto;
+  opacity: 0;
+  transform: translateY(4px);
+  transition: opacity 0.15s ease, transform 0.15s ease;
+  box-shadow: 3px 3px 0 var(--turmeric);
+}
+
+.annotation-tip a {
+  color: var(--turmeric);
+  text-decoration: underline;
+  font-size: 0.85rem;
+  display: block;
+  margin-top: 0.3rem;
+  word-break: break-all;
+}
+
+.annotation-tip.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Right-rail marginalia for wide screens */
+@media (min-width: 1100px) {
+  .annotation-tip {
+    left: auto;
+    right: -320px;
+    top: -4px;
+    width: 280px;
+  }
+}
+
+/* ---- PSEUDO-FEELINGS TABLE ---- */
+.pf-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+  margin: 2rem 0;
+  border: 1.5px solid var(--ink);
+}
+
+.pf-table th {
+  background-color: var(--ink);
+  color: var(--newsprint);
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.pf-table td {
+  padding: 0.45rem 0.75rem;
+  border-bottom: 1px solid oklch(0.75 0.020 65);
+  vertical-align: top;
+}
+
+.pf-table tr:nth-child(even) td {
+  background-color: oklch(0.93 0.012 80);
+}
+
+.pf-table td:first-child {
+  font-weight: 700;
+  color: var(--vermillion);
+  font-size: 0.8rem;
+}
+
+/* ---- NEEDS TABLE ---- */
+.needs-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+  margin: 2rem 0;
+}
+
+.needs-table td {
+  padding: 0.5rem 0.75rem;
+  vertical-align: top;
+  border: 1px solid oklch(0.80 0.018 65);
+}
+
+.needs-table td:first-child {
+  font-weight: 700;
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--turmeric);
+  width: 30%;
+  background-color: oklch(0.93 0.012 80);
+}
+
+/* ---- PULL QUOTES ---- */
+.pull-quote {
+  border-left: 3px solid var(--turmeric);
+  padding: 0.75rem 1.25rem;
+  margin: 2rem 0;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+  font-style: italic;
+  color: var(--faded);
+  background-color: oklch(0.93 0.015 80);
+}
+
+/* ---- PRACTICE BOX ---- */
+.practice-box {
+  border: 2px solid var(--ink);
+  padding: 1.5rem;
+  margin: 2.5rem 0;
+  position: relative;
+  background-color: oklch(0.93 0.012 80);
+}
+
+.practice-box::before {
+  content: 'PRACTICE';
+  position: absolute;
+  top: -0.7rem;
+  left: 1rem;
+  background-color: var(--newsprint);
+  padding: 0 0.5rem;
+  font-size: 0.65rem;
+  letter-spacing: 0.2em;
+  font-family: 'IBM Plex Mono', monospace;
+  color: var(--turmeric);
+  font-weight: 700;
+}
+
+/* ---- APPENDIX VOCAB ---- */
+.vocab-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+@media (max-width: 640px) {
+  .vocab-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.vocab-card {
+  border: 1px solid var(--border);
+  padding: 1rem;
+  background-color: oklch(0.94 0.010 80);
+}
+
+.vocab-card h4 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--turmeric);
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.vocab-card p {
+  font-size: 0.8rem;
+  line-height: 1.6;
+  color: var(--faded);
+}
+
+/* ---- STICKY FOOTER NAV ---- */
+.sticky-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 50;
+  background-color: var(--ink);
+  color: var(--newsprint);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  height: 36px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  border-top: 2px solid var(--turmeric);
+}
+
+.sticky-footer a {
+  color: oklch(0.75 0.012 80);
+  text-decoration: none;
+  padding: 0 0.75rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  transition: color 0.12s ease, background-color 0.12s ease;
+  border-right: 1px solid oklch(0.25 0.010 50);
+}
+
+.sticky-footer a:first-child {
+  border-left: 1px solid oklch(0.25 0.010 50);
+}
+
+.sticky-footer a:hover,
+.sticky-footer a.active {
+  color: var(--turmeric);
+  background-color: oklch(0.10 0.010 50);
+}
+
+/* ---- HERO ---- */
+.hero-title {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(2.8rem, 7vw, 5.5rem);
+  font-weight: 900;
+  line-height: 1.0;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+}
+
+.hero-subtitle {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.75rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--turmeric);
+  margin-top: 0.5rem;
+}
+
+.hero-tagline {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.85rem;
+  color: var(--faded);
+  font-style: italic;
+  margin-top: 1rem;
+  line-height: 1.6;
+}
+
+/* ---- CHAPTER NUMBER (ghosted) ---- */
+.chapter-ghost {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(6rem, 20vw, 14rem);
+  font-weight: 900;
+  color: var(--ink);
+  opacity: 0.04;
+  line-height: 1;
+  pointer-events: none;
+  user-select: none;
+  position: absolute;
+  right: -0.5rem;
+  top: -1rem;
+}
+
+/* ---- SECTION WRAPPER ---- */
+.section-wrapper {
+  position: relative;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  border-top: 1px solid oklch(0.80 0.018 65);
+}
+
+/* ---- SCROLL FADE IN ---- */
+.fade-in {
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ---- INLINE STAMP ---- */
+.stamp {
+  display: inline-block;
+  border: 1.5px solid var(--vermillion);
+  color: var(--vermillion);
+  font-size: 0.65rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  padding: 0.1rem 0.4rem;
+  font-family: 'IBM Plex Mono', monospace;
+  vertical-align: middle;
+  margin: 0 0.2rem;
+  opacity: 0.8;
+}
+
+/* ---- BOTTOM PADDING for sticky footer ---- */
+.page-content {
+  padding-bottom: 60px;
+}
+
+/* ---- COVER DECORATIVE LINE ---- */
+.cover-rule {
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(to right, var(--ink) 0%, var(--turmeric) 40%, transparent 100%);
+  margin: 2rem 0;
+}
+
+/* ---- LARGE DINGMARK SECTION BREAK ---- */
+.dingmark-large {
+  display: block;
+  text-align: left;
+  font-size: 2.5rem;
+  color: var(--turmeric);
+  margin: 3rem 0 2rem;
+  opacity: 0.5;
+  line-height: 1;
+}
+
+/* ---- SCROLLBAR ---- */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--newsprint);
+}
+::-webkit-scrollbar-thumb {
+  background: oklch(0.60 0.030 65);
+}
+
+/* ---- SELECTION ---- */
+::selection {
+  background-color: var(--turmeric);
+  color: var(--newsprint);
+}
+
+.flex {
+  min-height: 0;
+  min-width: 0;
+}

@@ -6,1299 +6,1457 @@ A Field Guide to Nonviolent Communication
 for skeptics, cynics, freaks,
 and curious newcomers
 
+1
+
 ©︎ 2026
-This work is licensed under a Creative Commons Attribution 4.0 International license (CC BY 4.0).
-You are free to share, copy, redistribute, adapt, remix, transform, and build upon this material — for
-any purpose, including commercially — as long as you give appropriate credit to the original author
-and indicate if changes were made.
+This work is licensed under a Creative Commons Attribution 4.0 International license (CC BY
+4.0). You are free to share, copy, redistribute, adapt, remix, transform, and build upon this material
+— for any purpose, including commercially — as long as you give appropriate credit to the original
+author and indicate if changes were made.
 creativecommons.org/licenses/by/4.0
 CC BY 4.0
 
+2
+
 I
+Y
 
 THE SETUP: HALF OF THIS CON­
 V E R S AT I O N N E V E R H A P P E N E D
 
-You had a fight last week. Or what almost-was-a-fight. Someone
-— possibly you — said I just don’t think you respect me, and the
-other person said I do respect you, and somehow that was the
-worst answer they could have given. The thing got bigger. Or it
-got quieter, which is sometimes worse. You went to bed thinking
-the fight was about respect. You woke up suspecting it was about
-something else, but you could not quite say what.
-Or it was not a fight. It was your mom on the phone,
-sighing in a particular way at the end of a sentence. It was your
-roommate not making eye contact when you walked into the
-kitchen. It was your partner answering your text seven hours later
-with a thumbs-up emoji. Half the conversation never actually
-happened, and you were already losing it.
-Or it was the conversation in your own head at 3 AM. The one
-with the boss. Or the parent. Or the version of yourself from eight
-years ago who is still, somehow, on the witness stand. That one
-does not end. It just goes underground for a while.
-A few small clearings before we go any further.
-This is not a script. If you came looking for sentences to
-memorize and aim at your mother-in-law, you are about to be
-disappointed. People who try to deploy NVC like a smart bomb
+ou had a fight last week. Or what almost-was-a-fight. Someone
 
-sound like hostages reading a statement, and the people they aim
-it at can tell. The hostage knows. The captor knows. Everybody
-in the kitchen knows.
-It is also not a technique for being nicer. Nice is mostly a
-performance — usually the one we put on right before we lose
-it. Nonviolent Communication is not interested in your manners.
-It is interested in whether anything true is moving between two
-people, including the two people who happen to live inside your
-own skull.
-It is not therapy. Your therapist is your therapist. They have
-insurance and a couch and they are paid to hold a particular kind
-of attention for fifty minutes at a time. NVC is for the rest of your
-week. The dishes. The boss email. The text from your sister at 9:47
-on a Tuesday that made your chest tighten before you had even
-read it.
-And it is not, despite some of the marketing in some quarters,
-a more dignified way to win an argument. If you are still trying to
-win, you have already lost the only thing that mattered.
+— possibly you — said I just don’t think you respect me, and the other
+person said I do respect you, and somehow that was the worst answer
+they could have given. The thing got bigger. Or it went quiet, which
+is sometimes worse. You went to bed thinking the fight was about
+respect. You woke up suspecting it wasn’t, but you couldn’t quite say
+what it was.
+Or it wasn’t a fight. It was your mom on the phone, sighing in a
+particular way at the end of a sentence. Your roommate not making
+eye contact when you walked into the kitchen. Your partner texting
+back seven hours later with a thumbs-up emoji. Half the conversa­
+tion never happened, and you were already losing it.
+Or it was the conversation in your own head at 3 AM. The one with
+the boss. Or the parent. Or the version of yourself from eight years
+ago who is still, somehow, on the witness stand. That one doesn’t end.
+It just goes underground for a while.
+People who try to deploy NVC like a smart bomb sound like hostages
+reading a statement. The hostage knows. So does everyone else in
+the kitchen.
+The version of the practice you’ve probably already met was a polite
+cousin of the actual thing. Communication-class manners with a
+feelings vocabulary bolted on top. A budget therapy hour. A more
+3
+
+articulate way to be in the same fight you were going to have anyway.
+Nice is the performance most of us run right before we lose it; the
+practice has nothing to say about your manners. Therapy has its
+couch and its fifty minutes; this lives in the dishes, the boss email, the
+text from your sister at 9:47 on a Tuesday that made your chest tighten
+before you’d read it. The articulate-fight version is the loudest of the
+three. Anyone who’s been on the receiving end of someone using the
+form to score points knows what that sounds like.
 
 ⁂
-So what is it.
-It is a way of speaking — and a way of listening, and a way
-of talking to yourself — that, after enough practice, starts doing
-something to the room. Something most communication does
-not do. Language doesn’t just describe reality; it writes it. A sen­
-tence like you are selfish renders someone permanent and opens a
-courtroom. A sentence like I am hurt and I am longing for partner­
+What it actually is, after long enough that the form drops away, is a
+way of speaking that changes what happens in the room. Listening
+too. The conversation in your skull at 3 AM, also. You are selfish puts
+the other person on trial for who they permanently are; I am hurt
+and I am longing for partnership puts the speaker back inside their
+own body, before any reply has landed. Sometimes the other person
+follows. Rosenberg’s own pages, more political and weirder than his
+reputation suggests, were clear that this is what the words are doing.
+The grammar is the work.
+At first, yes, it sounds stilted. I’m feeling X and I’m needing Y and would
+you be willing to Z. Awkward, the way anything new is awkward when
+it pokes at parts of you that haven’t been poked. It looks like cosplay
+until one day it doesn’t, and you can’t quite say when it changed.
+People who’ve been at it for years don’t, in conversation, sound like
+they’re using it.
 
-ship does something else entirely to the person who says it and
-the person who hears it. That is working magic, in the oldest and
-most operative sense of the word — not the woo, but language
-that changes the state of the people in earshot, including the
-speaker. Some of the clearest versions appear in Rosenberg’s own
-pages, where the man is a great deal more political and a great
-deal weirder than his reputation suggests.
-At first, admittedly, it sounds stilted. I’m feeling X and I’m needing
-Y and would you be willing to Z. Yes. We know. The scaffolding is
-awkward. So is a beginner doing tai chi. So is a beginner doing
-anything that touches the nervous system at depth — at the start
-it looks like cosplay, and then one day it doesn’t, and you can’t
-quite say when it changed. People who use this well do not, even­
-tually, sound like they are using it. They sound like themselves,
-only more clearly.
-
-∗
-
-A small confession before we move on, since the booklet is
-going to keep tugging at this thread anyway. Most of what follows
-assumes that the things you have been calling facts about your
-relationships, your conversations, and your own inner life are
-mostly stories. They are sometimes good stories. They are some­
-
-times very, very old stories, told to you by someone who is no
-longer in the room. Just notice the suspicion in the air.
-Nothing in here is trying to convert you. You can put it down.
-You can argue with it. You can do it badly. You will do it badly. So
-will everyone you practice with. That is not a problem with the
-practice. That is part of how the practice works.
+4
 
 II
 
 FEELINGS AND NEEDS
 
 I feel like you don’t care.
-Try saying it out loud. Notice that the word feel is doing none
-of the work the sentence pretends it is. What follows is not a
-feeling. It is a verdict on another person, served in language gentle
-enough to be mistaken for an emotional disclosure, when what it
-actually is, is an accusation.
-Welcome to the trap most of us live in for most of our lives.
-I feel attacked. I feel ignored. I feel manipulated. I feel dismissed. I feel
-like you’re not even trying. None of these are feelings. They are your
-hypothesis about another person’s behavior, smuggled across the
-border under a feeling’s passport. Look at the sentence. Where is
-your body in it? It isn’t. The other person is the entire sentence.
-A real feeling lives in the body. Tight chest. Hot face. The
-cold thing low in the gut. The shoulder creeping up toward your
-ear. Sad. Scared. Tired. Lit up. Restless. Tender. Furious. Numb.
-These are yours. They cannot be argued with, because they are
-not claims. They are weather.
 
-Weather does not require the other person’s
-agreement to exist.
-The pseudo-feeling — attacked, ignored, dismissed, abandoned,
-used, disrespected, manipulated, betrayed — is a thought wearing a
-feeling’s coat. It carries an accusation. It invites the other person
-to defend themselves rather than meet you. And here is the part
-that smarts: you reach for these constructions hardest in the
-moments when something real is going on inside you. The actual
-feeling, usually something more vulnerable than righteous, is
-right there. The pseudo-feeling is the lid you put on it so you don’t
-have to set it on the table.
-This is a thing humans do. The author does it. You do it.
-Someone who has been practicing this for thirty years still does
-it. They just notice it faster.
-Think of it as a translation layer. The faux-feelings are still
-running, still generating output — delivering verdicts about
-someone else when what the body actually needed was a report
-from itself. Run the translation before you open your mouth.
+T
 
-Not a list to memorize — a mirror. Find the one that fits what is in your
-body right now.The translation always goes the same direction: from verdict
-about them, to truth about you.
+ry saying it out loud. Notice that the word feel is doing none of
 
-Ignored — lonely, scared, deflated – needs: mattering, inclusion, contact
-Manipulated — angry, helpless, tense – needs: autonomy, clarity, safety
-Betrayed — devastated, furious, disoriented – needs: trust, consistency, care
-Disrespected — humiliated, small, angry – needs: dignity, belonging, to be
+the work the sentence pretends it is. What follows is not a feeling. It is
+an accusation in soft clothing — a verdict on another person, dressed
+up as an emotional disclosure.
+Most of us live inside this trap most of the time.
+I feel attacked. I feel ignored. I feel manipulated. I feel dismissed. I feel like
+you’re not even trying. None of those are feelings. They’re hypotheses
+about another person, smuggled across the border under a feeling’s
+passport. Look at the sentences. Where is your body in any of them?
+It isn’t. The other person is the entire sentence.
+A real feeling lives in the body. Tight chest. Hot face. The cold thing
+low in the gut. The shoulder creeping up toward your ear. Sad.
+Scared. Tired. Lit up. Restless. Tender. Furious. Numb. These are
+yours. They aren’t claims about anyone else, so they can’t be argued
+with.
+The pseudo-feeling — attacked, ignored, dismissed, abandoned, used,
+disrespected, manipulated, betrayed — carries a charge sheet. It invites
+the other person to defend rather than meet you. And here is the part
+that smarts: you reach for these constructions hardest in exactly the
+moments when something more vulnerable is going on underneath.
+
+5
+
+The charge gets to the mouth before the actual feeling does, because
+it’s shorter and easier to say.
+This is normal. People who’ve been practicing for thirty years still do
+it. The difference is they tend to catch it faster, sometimes before the
+words are out.
+They keep coming anyway, delivering a finding about someone else
+when what the body actually needed was a report from itself. Run
+the translation before you open your mouth.
+
+6
+
+Each row reads like a translation. Left column: the verdict you’d say out
+loud. Middle and right: what’s actually happening in you, and what’s hungry
+underneath.
+
+Pseudo-feeling
+
+What’s actually in the
+body
+
+Needs underneath
+
+Ignored
+
+lonely, scared, deflated
+
+mattering,
+contact
+
+Manipulated
+
+angry, helpless, tense
+
+autonomy, clarity, safety
+
+Betrayed
+
+devastated, furious, dis­
+oriented
+
+trust, consistency, care
+
+Disrespected
+
+humiliated, small, angry
+
+dignity, belonging, to be
 seen
-Abandoned — terrified, bereft, hollow – needs: connection, consistency, secu­
-rity
-Attacked — scared, tense, raw – needs: safety, respect, protection
-Rejected — crushed, ashamed, small – needs: belonging, acceptance, matter­
-ing
-Used — resentful, tired, bitter – needs: reciprocity, care, to be seen
-Dismissed — stung, frustrated, small – needs: to be heard, respect, mattering
-Controlled — furious, closed, restless – needs: autonomy, sovereignty, trust
-Judged — ashamed, defensive, small – needs: acceptance, safety, to be seen
-Threatened — scared, braced, tense – needs: safety, protection, sovereignty
-Taken for granted — resentful, invisible, tired – needs: acknowledgment, reci­
+
+Abandoned
+
+terrified, bereft, hollow
+
+connection, consistency,
+security
+
+Attacked
+
+scared, tense, raw
+
+safety, respect, protection
+
+Rejected
+
+crushed, ashamed, small
+
+belonging,
+mattering
+
+Used
+
+resentful, tired, bitter
+
+reciprocity, care, to be
+seen
+
+Dismissed
+
+stung, frustrated, small
+
+to be heard, respect, mat­
+tering
+
+Controlled
+
+furious, closed, restless
+
+autonomy,
+trust
+
+Judged
+
+ashamed,
+small
+
+acceptance, safety, to be
+seen
+
+Threatened
+
+scared, braced, tense
+
+defensive,
+
+inclusion,
+
+acceptance,
+
+sovereignty,
+
+safety, protection, sover­
+eignty
+
+7
+
+Pseudo-feeling
+
+What’s actually in the
+body
+
+Needs underneath
+
+Taken for granted
+
+resentful, invisible, tired
+
+acknowledgment,
 procity, mattering
-Violated — disgusted, scared, raw – needs: respect, safety, bodily sovereignty
-Blamed — defensive, tight, small – needs: fairness, understanding, to be seen
-Deceived — furious, sick, disoriented – needs: honesty, trust, clarity
-Excluded — lonely, ashamed, cold – needs: belonging, inclusion, connection
-Mocked — humiliated, hot, closed – needs: dignity, safety, respect
 
-The reason it matters that attacked is not a feeling has nothing to
-do with grammar. Saying you attacked me puts the entire drama
-inside the other person’s character. They will defend. You will
-press. The conversation is now about whether or not they are an
-attacker, and whether or not you are a person who exaggerates.
-The actual thing — that you are hurt, that something old got
-touched, that you wanted closeness and got distance instead —
-never makes it onto the table. The accusation is the lid.
-Compare I feel like you don’t care to I am hurt, and I am longing
-to feel like I matter to you.
-The first is a verdict and an invitation to fight. The second is a
-feeling, a need, and an invitation. The other person can meet it or
-not. At least there is something in the room to meet.
+reci­
+
+Violated
+
+disgusted, scared, raw
+
+respect, safety,
+sovereignty
+
+bodily
+
+Blamed
+
+defensive, tight, small
+
+fairness, understanding,
+to be seen
+
+Deceived
+
+furious, sick, disoriented
+
+honesty, trust, clarity
+
+Excluded
+
+lonely, ashamed, cold
+
+belonging,
+connection
+
+Mocked
+
+humiliated, hot, closed
+
+dignity, safety, respect
+
+inclusion,
+
+If the verdict is also a structural fact — the institution really did dismiss
+you, the boss really is doing what you said — the table is not asking you
+to translate that away. The personal grammar and the political work run
+on different tracks, and the political one is sometimes the one that has
+to happen first.
+
+8
+
+The reason it matters that attacked is not a feeling has nothing
+to do with grammar. Saying you attacked me puts the entire drama
+inside the other person’s character. They will defend. You will press.
+The conversation becomes about whether they are an attacker and
+whether you are a person who exaggerates. What was actually going
+on — that you are hurt, that something old got touched, that you
+wanted closeness and got distance — never makes it onto the table.
+Compare I feel like you don’t care to I am hurt, and I am longing to feel
+like I matter to you.
+The accurate sentence is harder to say. It’s also the one the other
+person can’t easily defend against; you aren’t delivering a verdict for
+them to answer, you’re just reporting. Whether they meet the longing
+or not is a separate question. The bigger thing the sentence does isn’t
+to them at all — it’s to the speaker. The body that delivers a finding
+about someone’s character sits in a different state than the body that
+names its own hurt out loud. We come back to this.
 
 ∗
 
-Underneath the feeling is the need — one piece of jargon that
-earns its place here, because there isn’t a clean substitute for it.
-In NVC, needs are not the things you want from a particular person on a
-particular Tuesday. They are the universal stuff every human runs on — the
-things you cannot stop wanting, no matter who you are or what kind of
-week you’re having.
+Underneath the feeling is the need — one piece of jargon that earns
+its place here, because there’s no clean substitute.
+In NVC, needs aren’t the things you want from a particular person
+on a particular Tuesday. They’re the underlying ones a person walks
+around with no matter who they are or what kind of week they’re
 
-Mattering. Being seen. Rest. Belonging. Solitude. A say in your
-own life. Safety. Contact. Meaning. Play. Contribution. The things
-that, if you’ve gone too long without them, the rest of your life
-starts behaving strangely.
-The need is the why beneath the feeling. You feel hollow
-because something in you is hungry for connection. You feel taut
-because something in you is fighting for respect — for mattering,
-more honestly. You feel that low buzz of resentment because
-something in you has been quietly trading its own rest for some­
-one else’s comfort and the bill has come due. The other person is,
-at most, the occasion. They are not the cause and they are not the
-cure. This sounds, on first read, like a way of letting people off the
-hook. It is not. It is a way of locating the ache somewhere you can
-actually do something about it.
-CONNECTION — belonging, inclusion, intimacy, contact, to be
-seen, to be heard, mattering
-SAFETY — security, protection, bodily sovereignty, stability, pre­
-dictability
-AUTONOMY — choice, freedom, sovereignty, space, self-determi­
-nation
-HONESTY — clarity, trust, transparency, authenticity
-MEANING — purpose, contribution, growth, understanding, to
-make a difference
-ACKNOWLEDGMENT — appreciation, recognition, mattering, to
-be valued
-WELLBEING — rest, food, movement, shelter, touch, health
-PLAY — joy, humor, lightness, spontaneity
-PEACE — ease, quiet, order, harmony, space to breathe
+9
 
-INTEGRATION — to grieve, to process, to make sense of loss
+having — the ones you can’t stop wanting even when you’ve talked
+yourself into not wanting them.
+Mattering. Being seen. Rest. Belonging. Solitude. A say in your own
+life. Safety. Contact. Meaning. Play. Contribution. These are the
+things that, if you’ve gone without one of them for too long, you start
+seeing the absence everywhere else.
+The need is the why beneath the feeling. You feel hollow because
+something is hungry for connection. You feel taut because something
+is fighting for respect — for mattering, more honestly. You feel the
+low buzz of resentment because something has been quietly trading
+its own rest for someone else’s comfort and the bill has come due.
+The person across from you is the occasion for these. They didn’t
+manufacture any of them, and couldn’t single-handedly fill them if
+they tried. This isn’t letting anyone off the hook. The ache is yours;
+you’re the only one who can actually do anything with it.
+Need category
 
-These are not preferences. They are infrastructure.
+What it includes
+
+CONNECTION
+
+belonging, inclusion, intimacy, con­
+tact, to be seen, to be heard, mattering
+
+SAFETY
+
+security, protection, bodily sover­
+eignty, stability, predictability
+
+AUTONOMY
+
+choice, freedom, sovereignty, space,
+self-determination
+
+HONESTY
+
+clarity, trust, transparency, authentic­
+ity
+
+MEANING
+
+purpose, contribution, growth, un­
+derstanding, making a difference
+
+10
+
+Need category
+
+What it includes
+
+ACKNOWLEDGMENT
+
+appreciation, recognition, to be val­
+ued
+
+WELLBEING
+
+rest, food, movement, shelter, touch,
+health
+
+PLAY
+
+joy, humor, lightness, spontaneity
+
+PEACE
+
+ease, quiet, order, harmony, space to
+breathe
+
+INTEGRATION
+
+to grieve, to process, to make sense of
+loss
+
+Go too long without one and the rest of your
+life starts behaving strangely.
 
 ∗
 
-How sure are you, right now, that the thing you just called
-a feeling is actually a feeling? You have been wrong about this
-before. You have called resentment what was actually grief that
-hadn’t been allowed to be sad. You have called fine what was
-actually the bottom of the lake.
-Anger is its own field, and it deserves a different treatment than
-the rest.
-First: anger is a signal. Sometimes the most trustworthy signal
-you have. The consuming kind — the kind that leaves you in
-the bathtub unknotting your own muscles, the kind that has you
-screaming until there is nothing left — at its core is saying one
-thing with total clarity: harm is being done here, and it must be ac­
-knowledged. That is not a malfunction. That is the system working
-exactly as designed.
-Rosenberg calls anger a thinking event — the body’s response
-to a story you are telling about wrongness. Useful framing for
-some kinds of anger. Not the whole picture. Sometimes the anger
+How sure are you, right now, that the thing you just called a feeling
+actually is one? You’ve been wrong about this before. You’ve called
+resentment what turned out to be grief that hadn’t been allowed to
+cry. You’ve called fine a state you decided to stop looking into.
 
-is not downstream of a story. Sometimes it is the alarm going off
-because the alarm is what the situation requires. The problem
-with anger is not that it lies. The problem is that it needs trans­
-lation before the people in the room can hear what it’s actually
-saying.
-This is where NVC’s relationship to anger gets interesting, and
-where the standard pedagogy tends to botch it. NVC doesn’t ask
-you to abandon the anger. It asks you to give the anger grammar
-— to find the words that let the harm be named, the need stated,
-the moment made real enough that someone else can meet it. I
-am furious. Harm has been done. I need it to be acknowledged. That
-sentence has the heat in it. It is not a calmer version of rage. It is
-rage with enough language to land.
-Anger runs in different modes, and over time the practice
-helps you notice which one is in the room tonight.
-Sometimes it is fear with a louder coat — fear of losing the
-connection, fear that turning soft will get you killed in the house­
-hold you grew up in. Sometimes it is grief that hasn’t been allowed
-to weep yet. Sometimes it is humiliation, the body’s response to
-being made small in public. Sometimes it is a much older anger,
-on loan from someone in your family who never got to feel it,
-running its programs through you decades after the fact.
-And sometimes it is none of those. Sometimes it is just the
-harm detector doing the job it was built to do, and the only wrong
-move is to talk yourself out of it before you’ve let it speak.
-There is a kind of anger that is just a tantrum — the wallpunching volatility of an adult who cannot tolerate the word no.
+11
 
-That anger takes up all the oxygen. It is exhausting, repetitive, and
-ultimately an attempt to control the environment by terrifying it.
-There is another kind. The kind that rises when your limits are
-being actively dismantled, when you are being harmed, gaslit, or
-trapped. This is not a thinking event. This is the part of you that
-has been keeping an extremely accurate ledger of harm, and the
-ledger has finally been opened.
-Call it the golden bear.
-The golden bear is not fear in a louder coat. It is life-force
-standing up on its hind legs. Its anger can feel apocalyptic. It can
-sound like a complete inventory of every time safety was stolen.
-It is not kind. It is also not the same thing as a child screaming
-I hate you because ice cream was denied. One is protest theater.
-The other is life-force saying, with total clarity: harm is being done
-here, and it must be acknowledged.
-If you try to use NVC to translate your protective rage away
-while you are actively being harmed, you have turned the practice
-into a unilateral disarmament. That is not the practice. That is the
-practice eating itself.
-The goal is not to exile the bear. The goal is to build a
-relationship with him — so he does not have to take the wheel
-at volume eleven to be heard. When he trusts that you will listen
-and translate his snarls — I need the harm to stop. I need to get
-out. I need my nervous system to stop being used as a trash compactor
-for other people’s unhealed parts — he can go back to hibernating
-inside love.
+First: anger is a signal. Sometimes the most trustworthy signal you
+have. The consuming kind — the kind that leaves you in the bathtub
+unknotting your own muscles, the kind that has you screaming until
+there is nothing left — is reporting one thing: harm is being done here,
+and it must be acknowledged.
+Rosenberg calls anger a thinking event — the body’s response to a
+story you are telling about wrongness. Useful framing for some kinds
+of anger. Not the whole picture. Sometimes the anger is not down­
+stream of a story; the alarm is going off because the alarm is what
+the situation requires. Anger gives accurate information most of the
+time. It just usually needs translation before the people in the room
+can hear what it’s actually saying.
+NVC doesn’t ask you to abandon the anger. It asks you to put words
+on it — words that let the harm get named, the need stated, the
+moment real enough that another person could meet it. I am furious.
+Harm has been done. I need it acknowledged. The heat is in those
+sentences. The rage now has language attached.
+Sometimes the anger underneath is fear — of losing the connection,
+or that turning soft will get you killed in the household you grew
+up in. Sometimes it’s grief that hasn’t been allowed to weep yet. Or
+humiliation, the body’s response to being made small in public. Or a
+much older anger on loan from someone in your family who never
+got to feel theirs — running its old program through you, decades
+later.
+And sometimes none of that. Sometimes the harm detector is just
+doing the job it was built for, and the wrong move is talking yourself
+out of it before you’ve heard it through.
 
-The leash you keep on him should be made of
-paper. Both of you should know it.
+12
+
+There’s a coarser cut underneath all of this. Not what the anger is
+made of — what it’s for.
+Some anger is a tantrum. The wall-punching volatility of an adult
+who can’t tolerate the word no, taking all the oxygen in the room,
+exhausting, repetitive, fundamentally an attempt to control the envi­
+ronment by terrifying it. Most of us have run this at least once. Many
+of us grew up with someone who ran it most days.
+Some anger isn’t doing that work at all. It rises when your limits are
+actively being dismantled — when you are being harmed, gaslit, or
+trapped — and it stops being a thinking event and becomes a ledger.
+The part of you that has been keeping an accurate accounting of
+harm done has finally opened the book.
+This kind can feel apocalyptic. It can sound like a complete inventory
+of every time safety was stolen. It is not kind. It is also not the child
+screaming I hate you because ice cream was denied — these are
+different things, and the practice has to be able to tell them apart,
+especially when you’re the one doing the feeling.
+Using NVC to translate this kind of rage away while you are actively
+being harmed is the practice being weaponized against the part of
+you trying to keep you alive.
+What this anger needs is to be heard before it has to take the wheel
+at volume eleven. Trying to exile it doesn’t work, and the body won’t
+let you for long. When the protective part trusts that you will listen
+and put its snarls into words — I need the harm to stop. I need to get out.
+I need my nervous system to stop being used as a trash compactor for other
+people’s unhealed parts — it doesn’t have to drive every conversation.
 
 ❦
-Fear has its own field. Fear of losing the connection. Fear of
-being seen and rejected. Fear of one’s own anger, especially in
-households where anger had a body count. Fear of becoming the
-parent. Fear that is actually the body remembering something the
-mind has agreed to forget. The reason these feel different from
-the inside is that they are different, and a lot of the work of NVC,
-quietly, is the work of slowing down enough to notice which one
-is actually in the room with you tonight.
-And here is a sentence you should be allowed to say out loud,
-even though most NVC pedagogy skips over it: I don’t know what
-I feel.
-That is also data. When the honest answer is I am numb, or
-I am underwater, or there is something but I cannot find it, that is a
-feeling — sometimes called freeze, sometimes called dorsal-vagal
-shutdown, depending on whose lineage you read. The body has
-gone quiet to keep you safe.
-Before we go any further: picture the last time you were really
-upset with someone. Picture it.
-Not to reframe it as NVC. Not that exercise.
+13
 
-Now find your ten fingers and your ten toes. Make sure you can
-feel each of them.
-NVC does not work very well in that state. Almost nothing
-does. The work is not to push for words — the work is to come
-back online first. Slow breath, feet on the floor, leave the room,
-eat something, anything that lets the feeling-finding apparatus
-turn itself back on. Kathleen Macferran, one of the trauma-aware
-NVC trainers, puts it cleanly: you cannot move the conversation
-faster than the ability of everyone’s nervous system to digest, assimilate,
-or integrate the conversation. You cannot drag a frozen body into a
-four-step. The four-step needs the body to believe it is safe before
-the words can do anything useful.
-The work, for now, is small. When the sentence starts with I
-feel like — pause. Something else is trying to speak. Find it in the
-body before you let your mouth name it.
-The body knows. The body has always known.
+The specific shapes vary: fear of losing the connection, fear of being
+seen and rejected, fear of one’s own anger in households where anger
+had a body count, fear of becoming the parent, fear that is the body
+remembering something the mind has agreed to forget. They feel
+different from the inside because they are different. A lot of the work,
+quietly, is just slowing down enough to notice which one is actually
+in the room with you tonight.
+Here is a sentence you are allowed to say out loud: I don’t know what
+I feel.
+Saying it is itself accurate. When the honest answer is I am numb,
+or I am underwater, or there is something but I cannot find it, that is
+a feeling — sometimes called freeze, sometimes called dorsal-vagal
+shutdown, depending on whose lineage you read. The body has gone
+quiet to keep you safe.
+NVC doesn’t work well in that state. Almost nothing does. Pushing
+for words right now won’t do what you want it to do; what helps is
+the body finding its way back into the rest of you. Slow breath, feet
+on the floor, leave the room, eat something, anything that lets the
+feeling-finding apparatus turn back on. Kathleen Macferran, one of
+the trauma-aware NVC trainers, puts it cleanly: you cannot move the
+conversation faster than the ability of everyone’s nervous system to digest,
+assimilate, or integrate the conversation. You cannot drag a frozen body
+into a four-step. The four-step needs the body to believe it’s safe
+before the words can do anything useful.
+When the sentence starts with I feel like — pause. Something else is
+trying to speak. Find it in the body before you let your mouth name it.
+
+14
 
 III
 
 SPEAKING
 
-There is a thing people do, once they have learned the surface
-shape of NVC, where they use the shape to deliver the same
-complaints they were already delivering, in a tone that suggests
-they have done the reading. The grievance gets a clean coat
-of paint. The structure is technically correct. The person on
-the receiving end nevertheless feels, somehow, that they are in
-trouble in a more articulate way than before.
-This is the first trap of speaking with NVC: using the form to voice
-complaints without doing the actual work the form was supposed
-to make possible.
-Here is the skeleton. Write it down if it helps. Burn it after.
-Speaking with NVC reduces, in its clinical form, to four moves.
-They have an acronym. The acronym is OFNR. People who love
-acronyms tend to use them as armor, and this one is no exception.
-What follows is a temporary exoskeleton for a body that hasn’t
-yet learned to hold itself up without one. The goal, from the first
-time you use it, is for it to come off.
+There’s a thing people do, once they’ve learned the surface
+shape of NVC, where they use the form to deliver the
+same complaints they were already delivering, in a tone that
+suggests they’ve done the reading. The complaint is the same;
+the vocabulary is more careful. The person on the receiving
+end still feels, somehow, like they’re in trouble — just in a
+more articulate way than before.
+Speaking with NVC reduces, in its clinical form, to four moves
+(OFNR). People who love acronyms tend to use them as armor, and
+this one is no exception. The four moves are scaffolding. The scaf­
+folding is supposed to come down once the building stands up.
 OFNR: Observation — what a camera would have recorded. Feeling —
-what is in your body, not what they did to you. Need — the universal hunger
+what is in your body, not what they did to you. Need — the universal
+hunger underneath. Request — concrete enough to say yes or no to. If
+they can’t say no, it was a demand.
 
-underneath. Request — concrete enough to say yes or no to. If they cannot
-say no, it was a demand.
-
-Observation. What a cam­
-era would have recorded.
-Not what it meant, not who
+Observation. What actually happened. Not what it means. Not who
 it makes them.
+Feeling. What’s in your body. Not what they did to you. Not the
+verdict.
 
-Feeling. What is in your
-body. Not what they did to
-you. Not the verdict.
+15
 
-Need. The why beneath
-the feeling. The universal
-hunger — not the spe­
-cific thing from this spe­
-cific person on this specific
-Tuesday.
-
-Request. Concrete enough
-to say yes or no to. If they
-cannot say no, it was a de­
-mand in a request’s coat.
-
-That is the exoskeleton. Most of where you will actually live is in
-the gap between the first time it fails and the first time it doesn’t.
+Need. The why beneath the feeling. The universal hunger — not the
+specific thing from this specific person on this specific Tuesday.
+Request. Concrete enough for a yes or no. If they can’t say no, it was
+a demand the whole time.
 
 ∗
 
 A short detour into observation.
-
-Most of what we say to each other is evaluation pretending to
-be observation. He never helps is an evaluation. He left the dishes
-again last night is closer to an observation. She’s just like her mother
-is a story. She raised her voice three times during the conversation about
-money is what happened.
-The grammatical fingerprints of evaluation: never, always,
-every time, just like, that kind of person, you always make this about,
-this is so typical of you. When you hear yourself reach for one of
-these, you are no longer reporting. You are prosecuting.
-There is a thread here going deeper than NVC pedagogy usu­
-ally wants to go — a claim about what these sentence-forms do to
-the people who say them, and to the people they are said about.
+Most of what we say to each other is evaluation pretending to be
+observation. He never helps is an evaluation. He left the dishes again last
+night is closer to an observation. She’s just like her mother is a story. She
+raised her voice three times during the conversation about money is what
+happened.
+The grammatical fingerprints of evaluation: never, always, every time,
+just like, that kind of person, you always make this about, this is so typical
+of you. When you hear yourself reach for one of these, the prosecu­
+tion has already started; there’s no observation left in the sentence.
 Feeling and need.
-The previous section did most of the work here. Two re­
-minders, since they will keep slipping if you let them.
-Feelings live in the body. If the sentence has the other person in
-it, you are not yet at the feeling.
+Feelings live in the body. If the sentence has the other person in it,
+you’re not yet at the feeling.
 The need is universal. Not the version contingent on this specific
-person doing this specific thing. The need beneath I want you to
-text me back faster is probably contact, mattering, or care. The other
-person is the occasion. The need is what is actually hungry.
+person doing this specific thing. The need beneath I want you to text
+me back faster is probably contact, mattering, or care. The particular
+
+16
+
+person is the occasion. The hunger underneath them is older than
+they are.
 
 ∗
 
-Request, and the thing recovery folks already know.
-A request is something the other person can say no to. If they cannot say
-no, it was a demand wearing a request’s clothes.
+Request, and the thing recovery folks already know.
+A request is something the other person can say no to. If no isn’t actually
+available to them, it was a demand the whole time.
 
-Most people who grew up in households where directly asking
-for things was dangerous have spent decades issuing demands
-disguised as requests, or hints disguised as requests, or — most
-painfully — needs swallowed before they ever reached the level
-of a request. People-pleasing, codependence, the carefully man­
-aged niceness of someone who learned early that wanting things
-gets you hit, ignored, mocked, or left. I don’t really care, whatever
-you want means something very different when it comes from the
-partner who has shaped their entire life around accommodating
-yours.
-NVC, read through codependence recovery, is not asking you
-to become more authentic in some abstract spiritual sense. It is
-asking your nervous system to risk that asking directly might not,
-this time, get you killed. That is the actual ask. It is worth being
-honest about it.
+Most people who grew up in households where directly asking for
+things was dangerous have spent decades issuing demands disguised
+as requests, or hints disguised as requests, or — most painfully —
+needs swallowed before they ever reached the level of a request.
+People-pleasing, codependence, the carefully managed niceness of
+someone who learned early that wanting things gets you hit, ignored,
+mocked, or left. I don’t really care, whatever you want means some­
+thing very different when it comes from the partner who has shaped
+their entire life around accommodating yours.
+NVC, read through codependence recovery, is not asking you to
+become more authentic in some abstract spiritual sense. It is asking
+the body whose first lesson was do not want anything out loud to want
+something out loud, in front of someone who could refuse you. That
+is what the practice costs the people who need it most.
 What it actually looks like, when it goes at all.
-Your friend has been canceling on you for three months. Every
-time, a good reason. Every time, you say no worries, it’s fine. You
-have been saying no worries, it’s fine for so long that you have
-mostly convinced yourself it is true. The slight hollow in your
-chest when she texts to reschedule is data you have been ignoring
-on purpose.
+17
 
-What you actually feel: dropped. A little invisible. What you
-actually need: to know you are a real priority, not just an intention.
-You have never said this out loud. The version of you who
-learned early that wanting things has a cost has been editing the
-ask before it reaches your mouth for years.
-Here is the practice, applied: find the thing in the body first.
-Not the argument. Not the evidence of how many times this has
-happened. The feeling — something between sad and scared —
-and the need underneath it, which is mattering, contact, some­
-thing like I want to be someone’s plan-A at least occasionally.
-Then the request. Not you always cancel on me (prosecution).
-Not are you sure you can make it next time? (pre-emptive surrender
-dressed as a question). The actual request is concrete enough that
-she can genuinely answer it: Would you be willing to put something
-in the calendar for next month and actually hold it — not maybe, not
-let me check, but hold it?
-She can say yes. She can say she genuinely does not have
-the capacity right now. Either answer is real information. Both
-are better than another three months of no worries, it’s fine. Real
-information lets you make real decisions. Fine keeps you stuck in
-a room with no exits and a very polite atmosphere.
-A request does not guarantee a yes. That is exactly why it is a
-request and not a demand. You are handing another person real
-choice. For most people who spent years swallowing their needs,
-that is the harder risk — harder than the managed performance
-of not-wanting. It is also the only one that goes anywhere real.
+Your friend has been canceling on you for three months. Every
+time, a good reason. Every time, you say no worries and have mostly
+convinced yourself it’s true. The slight hollow in your chest when she
+texts to reschedule is data you’ve been ignoring on purpose.
+What you actually feel: dropped. A little invisible. What you actually
+need: to know you are a real priority, not just an intention.
+You’ve never said this out loud. The version of you who learned early
+that wanting things has a cost has been editing the ask before it
+reaches your mouth for years.
+Here is the practice, applied: find the thing in the body first. Not the
+argument. Not the evidence of how many times this has happened.
+The feeling — something between sad and scared — and the need
+underneath it, which is mattering, contact, something like I want to
+be someone’s plan-A at least occasionally.
+Then the request. You always cancel on me is a prosecution, not a
+request. Are you sure you can make it next time? is pre-emptive surren­
+der dressed as a question. A real request is concrete enough that she
+can genuinely answer it: Would you be willing to put something in the
+calendar for next month and actually hold it — not maybe, not let me
+check, but hold it?
+She can say yes. She can say she genuinely doesn’t have the capacity
+right now. Either answer is something you can actually plan around.
+Both beat another three months of it’s fine. Fine keeps you stuck in a
+room with no exits, politely.
+A request doesn’t guarantee a yes. That’s exactly why it’s a request
+and not a demand. You’re handing another person real choice. For
+people who spent years swallowing their needs, the asking is the
+bigger risk — bigger than the managed performance of not-wanting
 
-∗
+18
 
-NVC trainings frequently become a new arena for the same
-patterning the practice is supposed to address. The overempathic listener who never gets a need on the table. The
-participant who suppresses their own request because they don’t
-want to create a demand. The workshop facilitator who confuses
-self-abandonment with compassion and teaches it to a room full
-of people who are already losing themselves. NVC can re-install
-codependence in spiritualized form, with the original cost-ofasking logic now gilded with the moral authority of having
-attended a seminar. A lot of the time it does. Naming this is not
-an attack on the practice. It is part of the practice.
-There is a mirror-image trap, and it is worse.
-When the scaffold becomes a cage.
-Here is a scene.
-Someone is being chased around a backyard by another per­
-son who is screaming: Why don’t YOu ever even FUCKING try to
-use NVC? Nothing true is ever said in anger. Why won’t you just TRY.
-The person being chased stops. And, because they have actu­
-ally read the booklet, responds: Okay, I’ll try. When you chase me
-around the yard, yelling and cursing at me to fucking use NVC, I feel a
-mixture of bewilderment, absurd hilarity, and anger. My only request
-
-is that your next actions or words be ones that allow me to go with
-the joke.
-It did not land. But they laughed inwardly. That felt sane.
-Nothing true is ever said in anger is not an NVC principle. It is
-the dominator tradition wearing NVC like a mask. It performs the
-same structural move as the is-of-identity: I am calm, therefore I am
-right; you are angry, therefore you are wrong — but now it has the
-moral authority of a nonviolent communication practice behind
-it.
-Notice what has not been established: that the person doing
-the chasing is calm. They are not calm. They are screaming.
-They are in pursuit. Calm in this formula is not a description of
-an emotional state. It is a badge applied to whoever invokes NVC
-grammar, regardless of what their nervous system is actually
-doing. You do not have to be regulated to claim the calm position.
-You only have to be using the right language while the other
-person is using the wrong one.
-The person demanding NVC compliance while pursuing you
-is doing something more violent than someone who simply yells.
-They are enforcing a unilateral disarmament in the same sympa­
-thetic activation they are accusing you of. Your anger is rendered
-illegitimate by the grammar. Their behavior, at any volume, van­
-ishes into the background as the unremarkable default.
-The move has a name: tone policing. It does not require
-conscious malice to operate. It works by shifting the entire con­
-versation from what is being done to how you are reacting to it. The
-harm becomes invisible. Your response to the harm is what is now
-
-on trial. If you cooperate — soften your tone, reach for the fourstep, try to comply — the behavior that prompted the response
-is retroactively vindicated by your compliance. Your trying is
-offered as proof that you were the problem.
-The codependence trap and this trap are the same trap from
-different angles. The over-listener who can never get a need on
-the table and the person who cannot be angry in a room where
-calm is being used as a weapon are receiving the same message:
-your interior is the problem, and here is the practice to make you
-quiet.
-NVC assumes a baseline: both bodies in the room have enough
-safety, enough sovereignty, enough self remaining to speak from.
-Remove that baseline and the tool stops applying. It does not
-malfunction. It simply stops being the right instrument for what
-is happening.
-
-You cannot NVC a bear attack.
-What Rosenberg actually wrote is that violence is the tragic
-expression of an unmet need. The person doing the chasing is
-unmet somewhere. Also true. The person being chased is also
-unmet, also scared, also possibly in danger — and their anger
-is not a communication failure. It is accurate information about
-what needs to happen next.
-
-Sometimes that information sounds like: I am leaving now. This
-conversation is over.
-Sometimes the most nonviolent thing in the room is the
-person walking away.
-This is worth naming plainly, because the practice’s marketing
-tends to skip it. NVC is not asking you to stay. I need to leave this
-conversation is a fully valid request. I need some space before we
-talk about this is a fully valid request. I am not willing to be in this
-relationship on these terms is a statement of need as legitimate as
-any other in the practice.
-There is a difference between NVC doesn’t apply here because
-you’re being harmed and NVC applies here, and what it is telling you is
-to leave. The second framing is more useful. It means the practice
-was not taken from you. It means the practice is the thing pointing
-at the door.
-Once sovereignty is internalized — both kinds, the one that
-lets you ask cleanly and the one that lets you walk — a quieter
-grief arrives. You cannot guarantee connection. Your stuff sits on
-your side; theirs sits on theirs. Soft-pedaling needs or swallowing
-them only increases the distance. Speaking them cleanly may re­
-veal the relationship was never what you imagined. NVC can keep
-people together. It can also show you, with surgical kindness,
-when it cannot. Other people become less threatening. They also
-sometimes become more sad. This grief is not failure. It is the
-weather after the courtroom closes.
-❯ ❯ ❯
-
-The longing reframe.
-One move worth marking, because it changes the temperature
-in the room.
-Most of us, when we finally get our feeling and need out, lead
-with what is missing. I am hurt and I am needing partnership. True.
-Useful. But there is a slightly different sentence that does different
-work: I am hurt — and what I am longing for is more of our days
-having a sense of partnership in them.
-The first sentence says the cup is empty. The second sentence
-says I am thirsty, and here is what I am thirsty for. Same cup.
-Different conversation. The need named in the longing form lets
-the other person feel the direction of the wanting, not just the
-weight of the lack. It is harder to defend against. It is harder to
-weaponize. It also feels more honest most of the time, because
-most of the time, what you actually want is the positive version,
-not the absence of the negative one.
-A handful of smaller traps.
-The robot problem — OFNR delivered so stiffly the form itself
-produces distance — and the structure as weapon — technically
-correct OFNR in a tone of cold prosecution, on Tuesday at 7:42 pm
-I observed that you dressed up as observation — are essentially the
-same trap. What is missing in both is curiosity, any actual interest
-in the other person’s interior. Without that, you are just prosecut­
-ing in a more articulate dialect. Any tool can be weaponized. This
-is not unique to NVC.
-
-And sometimes even with the form held lightly and the traps
-avoided and the language as clean as you can make it, the true
-thing still does not land.
-NVC does not guarantee connection. It makes connection
-possible. The gap between those two things is where most of your
-actual life will be lived.
-You said the real thing. Found the feeling, named the need,
-made the request — clearly, cleanly, without a verdict in it. And
-the other person could not meet you. Would not. Or heard some­
-thing different entirely and answered that instead. Or went quiet
-in a way that told you everything.
-This is where a lot of people put the practice down. It feels like
-a betrayal — you did the work, you took the risk, you were honest
-in a way you had never quite managed before. And still.
-What nobody’s introductory material explains is that naming
-a need is an act of grief before it is an act of connection. You are
-saying out loud: this is what I need, and I am not getting it. The
-saying makes the gap real in a way that swallowing it never did.
-Swallowing keeps the door open to a world where maybe you
-could still get it, if you found the right moment, the right words.
-Naming closes that door. A different one opens. But the grief is
-real.
-
-The grief of the unmet need is part of the
-practice. Not a failure of it.
-
-The willingness to feel what you actually need — even when the
-need is not going to be met, especially then — is most of what the
-practice is training. The feeling runs its course. The need names
-itself again later, in a different conversation, with someone who
-has more capacity. You will have practice at making the ask by
-then.
-The practice is for your whole life, not just the conversations
-that work.
+it in the first place. It’s also the version where anything new can
+happen.
 
 ∗
 
-The four-step is a tool. The point was never the four-step. The
-point is the person you are reaching toward through it.
-Including, sometimes, yourself.
+NVC trainings frequently become a new arena for the same pattern­
+ing the practice is supposed to address. The over-empathic listener
+who never gets a need on the table. The participant who suppresses
+their own request because they don’t want to create a demand. The
+workshop facilitator who confuses self-abandonment with compas­
+sion and teaches it to a room full of people who are already losing
+themselves. NVC can re-install codependence in spiritualized form,
+with the original cost-of-asking logic now gilded with the moral
+authority of having attended a seminar. A lot of the time it does.
+The mirror version of this trap is worse than the codependent one.
+Most people don’t notice it, because the language sounds correct
+from the outside.
+Someone is being chased around a backyard by another person who
+is screaming: Why don’t YOU ever even FUCKING try to use NVC?
+Nothing true is ever said in anger. Why won’t you just TRY.
+The person being chased stops. And, because they have actually
+read the booklet, responds: Okay, I’ll try. When you chase me around
+the yard, yelling and cursing at me to fucking use NVC, I feel a mixture
+of bewilderment, absurd hilarity, and anger. My only request is that your
+next actions or words be ones that allow me to go with the joke.
+
+19
+
+It didn’t land. But they laughed inwardly. That felt sane.
+Nothing true is ever said in anger — a paraphrase of a common work­
+shop trope, not a sentence Rosenberg wrote — is the old dominator
+move with new vocabulary. It performs the same structural sleightof-hand as the is-of-identity: I am calm, therefore I am right; you are
+angry, therefore you are wrong — but now with the moral authority of
+a nonviolent communication practice behind it.
+Notice what has not actually been established: that the person doing
+the chasing is calm. They’re not calm. They’re screaming. They’re in
+pursuit. Calm in this formula is not a description of an emotional
+state; it’s a badge handed to whoever invokes NVC grammar, regard­
+less of what their nervous system is actually doing. You don’t have to
+be regulated to claim the calm position. You only have to be using the
+right vocabulary while the other person is using the wrong one.
+The person demanding NVC compliance while pursuing you is
+doing something more violent than someone who simply yells. They
+are enforcing a unilateral disarmament in the same sympathetic ac­
+tivation they are accusing you of. Your anger is rendered illegitimate
+by the grammar. Their behavior, at any volume, vanishes into the
+background as the unremarkable default. Tone policing is the name
+for the move, when it has a name. It doesn’t require conscious malice
+to operate. It works by shifting the entire conversation from what is
+being done to how you are reacting to it. The harm becomes invisible.
+Your response to the harm is what is now on trial. If you cooperate
+— soften your tone, reach for the four-step, try to comply — the
+behavior that prompted the response is retroactively vindicated by
+your compliance. Your trying is offered as proof that you were the
+problem.
+
+20
+
+Underneath both traps — the codependent one and the tone-polic­
+ing one — the message being delivered to the person on the receiving
+end is the same: your interior is the problem, and here is the practice
+to make you quiet.
+What the form does well, when it’s used honestly rather than
+weaponized, is this: when the codependent person tries to assemble
+the sentence, the structure asks hang on — do you actually have a
+request, or are you hoping they’ll guess? When the controlling person
+tries to assemble the sentence, it asks is this a request, or will you
+punish them when they say no? Either question interrupts a particular
+kind of disappearing — the self-disappearing of the codependent,
+the consent-disappearing of the controller. Neither is fully escapable
+from inside the form, not without abandoning the form altogether,
+which a lot of people do, and which is its own kind of tell.
+The form doesn’t fix the patterning. The patterning gets fixed by slow
+uneven work over years, if it gets fixed at all. What the form does is
+hold up a mirror — your particular survival strategy made visible,
+sentence by sentence, in the exact way it has been hiding itself inside
+your particular kind of articulate.
+NVC assumes a baseline: both bodies in the room have enough safety
+in this moment, enough sovereignty in this conversation, enough self
+remaining to speak from. The qualifier matters — this is not about
+whether your life is safe in general, or your household is safe overall,
+only whether right here, right now, your nervous system has any
+margin left to use the form. Remove that margin and the tool stops
+applying. The tool didn’t fail; the situation changed shape.
+What Rosenberg actually wrote is that violence is the tragic expres­
+sion of an unmet need. The person doing the chasing is unmet
+
+21
+
+somewhere. Also true. The person being chased is also unmet, also
+scared, also possibly in danger — and their anger isn’t a communi­
+cation failure. It’s accurate information about what needs to happen
+next.
+Sometimes that information sounds like: I am leaving now. This con­
+versation is over.
+NVC isn’t asking you to stay. I need to leave this conversation is a fully
+valid request. I need some space before we talk about this is a fully valid
+request. I am not willing to be in this relationship on these terms is a
+statement of need as legitimate as any other in the practice.
+There’s a difference between NVC doesn’t apply here because you’re
+being harmed and NVC applies here, and what it is telling you is to leave.
+The second sentence is sometimes the answer. You used the practice,
+and the practice told you to go.
+Once sovereignty is internalized — both kinds, the one that lets you
+ask cleanly and the one that lets you walk — a quieter grief arrives.
+You can’t guarantee connection. Your stuff sits on your side, theirs sits
+on theirs. Soft-pedaling needs or swallowing them only increases the
+distance. Speaking them cleanly sometimes reveals the relationship
+was never what you imagined. Other people become less threaten­
+ing; some of them also become sadder, viewed accurately.
+
+❯ ❯ ❯
+Lead with what you’re hungry for, not what’s missing.
+Most of us, when we finally get the feeling and need out, lead with
+the gap. I am hurt and I am needing partnership. True. Useful. There is
+a related sentence that does different work: I am hurt — and what I
+am longing for is more of our days having a sense of partnership in them.
+
+22
+
+The longing form points at what you’d be moving toward if there
+were more of it — the direction of the wanting, not just the weight
+of the lack. The other person gets to feel the shape of what you’re
+actually after, instead of only the absence. Harder to defend against,
+harder to weaponize, and usually more honest, since most of the time
+the thing you want isn’t the disappearance of the bad version; it’s the
+presence of a better one.
+And sometimes, even with the form held lightly and the traps
+avoided and the language as clean as you can make it, the true thing
+still doesn’t land.
+You said the real thing. Found the feeling, named the need, made
+the request — clearly, cleanly, without a verdict in it. And the other
+person could not meet you. Wouldn’t. Or heard something different
+entirely and answered that instead. Or went quiet in a way that told
+you everything.
+This is where a lot of people put the practice down. It feels like a
+betrayal — you did the work, you took the risk, you were honest in a
+way you’d never quite managed before. And still.
+Most introductory material skips the part that comes next: there’s
+grief built into the naming, regardless of whether the other person
+meets you. You are saying out loud, to yourself first, this is what I
+need, and I am not getting it. Saying it makes the gap real in a way that
+swallowing it never did. Swallowing kept the door open to a world
+where maybe you could still get it, if you found the right moment,
+the right words. Naming closes that door. Sometimes a different one
+opens. Sometimes it doesn’t.
+
+23
+
+The grief that comes with naming an unmet
+need is part of what the form is doing.
+The willingness to feel what you actually need — even when the
+need isn’t going to be met, especially then — is most of what the
+practice is training. The feeling runs its course. The need names itself
+again later, in a different conversation, with someone who has more
+capacity.
+
+24
 
 IV
+M
 
 SELF-NVC
 
-Most of NVC, if it is being done well, happens before you say
-anything.
-The eight seconds between someone saying I just don’t think
-you respect me and your response. The eight minutes between the
-text landing and your thumb starting to type. The eight hours
-between the thing your boss said in the meeting and the email
-you finally send at 11 pm. Most of the work of the practice — the
-part that actually changes the room when you finally do open
-your mouth — is the work that happens in those gaps, alone, with
-whoever is currently rolling around inside your skull.
+ost of the work of NVC happens before anyone hears anything
+
+come out of your mouth.
+There is a gap. Between when your friend says I just don’t think you
+respect me and the answer that finally leaves your face. Three seconds,
+usually. Sometimes the rest of the conversation. Sometimes the text
+sits on your phone for half an hour while your thumb hovers and
+you cycle through six versions of an answer. Sometimes the thing
+your boss said in the meeting becomes an email you write that night,
+after rewriting the second sentence four times. Most of the practice
+happens in those gaps — alone, with the version of you that gets loud
+when there is no one watching.
 The first move is a pause. Not a long one. Long enough to ask:
-This is a feeling. What story am I telling myself about what just
-happened?
-That single question, asked honestly, is most of self-NVC. The
-rest of this section is footnotes on it.
-The pause question: This is a feeling.What story am I telling myself about
-what just happened?
+This is a feeling. What story am I telling myself about what just happened?
+One thing about the pause that’s easy to miss: the inner monologue
+gets louder and faster when the body is dysregulated, not slower. The
+internal courtroom runs at full volume precisely when you are least
+equipped to translate anything. Self-NVC is only really available to
+a body that has decided, at least slightly, that it’s safe enough to
+slow down. Feet on the floor. A few breaths. Something cold in your
+mouth. Walking out to the kitchen. The translation work happens in
+a body that has come back online — even partway. If the body is still
+spinning, the work is to come back online first. The words can wait.
 
-One thing about the pause that is easy to miss: the inner mono­
-logue gets louder and faster when the body is dysregulated, not
+25
 
-slower. The internal courtroom runs at full volume precisely
-when you are least equipped to translate anything. Self-NVC is
-only really available to a body that has decided, at least slightly,
-that it is safe enough to slow down. Feet on the floor. A few
-breaths. Something cold in your mouth. Walking out to the
-kitchen. The translation work happens in a body that has come
-back online — even partway. If the body is still spinning, the work
-is to come back online first. The words can wait.
+∗
 
-∗
+Sometimes the feeling and the need are enough. The story under­
+neath isn’t always the homework.
+Try this one. I am feeling insecure tonight, and I am longing for some
+reassurance that you still find me attractive.
+That sentence doesn’t require a thirty-minute investigation of where
+the insecurity is from — your mother, your last relationship, the hair­
+cut, the lighting, the third glass of wine, the article about hormones,
+or all six at once. Sometimes the feeling is the feeling and the need
+is the need and the work is to say it. The historical research can wait,
+or happen later, or never happen at all. Right now, in your kitchen,
+what you have is enough.
+This is, counter-intuitively, one of the harder moves to learn. Because
+the real trap, for many of us, isn’t failing to find the story. The real trap
+is digging into the story when there was nothing in it that actually
+needed digging up.
+When the thinking is the avoidance.
+Thoughtful people, the readers of this kind of booklet most of all,
+run their own version of this trap. Let me figure out why I am feeling this
+becomes the more sophisticated way of saying let me not say what I am
+feeling. The analysis works as a way to stay in the head and out of the
+body, out of the room, out of the request. Therapy and NVC and IFS
+and somatics and astrology and your friend’s podcast all come pre-
 
-The thing the feeling is for.
-Sometimes the feeling and the need are enough. The story
-underneath is not always the homework.
-Try this one. I am feeling insecure tonight, and I am longing for
-some reassurance that you still find me attractive.
-That sentence does not require a thirty-minute archaeological
-dig. It does not require you to figure out whether the insecurity is
-from your mother, your last relationship, the haircut, the lighting,
-the third glass of wine, the article about hormones, or all six at
-once. Sometimes the feeling is the feeling, the need is the need,
-and the work is to say it. Save the archaeology for somewhere you
-are paying someone to hold a shovel for fifty minutes. Right now,
-in your kitchen, the feeling and the need are sufficient.
+26
 
-This is, counter-intuitively, one of the harder moves to learn.
-Because the real trap, for many of us, is not failing to find the story.
-The real trap is excavating the story when there was nothing in it
-that actually needed digging up.
-Over-excavation as avoidance.
-Thoughtful people set their own elegant trap. Let me figure out
-why I am feeling this is, often, the smarter and more sophisticated
-version of let me not say what I am feeling. The analysis becomes
-a way to stay in the head and out of the body, out of the room,
-out of the request. Therapy and NVC and IFS and somatics and
-astrology and your friend’s podcast all come pre-installed with
-permission to keep digging instead of speaking. The dig becomes
-the new performance.
-The check is small. Could I just say the feeling and the need now,
-here, to this person, and let the conversation happen from there? If yes,
-do that. The story can still be there. It just doesn’t have to be the
-entry point. The body wants to move. The story can wait.
+installed with permission to keep digging instead of speaking. The
+dig turns into the new performance.
+The check is small. Could I just say the feeling and the need now, here,
+to this person, and let the conversation happen from there? If yes, do that.
+The story can still be there afterward — it just doesn’t have to be the
+first thing through the door.
 
 ∗
 
 Talking to yourself differently.
-Now the harder part, because this is where the practice actu­
-ally starts changing the inside of your skull.
+Most people, including you, conduct an ongoing internal conversa­
+tion that, if spoken aloud to a child, would be recognized immedi­
+ately as harm. You are such an idiot. Why did you say that. Of course she
+didn’t text back. You always do this. Look at you. Pull yourself together.
+This is the standard internal soundtrack for a wide range of other­
+wise functional adults. Most of us can’t remember a time when it
+wasn’t running.
+Self-NVC, practiced over time, slowly translates the language of
+that interior monologue into something else. The critic doesn’t get
+silenced; it gets rendered in different grammar.
+You are such an idiot becomes something in me is mortified, and I am
+longing for the thing not to have happened.
+Why did you say that becomes I am embarrassed, and what I needed in
+that moment was to feel competent, and I did not.
 
-Most people, including you, conduct an ongoing internal con­
-versation that, if spoken aloud to a child, would be recognized
-immediately as harm. You are such an idiot. Why did you say that.
-Of course she didn’t text back. You always do this. Look at you. Pull
-yourself together. This is the standard internal soundtrack for a
-wide range of otherwise functional adults. Most of us cannot
-remember a time when it wasn’t running.
-Self-NVC, practiced over time, slowly replaces the language of
-that interior monologue. Not by suppressing it. Not by fighting it.
-By translating it.
-You are such an idiot becomes something in me is mortified, and I
-am longing for the thing not to have happened.
-Why did you say that becomes I am embarrassed, and what I
-needed in that moment was to feel competent, and I did not.
-Pull yourself together becomes something in me is exhausted, and
-I am longing for a few hours of not having to perform anything.
+27
+
+Pull yourself together becomes something in me is exhausted, and I am
+longing for a few hours of not having to perform anything.
+
 ✦ ✦ ✦
-This is not positive thinking. Not affirmations. The mechanism
-is different: it is not telling yourself something false to feel better.
-It is telling yourself the actual truth, in precision-grade language,
-in the voice you would use with someone you loved.
-The brain, given that voice consistently for long enough, does
-something. Language doesn’t just describe the self — it builds
-it. The people who have been doing this for a couple of decades
-sound different from the inside than they did when they started.
-
-Sarah Peyton calls the part of you that learns to do this the
-Resonating Self-Witness. It is not a metaphor. It is a part you are
-deliberately cultivating, in the same way one might cultivate a
-meditation practice or a dance form — slowly, by repetition, with
-no measurable progress on most days and a different person at
-the end of a year.
+This isn’t the positive-thinking move. Positive thinking installs a
+sentence that’s untrue for the sake of feeling better. The voice here
+tells you what’s actually happening in you, in precise language, in the
+tone you would use with someone you loved.
+Given that voice consistently for long enough, something about the
+interior shifts. People who have been at this for a couple of decades
+report sounding different to themselves than they did at the start,
+without quite being able to point to the day it changed.
+Sarah Peyton calls the part of you that learns to do this the Resonating
+Self-Witness. It is a part you are deliberately cultivating, in the same
+way one might cultivate a meditation practice or a dance form —
+slowly, by repetition, with no measurable progress on most days and
+a different person at the end of a year.
 What it sounds like, lived from the inside, is not the absence of
-harshness. The harshness still arrives. It just arrives into a room
-where someone is already paying close, kind attention. After
-enough practice, the witness picks up the shift in the body before
-the inner critic finishes its sentence — sometimes before the critic
-has gotten its first word out. The chest tightens. Something starts
-to move toward you idiot. The witness gets there first: something
-just got hot. What is it. The translation begins before the attack
-does.
-The harshness has somewhere to be received. It does not own
-the room the way it used to.
-The critic is a part, not the narrator.
-The inner critic is not the narrator. It is a part — often one that learned,
-somewhere young, that being harsh with yourself first was the only way to
-head off being harshly punished by someone else.
+harshness. The harshness still shows up. Another voice is in the
+room when it does, already listening for it. After enough practice, the
+witness picks up the shift in the body before the inner critic finishes
+its sentence — sometimes before the critic has gotten its first word
+out. The chest tightens. Something starts to move toward you idiot.
+The witness gets there first: something just got hot. What is it. The
+translation begins before the attack does.
+The harshness has somewhere to be received now. It doesn’t run the
+room the way it used to.
+A word on the inner critic.
 
-Here is something the translation move teaches you slowly, by
-accumulation, that no one ever quite says out loud: the inner
-critic is not the narrator. It is a part. It is, often, a part that learned
-somewhere — usually young — that being harsh with yourself
+28
 
-first was the only way to head off being harshly punished by
-someone else. The voice you have been mistaking for yourself
-is, on inspection, a frightened protector running a strategy that
-worked once. It is doing its best. It is also wrong about what is
-currently required.
-You do not have to fight it. You do not have to silence it. You can
-do the same translation move on it that you would do on anyone
-else. Something in me is afraid. Something in me is trying to keep
-me safe by getting there first. What does that part actually need. The
-internal monologue softens, when it softens, because the critic
-stops being the only voice in the room. Other voices — calmer,
-more accurate, usually quieter at first — get to speak too.
+The inner critic is one part of you among others. Usually a part that
+learned somewhere young that being harsh with yourself first was
+the only way to head off being harshly punished by someone else.
+The voice you have been mistaking for yourself is, on inspection, a
+frightened protector running a strategy that worked once. It’s doing
+its best. It’s wrong about what’s currently required.
+You don’t have to fight it. You don’t have to silence it. You can do the
+same translation move on it that you would do on anyone else. Some­
+thing in me is afraid. Something in me is trying to keep me safe by getting
+there first. What does that part actually need. The internal monologue
+softens because the critic stops being the only voice in the room.
+Other voices — calmer, more accurate, usually quieter at first — start
+having space to speak.
 
 ∗
 
-Adjacent to IFS, not in competition with it.
-If this is starting to sound like something Internal Family
-Systems people would recognize, that is correct. NVC and IFS are
-doing related work from different angles, and saying so out loud
-is one of the things this booklet is here to do.
-IFS unblends. NVC translates. IFS works by helping the part
-that has been driving the bus step back; NVC works by giving the
-part — once it has stepped back, or while it is still up there — a
+A note on Internal Family Systems.
+The two practices do different operations on the same internal
+moment. IFS works by helping the part that has been driving the bus
+step back from the wheel. NVC works by giving the part — once it
+has stepped back, or while it’s still up there — a precise grammar
+to speak in. IFS asks which part is this? NVC asks what does this part
+actually feel, and what does it need?
+The two moves tend to amplify each other in practice. Once a part
+is no longer the whole self, you can locate what it actually feels and
 
-precise grammar to speak in. If IFS asks which part is this?, NVC
-asks what does this part feel and need right now?
-The two practices illuminate each other rather than compete.
-IFS’s unblending creates the space for NVC’s translation work
-to happen — once a part is no longer the whole self, you
-can locate what it actually feels and needs without being swept
-under by it. NVC’s translation, in turn, gives the unblended part
-a way to be heard inside the system, in language that resembles
-love more than diagnosis. The exiled, frightened, perfectionist,
-overburdened, or angry part does not just get noticed; it gets
-understood, in its own grammar, by the rest of the system. The
-same internal moment can be addressed by either practice. They
-tend to amplify each other.
-You do not have to commit to either lineage to use the move.
-They are not in competition for you. The small portable grammar
-of feelings and needs is most useful as a hinge between the bigger
-traditions, not as a religion.
-Feelings run their course; the interpretation shifts after. Often
-you do not need to know why. The feeling passes. The need,
-named, gets met or it doesn’t. You move on.
-The closing move.
-Most often, when the pause has done its work and the feeling
-has been found, what is left is the need. Connection. Rest. A say in
-your own life. Mattering. To be seen. Solitude. Care.
-Speak from there. Or don’t speak yet, because the speaking will
-come later, and right now what is needed is the breath, the walk,
+29
 
-the bowl of soup, the second hour of sleep you had been refusing
-yourself.
-The practice is mostly internal. The mouth is downstream.
+needs without being swept under by it. Once it has the grammar, it
+can be heard inside the system — not just noticed, but understood in
+its own terms by the rest of you. Either practice can address the same
+internal moment, and people who use both tend to stop noticing
+where the seam is.
+Tuesday night. Your sister’s text has been sitting on your phone for
+three days. Two parts of you have been at war about it. One wants to
+call her right now and have it out — get clarity, get this over with, get
+the not-knowing out of your body. The other wants to put the phone
+face-down and walk it off — give it another week, see if it gets less
+weird on its own.
+Step one is to ask each part to step back far enough that you’re not
+being swept under by either. Step two is to ask each one — separately
+— what it actually feels and what it actually needs.
+The calling-now part, when it gets the floor: I am furious. I need this to
+be over.
+The walking-it-off part, when it gets the floor: I am exhausted. I need
+this to be over.
+Same longing, two costumes. Some older part of you has been wait­
+ing a long time for things with your sister to stop costing this much.
+The fight between the two parts was a fight about strategy — call now
+vs. wait it out — and the strategy fight had been running so loud that
+the actual want, which is just rest, never made it onto the table. Once
+it does, neither strategy has to win. Whoever writes back tomorrow
+is quieter than either of them.
+You don’t have to commit to either lineage to use the move. The small
+portable grammar of feelings and needs is most useful as a hinge
+between bigger traditions, not as a religion in its own right.
+
+30
+
+Feelings run their course; the interpretation shifts after. Often you
+don’t need to know why. The feeling passes. The need, named, gets
+met or it doesn’t. You move on.
+Most often, when the pause has done its work and the feeling has
+been found, what’s left is the need. Connection. Rest. A say in your own
+life. Mattering. To be seen. Solitude. Care.
+Speak from there. Or don’t speak yet, because the speaking can come
+later, and right now what’s needed is a breath, a walk, a bowl of soup,
+the second hour of sleep you had been refusing yourself.
+Most of the practice never reaches anyone else’s ears.
+
+31
 
 V
 
 LISTENING
 
-A friend tells you something hard. Their dog died, or their boss
-humiliated them, or the thing they have been afraid of for six
-months turned out to be true.You open your mouth.
-What comes out, if you are like most well-meaning humans, is
-one of three things.
-The explanation. Well, the reason that probably happened is… You
-are about to deliver a small theory of why their pain occurred,
-complete with reasonable people on both sides. The friend, in
-this moment, did not need a theory. The friend needed someone
-to be in the room with them.
-The recentering. Oh my god, that reminds me of when my boss did
-exactly the same thing to me last year, it was so awful… You meant
-well. You were trying to say me too. What you said, in effect, was let
-me have your microphone for a moment. You took the conversation
-back to yourself. The friend, watching, has now learned that this
-is not a place where their thing can stay the center of the room for
-very long.
-The fix. Have you tried… Maybe they have. Maybe they haven’t.
-Either way, what they were asking for, in this moment, was prob­
-ably not a list of things to try. They were asking to feel less alone
-for two minutes. The fix-it response says: I cannot stay with this
-with you. Let me hand you something to do so I can leave.
+A friend tells you something hard. Their dog died, or their
+boss humiliated them, or the thing they’ve been afraid of for
+six months turned out to be true.You open your mouth.
+What comes out, in most rooms, isn’t actually a response to what was
+said.
+Watch yourself for the move where you start delivering a small
+theory of why this happened — well, what probably happened is… —
+complete with reasonable people on both sides. The friend didn’t
+need a theory. The friend needed somebody to be in the room with
+them.
+There’s a related move where you grab the microphone, often with­
+out noticing — oh my god, that reminds me of when my boss did exactly
+the same thing to me last year, it was so awful… You meant well. You
+were saying me too. What you said, in effect, was let me have the floor
+for a minute. Your friend, watching, just learned their thing doesn’t
+get to stay the center of the room here for very long.
+And then there’s the fix-it move — have you tried… — which treats
+whatever’s on the table as a problem-solving question. Sometimes
+it is. Often it isn’t. What the friend was asking for, in most of these
+moments, was to feel less alone for two minutes. The fix-it response
+says, regardless of intent: I cannot stay in this with you. Let me hand you
+something to do so I can leave.
 
-These are the three classical failure modes of well-meant
-listening. They are committed by kind people, all the time,
-including the author, including you. They are not malice. They
-are mostly the listener’s own discomfort looking for somewhere
-to put itself.
+32
 
-∗
-
-What empathy actually is.
-Empathy, in NVC’s working definition, is the orientation toward the other
-person’s feelings and needs — the willingness to stay there without needing
-to solve, redirect, fix, or take it back to yourself.
-
-Empathy is not silence. Empathy is not agreement. Empathy is
-not problem-solving. Empathy is not nodding while you wait to
-talk.
-Empathy, in NVC’s working definition, is the orientation
-toward the other person’s feelings and needs — the willingness
-to stay there, with them, without needing to solve, redirect, fix, or
-take it back to yourself. It might involve speech. It might not. The
-form of empathy is downstream of its orientation.
-What it sounds like, in actual words, is often: something like —
-are you hurt? are you scared? are you exhausted? do you need to feel
-
-like this matters to someone right now? You are not asking because
-you don’t know. You are asking because the asking is the act of
-staying — the offer to follow them into the actual feeling instead
-of pulling them out of it.
-Sarah Peyton, the trauma-informed NVC trainer, makes the
-most useful point in the field on this: being warmly and accurately
-misread is more healing than being correctly understood without
-warmth. Read that sentence twice. It collapses the entire NVCpurist anxiety about whether you guessed the feeling right.
-
-The brain is built for resonance, not correctness.
-Get within striking distance of what they are feeling, with
-warmth, and the body responds. Get the exact right word with no
-warmth and the body does not.
-This means you are allowed to guess wrong. You are supposed
-to guess wrong, sometimes. The friend will correct you — no, not
-exhausted, more like furious — and now you are both closer to the
-actual thing than you were a minute ago. Your wrong guess made
-theirs findable.
+None of these is malice. They are mostly the listener’s own discom­
+fort, looking for somewhere to put itself.
 
 ∗
 
-Empathy as co-regulation.
-If you are willing to follow the wire all the way, empathic
-listening is doing something more specific than being supportive.
-A body in distress is a body running its threat response — wired
+A working definition.
+Empathy, in NVC’s sense, is an orientation toward the other person’s
+feelings and needs — the willingness to stay there without needing
+to solve, redirect, fix, or take the conversation back to yourself. It may
+involve speech. It may not. The orientation is the thing; the words
+follow it.
+What it sounds like in words, when there are words, is often a ques­
+tion. Are you hurt? Are you scared? Are you exhausted? Do you need to feel
+like this matters to someone right now? You aren’t asking because you
+don’t know. You are asking because the question is the act of staying
+with them.
+Sarah Peyton has been making this point for years in traumainformed NVC training: warm misreading does more for the body
+than the right word delivered without warmth. The body responds
+to the warmth aimed at the rough vicinity of the feeling. It doesn’t
+respond to a precise word with cool eyes.
+So you are allowed to guess wrong. You are supposed to guess wrong
+sometimes. The friend corrects you — no, not exhausted, more like
+furious — and now you are both closer to the actual thing than you
+were a minute ago. The wrong guess made room for the right one.
+33
+
+∗
+
+What the body does for the body.
+Empathic listening does something more specific than being support­
+ive. A body in distress is a body running its threat response — wired
 hot, or gone numb, neither a state in which words come easily.
-Another body, regulated and present, offers something the upset
-body cannot manufacture alone: cues of safety. Slow voice. Soft
-eyes. Steady breath. Unhurried timing. The presence of someone
-whose nervous system is saying, without words, we are not in
-danger right now.
-Empathic listening, done well, is co-regulation with words.
-The empathy itself is the regulating act, prior to and underneath
-whatever specific phrasing comes out. Half the work is happening
-in the room before anyone has chosen the right adjective.
-It is also why an empathic listener whose own body is dysregu­
+Another body, regulated and present, offers something the distressed
+body cannot manufacture alone: cues of safety. Slow voice. Soft eyes.
+Steady breath. Unhurried timing. The presence of someone whose
+nervous system is saying, without words, we are not in danger right
+now.
+This is the part of the work that is already underway before anyone
+has chosen the right adjective. The empathy is happening in the
+room before the words arrive; the words then land because the room
+has been arranged to receive them.
+This is also why an empathic listener whose own body is dysregu­
 lated — anxious, judgmental, in a hurry, performing helpfulness
-— will not produce the effect, no matter how technically correct
-their sentences are. The dead-eyed therapist demo voice you can
-hear in any badly-trained role-play is exactly this. Words, no body.
-Form, no orientation. The cage with extra steps, again.
+— won’t produce the effect, no matter how technically correct their
+sentences are. The dead-eyed therapist demo voice you can hear in
+any badly-trained role-play is what happens when the technique is
+in place without the body underneath it.
 Asymmetric use.
-You do not need the other person to be doing NVC for you to listen with
-it. The practice does not require their cooperation.
+You don’t need the other person to be doing NVC for you to listen
+with it. The practice doesn’t require their cooperation.
 
-One of the more useful things about NVC, and one of the most
-rarely emphasized in the workshops, is that you do not need the
-other person to be doing it for you to listen with it.
-Your stepfather, in full sympathetic activation, telling you for
-the seventh year running that your generation has ruined this
-country: he is, by inspection, not using NVC. You are not required
-to fix that. You can listen with NVC anyway. From the inside,
-what that looks like is tracking the feeling underneath the rant —
-probably some mixture of fear, helplessness, grief about a world
-that no longer makes sense to him, pride that has been bruised
-— and the need underneath the feeling, probably to matter, to be
-seen as having lived a life that meant something, to feel like the
-things he believed in still exist somewhere. You don’t have to agree
-with any of it. You don’t have to say any of it out loud. You can.
-You can also just be present and not bait the trap. The asymmetric
-move is internal — what you are doing inside yourself while he
-is talking. You are refusing to be recruited. You are keeping your
-own interior alive while his is running hot. You are not escalating,
-not baiting, not collapsing into the performance of agreement.
-That is not passivity. That is a specific choice about what to do
-with your nervous system in a room where nobody asked for your
-cooperation. And it does, weirdly, change the room. Sometimes.
-This is also where listening becomes a small political practice.
-You can listen with NVC to people who do not deserve it by their
-own behavior. You can listen with NVC to people whose world­
-view you find repugnant. Whether you should, in any given case,
-is a separate question. Protecting your own nervous system is a
-real concern, especially across asymmetric power dynamics, and
+34
 
-the answer is sometimes no, not tonight, not this person, not in this
-body. But the practice does not require their cooperation. Naming
-this matters because the workshop pedagogy almost never does.
+Your stepfather, in full sympathetic activation, telling you for the
+seventh year running that your generation has ruined this country:
+he is, by inspection, not using NVC. You are not required to fix that.
+You can listen with NVC anyway. From the inside, what that looks like
+is tracking the feeling underneath the rant — probably some mixture
+of fear, helplessness, grief about a world that no longer makes sense
+to him, pride that has been bruised — and the need underneath the
+feeling, probably to matter, to be seen as having lived a life that meant
+something, to feel like the things he believed in still exist somewhere.
+You don’t have to agree with any of it. You don’t have to say any of
+it out loud. You can. You can also just be present and not bait the
+trap. The asymmetric move is internal — what you’re doing inside
+yourself while he is talking. Refusing to get recruited. Keeping your
+own interior alive while his runs hot. Not escalating, not baiting, not
+collapsing into the performance of agreement. That’s not passivity
+— that’s a specific choice about what to do with your nervous system
+in a room where nobody asked for your cooperation. And it does,
+weirdly, change the room. Sometimes.
+You can do this with people who don’t deserve it by their behavior,
+or whose worldview you find repugnant — the practice doesn’t
+require their cooperation. Whether to spend yourself this way on a
+particular night is your call. Protecting your own nervous system is a
+real concern, especially across asymmetric power dynamics, and the
+answer is sometimes no, not tonight, not this person, not in this body.
 
 ∗
 
-The numb friend.
-A note for the moments when your friend’s honest answer is I
-don’t know what I feel.
+35
+
+The friend who has gone numb.
 Most NVC pedagogy assumes the speaker can locate a feeling.
-Trauma-informed NVC has decent material for someone in
-sympathetic activation; it has less for someone in dorsal-vagal
-shutdown — the friend who has gone numb, or underwater, or
-who is functionally underneath the conversation.
-The work, when this is what is in the room, is not to push
-for words. It is to be present without demand. Not to require
-them to produce a feeling you can then empathically reflect.
-Sometimes that means sitting with them. Sometimes it means
-making them tea. Sometimes it means going for a walk and not
-talking. Resmaa Menakem and the somatic trauma writers will
-tell you, in stronger language than this booklet has space for, that
-words applied to a body that has not yet decided it is safe can retraumatize. The empathic move, in that state, is body-first. Words
-later. Sometimes much later.
+Trauma-informed NVC has decent material for someone in sympa­
+thetic activation; it has less for someone in dorsal-vagal shutdown —
+the friend who has gone numb, or underwater, or who is functionally
+underneath the conversation.
+When this is what’s in the room, words are the wrong target. Be
+present, without demand. Don’t try to draw out a feeling you can then
+empathically reflect. What that looks like varies: sitting with them,
+making tea, taking a walk without talking. Whatever gives the body
+in the room something to do other than answer a question. Resmaa
+Menakem and the somatic trauma writers will tell you, in stronger
+language than this booklet has space for, that words applied to a
+body that hasn’t yet decided it is safe can retraumatize. The empathic
+move, in that state, starts with the body. Words come later — some­
+times much later.
+Recognition first: shutdown is not the same as quiet. A regulated
+quiet has eye contact, present-time tracking, the small movements
+of a face still receiving the room. Shutdown looks blanker — eyes
+that have gone slightly past you, breathing slowed below what the
+conversation calls for, a body sitting too still. I’m fine in the wrong key.
+What you do then is not what your urge says. The urge says: ask
+another question, redirect, make a joke, fix it. Don’t. Lower your
+own volume. Slow your breath visibly. Soften your face. If you can
+be making tea or walking, be doing that — it gives the body in the
+room something to track that isn’t a question. And track your own
+activation: their offline often spikes yours, and the work is not to
+become two dysregulated bodies. Your staying steady is most of what
 
-NVC as packaged often assumes a body that hasn’t been racial­
-ized into chronic survival mode. A feelings-and-needs script in
-that context can ask someone to perform emotional disclosure in
-a format shaped by white middle-class norms — in the same mo­
-ment their anger or numbness is the most accurate information
-in the room. Roxy Manning, Edmundo Norte, and Meenadchi
-have spent years doing the work of retooling the practice for
-bodies it wasn’t originally designed for. That is where to go next.
+36
 
-❋ ❋ ❋
+you have to offer. Sometimes the visit is that. They go home a little
+safer than they came in. Enough.
+Trauma-informed NVC, by now, is its own sub-tradition — with
+its own teachers and its own corrections to the original packaging.
+Sarah Peyton’s work on the resonating self-witness and the brain’s
+response to warm misreading. Kathleen Macferran on the loadbearing constraint that a conversation moves at the pace of nervoussystem digestion, not the pace of the most articulate person in the
+room. Resmaa Menakem on what bodies inherit and what gets
+stuck in them. Roxy Manning, Edmundo Norte, and Meenadchi on
+the practice’s blind spots about race, power, and which bodies the
+standard packaging assumes. The work these teachers are doing is
+structural — naming what the original packaging missed, retooling
+what it got wrong, refusing to let technique stand in for safety.
+NVC as packaged often assumes a body that hasn’t been racialized
+into chronic survival mode. A feelings-and-needs script in that con­
+text can ask someone to perform emotional disclosure in a format
+shaped by white middle-class norms — in the same moment their
+anger or numbness is the most accurate information in the room.
+Manning, Norte, and Meenadchi have spent years retooling the
+practice for bodies it wasn’t originally designed for.
+The four-step assumes a body that can find a feeling and ask for a
+need. When the body is frozen, exhausted, in sympathetic survival,
+or being asked to translate itself into a vocabulary not its own, the
+work is upstream of language. The trauma-informed lineage is the
+part of the field that has been pointing this out, refining the practice
+for it, and refusing to let technique stand in for enough safety to use the
+technique. That’s where to go next.
+
+37
+
+❋ ❋ ❋
 
 “
-Most of what you have to do is not
-leave.
+Most of what you have to do is
+not leave.
+
+38
 
 VI
 
 P H I LO S O P H Y
 
-We are working from stories, not facts. You have been wrong about this
-before. The story changes once the feeling has run its course. Different
-ways of saying one thing.
-The thing they add up to: NVC is not, structurally, a commu­
-nication technique. It is a piece of working magic.
-By magic we do not mean the woo. We mean the older, opera­
-tive sense — what Alan Moore is doing when he points out that
-to cast a spell is simply to spell, to manipulate words, to change people’s
-consciousness, and a grimoire is just a grammar. What Robert Anton
-Wilson is doing when he calls the verb to be a deity mode of speech.
-Some sentences do not describe the world; they enact something
-in it. They marry. They convict. They bless. They curse. I now
-pronounce you is not a description of the event. It is the event.
+What NVC is doing, when it’s doing the thing, sits closer to magic
+than to communication training. Magic in the older operative sense
+— working magic, not woo magic. What Alan Moore is doing when
+he points out that to cast a spell is simply to spell, to manipulate words,
+to change people’s consciousness, and a grimoire is just a grammar. What
+Robert Anton Wilson is doing when he calls the verb to be a deity
+mode of speech — the verb that smuggles in a god’s-eye view of
+what something or someone permanently is. Some sentences don’t
+describe the world; they enact something in it. They marry. They
+convict. They bless. They curse. I now pronounce you is not a descrip­
+tion of the event. It is the event happening.
+The pull toward the is-of-identity is mostly that fixing someone in
+place — even as an enemy — takes less ongoing work than tracking
+who they’re actually being from minute to minute. The cheaper
+version is the one the body keeps reaching for.
 Consider the basic move of NVC, then.
-You are selfish renders Elizabeth permanently. It uses the deity
-mode of speech: it places a permanent quality onto a person, in a
-moment, by an authority — yours — and the only response avail­
-able is contestation. Either Elizabeth accepts your verdict and
-reorganizes herself around your judgment, or she defends, and
-you escalate, and the verdict gets sharper with each exchange.
+You are selfish renders Elizabeth permanently. It uses the deity mode
+of speech: it places a permanent quality onto a person, in a moment,
+by an authority — yours — and the only response available is
+contestation. Either Elizabeth accepts your verdict and reorganizes
+herself around your judgment, or she defends, and you escalate, and
+the verdict gets sharper with each exchange.
+
+39
 
 You didn’t text me back for two days, and I am hurt, and I am longing
-for partnership does not render Elizabeth at all. It reports an event
-that happened in a body, in a moment, for a reason. There is
-no permanence claim. There is no verdict. The other person can
-meet the longing or not, but they cannot be made permanent by
-the sentence. They are not on trial. They are being met.
-The same grammar holds when you are the one who has been
-harmed. He is an abuser is the is-of-identity aimed in a direction
-that feels righteous — it might even feel accurate — but it
-works by the same mechanism. It renders a person permanent by
-their worst behavior. Harm describes behavior. Behavior can be
-named, accounted for, sometimes changed. The person is not the
-act, even when the act has been serious and the pattern long.
-Knowing that harm describes behavior rather than freezing a
-person into a permanent role is precision, not minimization. One
-person’s behavior can be far more harmful. One person can go
-far deeper into denial, reversal, and coercion. The grammar still
-matters: we name the pattern without rendering anyone ontolog­
-ically evil. This leaves room for real accountability instead of
-permanent verdicts.
-Including, sometimes, yourself — the version of you who did
-something you cannot forgive, who you have been rendering
-permanent ever since.
+for partnership doesn’t render Elizabeth at all. It reports an event
+that happened in a body, in a moment, for a reason. There’s no per­
+manence claim. There’s no verdict. The other person can meet the
+longing or not, but they can’t be made permanent by the sentence.
+The worst-case outcome is that the longing goes unmet — nobody
+has been put on the stand for it.
+The same grammar holds when you’re the one who’s been harmed.
+She is an abuser is the is-of-identity aimed in a direction that feels
+righteous — it might even feel accurate — but it works by the same
+mechanism. It renders a person permanent by their worst behavior.
+Harm describes behavior. Behavior can be named, accounted for,
+sometimes changed. The person isn’t the act, even when the act has
+been serious and the pattern long. Knowing that harm describes
+behavior rather than freezing a person into a permanent role is
+precision, not minimization. One person’s behavior can be far more
+harmful. One person can go far deeper into denial, reversal, and
+coercion. The grammar still matters: we name the pattern without
+rendering anyone ontologically evil. This leaves room for real
+accountability instead of permanent verdicts.
+This is a discipline of interior clarity — not a rule for how survivors
+must speak. She is an abuser, said as a warning to whoever’s next, said
+as the sentence that finally stopped you gaslighting yourself, said
+because the politics of safety require naming what happened — that
+sentence is doing work this passage has nothing to say about. The
+politics of warning and the grammar of your own interior run on
+different rules.
+
+40
+
+Including, sometimes, yourself — the version of you who did some­
+thing you can’t forgive, who you’ve been rendering permanent ever
+since.
 
 ∗
 
-That is the working magic. It is structurally the same move
-D. David Bourland Jr. coded as E-Prime — English without to
-be — and the same move Alfred Korzybski had been pointing at
-since 1933 with his critique of the is of identity. Marshall Rosen­
-berg appears to have arrived at it without going through general
-semantics; the resemblance is striking enough that someone,
-eventually, should write the comparative essay. The booklet is
-doing it informally now.
-The reason this matters is that the language is not just describ­
-ing the speaker’s interior. It is changing it. Saying you are selfish
-installs a particular state in your nervous system: prosecutorial,
-certain, slightly armored, ready to fight. Saying I am hurt and I am
-longing for partnership installs a different state: vulnerable, located
-in the body, no longer at war. The grammar makes the speaker
-into a particular kind of person at the moment of speaking. So
-does the silence afterward. Speech is, in this sense, performative
-all the way down. It does not narrate the self. It builds the self,
-every time you open your mouth.
-The grammar is not just describing the speaker’s interior. It is changing it.
-Speech is performative all the way down — it does not narrate the self, it
-builds the self, every time you open your mouth.
+That’s the working magic. It’s structurally adjacent to the move D.
+David Bourland Jr. coded as E-Prime — English written without is,
+are, was, were, be, been, being at all, on the theory that purging the
+verb forces the speaker to mark which claims are observation and
+which are inference. NVC’s version is narrower and more pragmatic.
+It doesn’t ask you to purge to be. It asks you to translate it where
+the verb is being used to render someone permanent — to convict,
+to fix, to render the verdict. Alfred Korzybski had pointed at the
+larger problem since 1933, calling it the is of identity and arguing it
+ran from interpersonal conflict to nation-state war. Marshall Rosen­
+berg appears to have arrived at the small, lived version of the same
+problem from a different direction — clinical work, civil-rights orga­
+nizing, the practice of mediating actual fights between actual people.
+The convergence is striking. Someone, eventually, should write the
+comparative essay.
+The reason this matters is that the language isn’t just describing
+the speaker’s interior. It’s changing it. Saying you are selfish installs
+a particular state in your nervous system: prosecutorial, certain,
+slightly armored, ready to fight. Saying I am hurt and I am longing for
+partnership installs a different state: vulnerable, located in the body,
+41
 
-If that sounds like a strong claim, it is. It is also the claim Marshall
-Rosenberg himself was making, and he was making it more
-sharply than his reputation would suggest.
+no longer at war. Even the sentence you don’t say does construction
+work — same body, quieter materials.
+If that sounds like a strong claim, it is. It’s also the claim Marshall
+Rosenberg himself was making, and he was making it more sharply
+than his reputation would suggest.
+From the second chapter of Nonviolent Communication: A Language
+of Life:
+Life-alienating communication both stems from and supports hierarchical or
+domination societies, where large populations are controlled by a small number
+of individuals to those individuals’ own benefit… The language of wrongness,
+should, and have to is perfectly suited for this purpose: the more people are trained
+to think in terms of moralistic judgments that imply wrongness and badness, the
+more they are being trained to look outside themselves — to outside authorities —
+for the definition of what constitutes right, wrong, good, and bad. When we are in
+contact with our feelings and needs, we humans no longer make good slaves and
+underlings.
 
-From the second chapter of Nonviolent Communication: A Lan­
-guage of Life:
-Life-alienating communication both stems from and supports hierarchical or domi­
-nation societies, where large populations are controlled by a small number of
-individuals to those individuals’ own benefit… The language of wrongness, should,
-and have to is perfectly suited for this purpose: the more people are trained to think in
-terms of moralistic judgments that imply wrongness and badness, the more they are
-being trained to look outside themselves — to outside authorities — for the definition
-of what constitutes right, wrong, good, and bad. When we are in contact with our
-feelings and needs, we humans no longer make good slaves and underlings.
-
-That is not a self-help sentence. That is structurally an anarchist
-sentence. It identifies the language of moral judgment as the lin­
-guistic substrate of obedience. It identifies the practice of locating
-one’s own feelings and needs as a refusal of that obedience.
-It is worth naming, because the field tends to pretend Rosen­
-berg didn’t write it.
+Underneath the therapeutic register, that’s a political sentence. It
+identifies the language of moral judgment as the linguistic substrate
+of obedience, and the practice of locating one’s own feelings and
+needs as the refusal of that obedience.
 
 ✠
-NVC’s deepest commitment, when read seriously, is to a kind
-of sovereignty — yours, and everyone else’s. Connection over con­
-trol is the slogan. The substance underneath the slogan is that
-nobody, including you, has the authority to render anyone else
-permanent. Stories about people are stories. The person is still
-the person. They are allowed to surprise you. They are allowed,
-even, to surprise themselves. The same goes for you. The story
-you have been telling yourself about yourself for the past twenty
-years is also a story.
+What NVC actually commits to, beneath the technique, is a partic­
+ular kind of sovereignty — yours and everyone else’s at the same
+time. Connection over control is the slogan. The claim doing the loadbearing work, underneath the slogan, is that no one — including you
+— has the authority to render anyone else permanent. Stories about
+people are stories. The person is still the person. They are allowed
+to surprise you. They are allowed, even, to surprise themselves. The
+42
 
-This is why NVC sits next to the anarchist mediation lineages,
-and why those lineages have been doing some of the most inter­
-esting NVC work in the world. Dominic Barter’s Restorative Circles,
-developed in the favelas of Rio, are NVC-rooted and structurally
-non-state. Miki Kashtan’s consensus work runs on lines prefig­
-urative organizers would recognize on sight. Roxy Manning,
-Edmundo Norte, and Meenadchi have spent years pointing out
-that NVC’s standard packaging often re-installs the dominator
-culture it was meant to refuse — and that the practice has to
-be retooled to do its actual work in bodies it wasn’t originally
-designed for. None of these are fringe; they are the part of NVC
-the workshop pamphlets tend to soften.
-All of these approaches share the same refusal of a single,
-fixed, judging self.
-It is also why the IFS people and the somatic trauma people
-have all, independently, found their way into NVC’s adjacent
-territory. Because the underlying claim of the practice — that
-the self is not a unitary thing pronouncing on the world from
-a fixed throne, but a moving collection of feelings, needs, parts,
-and bodies, all of which deserve precise language — is a claim
-Internal Family Systems makes from one direction, that polyva­
-gal-informed somatic work makes from another, that Buddhist
-parts-work makes from a third. NVC translates between them
-with a small, portable grammar.
-That is, finally, what we mean by saying NVC is a hinge. It is
-not a tradition unto itself. It is not the room. It is a door between
-rooms — between IFS and codependence recovery, between so­
+same goes for you. The story you have been telling yourself about
+yourself for the past twenty years is also a story.
+This is why NVC sits next to the anarchist mediation lineages, and
+why those lineages have been doing some of the most interesting
+NVC work in the world. Dominic Barter’s Restorative Circles, devel­
+oped in the favelas of Rio, are NVC-rooted and structurally non-state.
+Miki Kashtan’s consensus work runs on lines prefigurative organiz­
+ers would recognize on sight. Roxy Manning, Edmundo Norte, and
+Meenadchi have spent years pointing out that NVC’s standard pack­
+aging often re-installs the dominator culture it was meant to refuse
+— and that the practice has to be retooled to do its actual work in
+bodies it wasn’t originally designed for. None of these are fringe;
+they’re the part of NVC the workshop pamphlets tend to soften.
+All of these approaches share the same refusal of a single, fixed,
+judging self.
+It’s also why the IFS people and the somatic trauma people have
+all, independently, found their way into NVC’s adjacent territory.
+Because the underlying claim of the practice — that the self isn’t a
+unitary thing pronouncing on the world from a fixed throne, but a
+moving collection of feelings, needs, parts, and bodies, all of which
+deserve precise language — is a claim Internal Family Systems
+makes from one direction, that polyvagal-informed somatic work
+makes from another, that Buddhist parts-work makes from a third.
+NVC translates between them with a small, portable grammar.
+Treat NVC less as a tradition of its own and more as a passage be­
+tween rooms — between IFS and codependence recovery, between
+somatic trauma work and anarchist mediation, between Korzybski’s
+general semantics and the dharma traditions that have been pointing
 
-matic trauma work and anarchist mediation, between Korzybski’s
-general semantics and the dharma traditions that have been
-pointing at the same thing for two and a half thousand years.
-Most of the practice’s actual value, lived inside, is in this translator
-role. The people who have hardened NVC into a primary identity
-have mostly missed what makes the practice worth doing. The
-people who hold it lightly, and use it as a tool inside a larger life,
-tend to do better with it.
+43
+
+at the same thing for two and a half thousand years. Most of its actual
+value, lived inside, is in this translator role. The bigger lineages give
+you the territory — parts and exiles in IFS, activation and shutdown
+in somatics, restorative process in anarchist mediation — without
+necessarily giving you the actual sentence to say to the person across
+the table when you’re standing in any of that territory. NVC supplies
+the sentence. The people who have hardened it into a primary iden­
+tity have mostly missed what it is for; the ones who hold it lightly
+inside a larger life tend to do better with it.
+For the reader arriving with no other tradition in hand — just a
+skeptical mind and a body that’s been through some things — the
+hinge can be enough. The grammar is substantive enough on its own
+to do real work, even if NVC ends up being the only thing in your
+toolkit. If you do come across the other practices later, this connects
+to them.
+Treat NVC as one tool among several. The people who become
+insufferable with it are usually the ones who have decided it is the
+only tool they own. The four-step gives way, eventually, to something
+closer to fluid speech — but only because by then you’re pulling
+from somatic work, from grief, from the parts of you that aren’t on
+speaking terms with the parts that learned NVC at the workshop. It
+doesn’t replace boundaries, doesn’t replace trauma therapy, doesn’t
+replace the radical move of walking away from someone who is
+actively harming you. Use it where it works.
 
 ∗
 
-A note on practice and time.
-NVC at first sounds stilted. I’m feeling X and I’m needing Y. Yes.
-Yes it does.
-The scaffolding falls away. People who have been doing this
-for a long time do not, in conversation, sound like they are
-using NVC. They sound like themselves. They sound, if anything,
-slightly more like themselves than most people sound, because
-the to-be verbs and the moralistic judgments and the demands
-disguised as requests have been quietly evicted from their sen­
-tences over time. They do not require their feelings to be agreed
-with. They do not require their stories to be the official record.
-They do not press their version of you onto you. They are, in a
-small and durable way, more sovereign in conversation than most
+44
 
-people are. And so are the people they are talking to, because the
-form of speech offers that sovereignty as a side-effect, whether or
-not the other person ever picks up the practice themselves.
-What the practice does, given enough time, is not what the
-marketing claims. It does not make you nicer. It makes you clearer
-— clearer to yourself first, then to whoever is in the room with
-you. It does not, despite some of the workshop language, make
-you a calmer person. It makes you a more accurately located
-person. The fury, when fury is what is in the room, is still in the
-sentence. It is just no longer pretending to be a description of
-somebody else.
-In the way that contact improv is, for the people who have
-practiced it long enough, a spiritual relationship practice — not
-a religion, not a worldview, not a metaphysics, just a discipline of
-paying attention to weight and contact and movement that opens,
-over years, into something larger than the technique — NVC,
-practiced long enough, becomes something larger than the fourstep. It is a practice of speaking and listening from the present
-moment, in the body, with the other person’s interior treated as
-real and legitimate, and one’s own certainty held more lightly
-than your nervous system would prefer.
-That is the magic. That is also the dharma, if you want to call it
-that. There isn’t anything more to it than that. There also doesn’t
-need to be.
+A note on practice and time.
+NVC at first sounds stilted. I’m feeling X and I’m needing Y. Yes. Yes it
+does.
+The scaffolding falls away. People who’ve been doing this for a long
+time don’t, in conversation, sound like they’re using NVC. They
+sound like themselves — more so, if anything, because the to-be
+verbs and the moralistic judgments and the demands disguised as
+requests have been quietly evicted from their sentences over time.
+They don’t require their feelings to be agreed with. They don’t
+require their stories to be the official record. They don’t press their
+version of you onto you. They’re, in a small and durable way, more
+sovereign in conversation than most people are. And so are the
+people they’re talking to, because the form of speech offers that sov­
+ereignty as a side-effect, whether or not the other person ever picks
+up the practice themselves.
+What the practice does, given enough time, is not what the marketing
+claims. The first effect is clarity — to yourself, and then to whoever is
+in the room with you. The second is a kind of accurate location: you
+can tell, increasingly, where you actually are in your own body and
+your own life. Calm doesn’t really enter into it. The fury, when fury is
+what’s in the room, is still in the sentence. The fury is just no longer
+pretending to be a description of somebody else.
+Contact improv, for the people who have practiced it long enough,
+becomes a spiritual relationship practice — a discipline of paying
+attention to weight and contact and movement, which opens over
+years into something larger than the technique itself. NVC, practiced
+long enough, becomes something similar. A way of speaking and lis­
+tening from the present moment, in the body, with the other person’s
+
+45
+
+interior treated as real and legitimate, and one’s own certainty held
+more lightly than your nervous system would prefer.
+
+46
 
 VII
+T
 
 C O N C LU S I O N
 
-This is a practice, not a framework. You don’t master it. You install
-it slowly, by doing it, badly, over and over, in actual conversations
-with actual people — including the conversations you have with
-yourself. The body learns the shape. The grammar starts to drift
-in the right direction without your having to think about it. The
-internal monologue softens, not by being silenced, but by being
-translated into language that resembles love more than litigation.
-None of this happens fast. Most of it happens at the pace of plant
-growth. The thing changes you, eventually, because the language
-changes you, but the eventually is real. There is no shortcut.
-You will do it badly tomorrow. You will do it badly six months
-from now, on a phone call you knew was going to be hard, and
-then you will go home and brood about how badly you did it, and
-the brooding will also be part of the practice, and that is fine.
-The noticing afterward is the practice. The willingness to try
-again is the practice. Most of it is just staying in the room.
-There is no compliance score. There is no NVC police. The
-practice does not care whether you got it right. It cares whether
-you stayed in the room.
+his is the kind of thing you take up, rather than master. You do
 
-∗
-
-A warning, since the booklet would not be honest without it.
-For some of us — and by now you probably know if this is
-you — NVC can re-install the patterning in a more spiritualized
-costume. The over-listener who never gets a need on the table.
-The seminar-trained adult who confuses self-abandonment with
-compassion and starts teaching the confusion to others. The
-person who learned, somewhere along the way, that wanting
-things gets you punished, and now has been given a beautiful
-new vocabulary in which to keep not-wanting things. If you rec­
-ognize yourself anywhere in that paragraph: the work, for you, is
-probably less in the listening and more in the asking. Give your­
-self permission to make demands the practice would technically
-prefer you frame as requests. Sometimes the request can wait.
-The asking cannot.
-The point of all of this is connection, not compliance. Not
-getting your sentences right. Not winning. Not converting your
-partner. Not having a nicer marriage by Friday. Connection, in
-the actual sense — the slightly disorienting moment where you
-realize the person across from you is a whole entire human you
-do not get to render permanent, and they realize the same thing
-about you, and you both stay anyway.
-
-The point is connection, not compliance. Not getting your sentences right.
-Not winning. Not converting your partner.The slightly disorienting moment
-where you realize the person across from you is a whole entire human you
-do not get to render permanent — and you both stay anyway.
-
-This booklet is a door. The room is much larger.
+it badly, over and over, in actual conversations with actual people —
+including the conversations you have with yourself. The body learns
+the shape. The grammar starts to drift in the right direction without
+your having to think about it. The interior monologue softens, slowly,
+because the part of you that has been using the language of court has
+gradually been given other language to use. None of this happens
+fast. The time scale is closer to learning an instrument than reading
+a book. The thing changes you, eventually, because the language
+changes you, but the eventually is the real word in that sentence.
+You will do it badly tomorrow. You will do it badly six months from
+now, on a phone call you knew was going to be hard, and then you
+will go home and brood about how badly you did it, and the brooding
+will also be part of the practice, and that is fine.
+The noticing afterward, and the willingness to come back the next
+day, is most of what counts.
+There is no compliance score. There is no NVC police. What matters
+is whether you stayed in the room.
 
 ∗
 
-Go back to the fight from the first page.
-The one where someone said I just don’t think you respect me
-and the other said I do respect you and somehow that was the worst
-answer they could have given. The thing got bigger, or went quiet,
-which is sometimes worse.
-Here is what that fight looks like, hours later, alone in the
-kitchen, after the heat has passed.
-The thing you said — you don’t respect me — was a verdict.
-It put the other person on trial for a permanent quality of their
-character, and of course they defended, and of course the defense
-made it worse. The sentence made the fight unavoidable before
-anyone had chosen to fight.
+47
 
-What was actually in the room: hurt. And underneath the hurt,
-something more specific — longing to feel like you mattered to
-that person, in that moment, on that particular Tuesday.
-The sentence that was true — I am hurt, and I am longing to
-feel like I matter to you — was available. It was there. It might still
-be there now. It might still be sayable, if the conversation can be
-reopened. It might be the first sentence of a different kind of fight,
-which is to say no fight at all.
-The question is not whether you can say it perfectly under
-pressure. You cannot. Nobody does, not consistently, not at first.
-The question is whether the grammar is slowly becoming avail­
-able — whether the hurt is getting faster at finding its words
-before the verdict gets out first.
-That is all the practice is. Not transformation. Not mastery. Just
-a slight shift in the odds that something true gets into the room
-before the courtroom opens.
-A last thing.
-The reason any of this matters is not, in the end, that it works.
-It does work, in the operative sense, for the reasons covered in the
-previous section. But that is not the reason. The reason is that it is
-one of the few practices currently available to ordinary humans
-that takes seriously the proposition that another person’s interior
-is real, legitimate, and theirs — not a problem to be managed,
-not a process to be optimized, not a market to be captured, not
-a behavior to be corrected. And that your interior is the same.
-That you are allowed to be inside yourself, accurately, in the body,
-
-in the present, in the room. That you are allowed, even, to want
-things.
+For some of us, NVC can re-install the patterning in a more spiritu­
+alized costume. The over-listener who never gets a need on the
+table. The seminar-trained adult who confuses self-abandonment
+with compassion and starts teaching the confusion to others. The
+person who learned, somewhere along the way, that wanting things
+gets you punished, and now has been given a beautiful new vocab­
+ulary in which to keep not-wanting things. If you recognize yourself
+anywhere in that paragraph: the work, for you, is probably less in
+the listening and more in the asking. Give yourself permission to
+make demands the practice would technically prefer you frame as
+requests. Sometimes the request can wait. The asking cannot.
+The point is connection. Not compliance. Not the right sentences.
+Not getting your partner to come around. Sometimes the fight just
+loses its grip in the middle — because you’ve noticed the person
+across from you isn’t actually something for you to render perma­
+nent. They are a whole person. So are you. The courtroom you’d been
+running doesn’t have a case anymore.
 
 ∗
 
-PRACTICE
+The fight from the first page. The one where someone said I just don’t
+think you respect me and the other said I do respect you and somehow
+that was the worst answer they could have given. The thing got
+bigger. Or went quiet.
+
+48
+
+Hours later, alone in the kitchen, after the heat has passed.
+What you said — you don’t respect me — was a verdict. It put the
+other person on trial for a permanent quality of their character. They
+defended; the defense made it worse. The sentence made the fight
+unavoidable before anyone had chosen to fight.
+What was actually in the room was hurt. And underneath the hurt,
+something more specific — longing to feel like you mattered to that
+person, on that particular Tuesday.
+The sentence that was true — I am hurt, and I am longing to feel like
+I matter to you — was available. It is still available now, if the conver­
+sation can be reopened. It might land. It might not.
+You won’t say it perfectly under pressure. Nobody does, not consis­
+tently, not at first. What actually shifts over years is whether the
+grammar is becoming more available — whether the hurt is getting
+faster at finding its words before the verdict gets to the door.
+That’s all the shift is. The hurt getting faster at finding its words.
+What earns the practice its keep, beyond the operative fact that it
+works, is what kind of stance toward another person it requires. NVC
+is one of the few practices currently available to ordinary humans
+that takes seriously the idea that the person across from you has an
+interior that is real, that is theirs, and that isn’t yours to manage or
+correct. The same goes for your interior. You’re allowed to be in there
+— in the body, in the present, with your actual needs — and you’re
+allowed, if it comes to that, to want things out loud.
+
+∗
+
+49
+
+PRACTICE
 
 Smallest Possible Practice
 Next time you notice the sentence “I feel like you…”
-leave your mouth or your mind, stop. Place one hand
-on your sternum. Ask: What is actually in my body right
-now? Name one real feeling and one need out loud to
-yourself before you speak to the other person. That
-single pause is most of the work.
-T H E PAU S E I S T H E P R AC T I C E
+leave your mouth or your mind, stop. Place one
+hand on your sternum. Ask: What is actually in my
+body right now? Name one real feeling and one need
+out loud to yourself before you speak to the other
+person. That stop is most of the work.
+
+50
 
 APPEN­
 DIX
 
 FEELINGS VOCABULARY
 
-From Marshall Rosenberg and the Center for Nonviolent Communication.
-Two columns: what moves through you when your needs are met, and when they
+From Marshall Rosenberg and the Center for Nonviolent Communication. Two
+columns: what moves through you when your needs are met, and when they
 aren’t.
 
-WHEN NEEDS ARE MET
+WHEN
+MET
+
+NEEDS
+
+ARE
 
 Affectionate: compassion­
 ate, friendly, loving, openhearted, tender, warm
 Engaged: absorbed, alert,
 curious, enthusiastic, fasci­
 nated, interested, stimulated
-Hopeful: encouraged, expec­
-tant, optimistic
+Hopeful: encouraged, ex­
+pectant, optimistic
 Confident:
 empowered,
 open, proud, safe, secure
@@ -1312,15 +1470,20 @@ glad, happy, pleased, tickled
 Exhilarated: blissful, ecsta­
 tic, elated, radiant, thrilled
 
-W H E N N E E D S A R E N OT
-MET
+WHEN
+NEEDS
+N OT M E T
 
-Afraid: apprehensive, dread,
-frightened, panicked, scared,
-terrified, wary, worried
-Angry: enraged, furious, in­
-censed, indignant, irate, livid,
-outraged, resentful
+ARE
+
+Afraid:
+apprehensive,
+dread, frightened, panicked,
+scared, terrified, wary, wor­
+ried
+Angry: enraged, furious,
+incensed, indignant, irate,
+livid, outraged, resentful
 Annoyed: aggravated, dis­
 gruntled, exasperated, frus­
 trated, impatient, irritated
@@ -1330,24 +1493,32 @@ hostile, repulsed
 Confused: ambivalent, baf­
 fled, bewildered, hesitant,
 lost, perplexed, torn
-Disconnected: alienated, ap­
-athetic, bored, detached, in­
-different, numb, withdrawn
+
+51
 
 Peaceful: calm, centered,
 comfortable, content, ful­
-filled, quiet, relaxed, relieved,
-satisfied, serene, still, trust­
-ing
+filled, quiet, relaxed, re­
+lieved, satisfied, serene, still,
+trusting
 Refreshed: enlivened, reju­
 venated, renewed, rested, re­
 stored, revived
 
+52
+
+Disconnected:
+alienated,
+apathetic, bored, detached,
+indifferent, numb, with­
+drawn
 Disquiet: agitated, alarmed,
 disturbed, rattled, restless,
 troubled, uneasy, unsettled
-Embarrassed: ashamed, cha­
-grined, guilty, mortified, selfconscious
+Embarrassed:
+ashamed,
+chagrined, guilty, mortified,
+self-conscious
 Fatigue: burnt out, depleted,
 exhausted, lethargic, tired,
 weary
@@ -1361,9 +1532,10 @@ less, melancholy, unhappy
 Tense: anxious, cranky, dis­
 tressed, edgy, frazzled, ner­
 vous, overwhelmed, stressed
-Vulnerable: fragile, guarded,
-helpless, insecure, sensitive,
-shaky
+Vulnerable:
+fragile,
+guarded, helpless, insecure,
+sensitive, shaky
 Yearning: envious, longing,
 nostalgic, pining, wistful
 
@@ -1372,29 +1544,53 @@ DIX
 
 UNIVERSAL HUMAN NEEDS
 
-From Marshall Rosenberg and the Center for Nonviolent Communication.
-These are not preferences or personality traits. They are the shared infrastructure —
-what every human
-is running on, all the time, whether or not they have language for it.
+From Marshall Rosenberg and the Center for Nonviolent Communication. These
+aren’t preferences or personality traits. They’re the shared infrastructure — what
+every human is running on, all the time, whether or not they have language for it.
 
 CONNECTION — accep­
-tance, affection, appreciation,
-belonging, care, closeness,
-communication, community,
-companionship, compassion,
-consideration, consistency,
-cooperation, empathy, inclu­
-sion, intimacy, love, mutual­
-ity, nurturing, respect, safety,
-security, stability, support, to
-be heard, to be seen, to be
+tance, affection, appre­
+ciation, belonging, care,
+closeness, communication,
+community, companionship,
+compassion, consideration,
+consistency,
+cooperation,
+empathy, inclusion, inti­
+macy, love, mutuality, nur­
+turing, respect, safety, secu­
+rity, stability, support, to be
+heard, to be seen, to be
 known, trust, warmth
 PHYSICAL WELLBEING —
 air, food, movement, rest,
 safety, shelter, sexual expres­
 sion, touch, water
 
-ACKNOWLEDGMENT —
+INTEGRATION
+—
+to
+grieve, to make sense of loss,
+to process, to mourn what
+cannot be changed
+AUTONOMY — choice,
+freedom,
+independence,
+self-expression, space, spon­
+taneity
+HONESTY — authenticity,
+clarity, integrity, presence,
+transparency
+MEANING — awareness,
+challenge, competence, con­
+tribution, creativity, discov­
+ery, effectiveness, growth,
+hope, learning, mourning,
+participation, purpose, self-
+
+53
+
+ACKNOWLEDGMENT —
 appreciation,
 celebration,
 gratitude, recognition, to be
@@ -1405,23 +1601,19 @@ PEACE — beauty, com­
 munion, ease, equanimity,
 harmony, inspiration, order,
 space
-INTEGRATION — to grieve,
-to make sense of loss, to
-process, to mourn what can­
-not be changed
 
-AUTONOMY — choice, free­
-dom, independence, self-ex­
-pression, space, spontaneity
-HONESTY — authenticity,
-clarity, integrity, presence,
-transparency
-MEANING — awareness,
-challenge, competence, con­
-tribution, creativity, discov­
-ery, effectiveness, growth,
-hope, learning, mourning,
-participation, purpose, selfexpression, stimulation, to
+expression, stimulation, to
 matter, understanding
+
+A note. This is the standard CNVC inventory, and it has been critiqued — most
+forcefully by Roxy Manning and the liberatory NVC lineages — for what it leaves
+out. Justice. Accountability. Fairness. Reparations. Solidarity. Collective power.
+The need for harm to be named and stopped, not metabolized into someone
+else’s growth process. If you are reading this in a body that has been on the
+wrong end of structural violence, the standard list can pull toward depoliticized
+humanism in a way the prose of this booklet has tried to refuse. Add what’s
+missing. The list is a starting point, not a creed.
+
+54
 
 

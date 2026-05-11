@@ -1,13 +1,10 @@
 // Appendix A — Feelings Vocabulary (Rosenberg / CNVC)
-#import "../utils.typ": appendix-heading, ref-block
+#import "../utils.typ": appendix-heading, appendix-intro, appendix-column-header, ref-block
 
 #appendix-heading("Feelings Vocabulary")
 
-#text(size: 9pt, style: "italic", font: "Optima", fill: luma(110))[
-  These are the original maps — Rosenberg's, the Center for Nonviolent Communication's.\
-  You don't need to memorize them. You just need to know they exist, so you can stop\
-  inventing your own under pressure. Two columns: what moves through you when your\
-  needs are met, and when they aren't.
+#appendix-intro[
+  From Marshall Rosenberg and the Center for Nonviolent Communication. Two columns: what moves through you when your needs are met, and when they aren't.
 ]
 
 #v(1.2em)
@@ -19,7 +16,7 @@
   [
     #ref-block[
       #set par(leading: 0.75em, spacing: 0.6em)
-      #text(size: 8pt, tracking: 0.18em, font: "Gill Sans", fill: luma(80), weight: "bold")[#upper[when needs are met]]
+      #appendix-column-header("when needs are met")
       #v(0.5em)
       #set text(size: 10.5pt)
       *Affectionate:* compassionate, friendly, loving, open-hearted, tender, warm
@@ -46,7 +43,7 @@
   [
     #ref-block[
       #set par(leading: 0.75em, spacing: 0.6em)
-      #text(size: 8pt, tracking: 0.18em, font: "Gill Sans", fill: luma(80), weight: "bold")[#upper[when needs are not met]]
+      #appendix-column-header("when needs are not met")
       #v(0.5em)
       #set text(size: 10.5pt)
       *Afraid:* apprehensive, dread, frightened, panicked, scared, terrified, wary, worried

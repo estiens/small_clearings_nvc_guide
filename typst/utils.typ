@@ -24,33 +24,11 @@
 #let mono = ("American Typewriter", "Courier New", "Courier")
 
 // Slab serif — Rockwell, blocky and loud. Good for emphatic headers or pull-outs.
+// (Used only by styleguide.typ; not by the booklet itself.)
 #let slab = "Rockwell"
-
-// Geometric sans — Futura, Bauhaus/zine. Good for high-impact section labels.
-#let geometric = ("Futura", "Avenir Next", "Avenir")
-
-// Heavy condensed — Impact, maximum-weight moments. Use sparingly.
-#let heavy = ("Impact", "Helvetica Neue", "Helvetica")
-
-// Classical — Baskerville, elegant and slightly cold. Good for extended quotes.
-#let classical = ("Baskerville", "Garamond", "Palatino")
 
 // Real ornaments — Hoefler Text Ornaments is bundled with macOS
 #let ornament-font-name = "Hoefler Text Ornaments"
-
-// ── Ornament + dingbat font wrappers ──────────────────────────────────────────
-
-// Wrap a glyph in Hoefler Text Ornaments, falling back to body serif if missing.
-#let ornamental-font(size: 14pt, body) = text(
-  font: (ornament-font-name, "Hoefler Text", "Athelas"),
-  size: size,
-)[#body]
-
-// Wrap a glyph in Zapf Dingbats with sensible fallbacks.
-#let dingbats-font(size: 12pt, body) = text(
-  font: ("Zapf Dingbats", ornament-font-name, "Apple Color Emoji", "Athelas"),
-  size: size,
-)[#body]
 
 // ── Ornamental break builder ──────────────────────────────────────────────────
 
@@ -87,7 +65,7 @@
 // Hoefler Text catch a few; Athelas is the final fallback for the asterism
 // and other glyphs that exist in the body face.
 #let _orn(size: 12pt, body) = text(
-  font: ("Hoefler Text", "Apple Symbols", "Arial Unicode MS", "Athelas"),
+  font: ("Hoefler Text"),
   size: size,
   fill: luma(110),
   body,
@@ -121,6 +99,16 @@
 // Dingbat line — three eight-pointed asterisks
 #let dingbat-line = ornamental-break-base(
   _orn(size: 13pt)[❋ #h(0.7em) ❋ #h(0.7em) ❋],
+)
+
+// Typewriter rule — three em-dashes in mono, hand-typed feel.
+#let typewriter-rule = ornamental-break-base(
+  text(font: mono, size: 11pt, fill: luma(120))[--- --- ---],
+)
+
+// Pilcrow — bare ¶, old typesetting, no decoration.
+#let pilcrow-break = ornamental-break-base(
+  _orn(size: 14pt)[¶],
 )
 
 // ── Section heading ───────────────────────────────────────────────────────────
@@ -193,54 +181,27 @@
   v(0.9em)
 }
 
-// ── Coda heading ──────────────────────────────────────────────────────────────
+// ── Appendix intro caption ────────────────────────────────────────────────────
 
-// Coda heading — same visual language as appendix-heading but with a
-// "POSTSCRIPT" eyebrow instead of "APPENDIX". Used for the long-form
-// philosophy deep-dive that follows the conclusion as optional reading.
-#let coda-heading(title) = {
-  pagebreak(weak: true)
-  v(0.8em)
-  line(length: 100%, stroke: 2pt + luma(20))
-  v(0.5em)
-  grid(
-    columns: (5.2em, 1fr),
-    gutter: 0.8em,
-    align(horizon + left)[
-      #text(
-        size: 8pt,
-        font: mono,
-        tracking: 0.22em,
-        fill: luma(110),
-      )[#upper[postscript]]
-    ],
-    align(horizon + left)[
-      #text(
-        size: 11.5pt,
-        font: editorial,
-        weight: "bold",
-        tracking: 0.16em,
-        fill: luma(15),
-      )[#upper[#title]]
-    ]
-  )
-  v(0.3em)
-  line(length: 100%, stroke: 0.5pt + luma(150))
-  v(0.9em)
+// Italic caption that introduces an appendix table. Sits between the heading
+// and the data block. Sized down, sans-italic, grey.
+#let appendix-intro(body) = {
+  text(size: 9pt, style: "italic", font: sans, fill: luma(110))[#body]
 }
 
-// ── Chart caption ─────────────────────────────────────────────────────────────
+// ── Appendix column header ───────────────────────────────────────────────────
 
-// Chart caption — used on the translation-table standalone page
-// Smaller, italic, centered, Optima — clearly "outside" the prose flow
-#let chart-caption(body) = {
-  align(center)[
-    #block(width: 75%)[
-      #set text(size: 8pt, style: "italic", font: sans, fill: luma(110))
-      #set par(justify: false, first-line-indent: 0em, leading: 0.65em)
-      #body
-    ]
-  ]
+// Small-caps editorial label that sits above each column block in the
+// feelings/needs appendices. Pulled out of the section files so that
+// changing the label treatment in one place updates both appendices.
+#let appendix-column-header(label) = {
+  text(
+    size: 8pt,
+    tracking: 0.18em,
+    font: editorial,
+    fill: luma(80),
+    weight: "bold",
+  )[#upper[#label]]
 }
 
 // ── Reference block ───────────────────────────────────────────────────────────
@@ -259,18 +220,18 @@
   ]
 }
 
-// ── Needs / translation helpers ───────────────────────────────────────────────
+// ── Data table ────────────────────────────────────────────────────────────────
 
-#let needs-category(label, items) = {
-  par(first-line-indent: 0em)[
-    *#label* #sym.dash.em #items
-  ]
-}
-
-#let translation-row(pseudo, feelings, needs-text) = {
-  par(first-line-indent: 0em)[
-    #emph[#pseudo] #sym.dash.em #feelings #sym.dash.em #emph[needs:] #needs-text
-  ]
+// Styled table for translation/need charts in §02. Bundles the shared visual
+// settings (light stroke, padded inset, header-row tint, zebra rows). Caller
+// passes through `columns:`, `table.header(...)`, and row cells via spread.
+#let data-table(..args) = {
+  table(
+    stroke: 0.4pt + luma(180),
+    inset: (x: 0.7em, y: 0.5em),
+    fill: (x, y) => if y == 0 { luma(235) } else if calc.odd(y) { white } else { luma(250) },
+    ..args,
+  )
 }
 
 // ── Pull-quote ────────────────────────────────────────────────────────────────
@@ -375,9 +336,10 @@
 
 // ── Section opener ────────────────────────────────────────────────────────────
 
-// Section opener — first paragraph of a section at 13pt with extra leading.
-// Not a drop cap. A subtle "this is where we enter" signal.
-// Apply only to sections with punchy opening paragraphs (01, 03, 05, 07).
+// Section opener — first paragraph of a section at 12.5pt editorial with extra
+// leading. A subtle "this is where we enter" signal. Used in §03 and §05
+// (where the opener is a single punchy paragraph). Sections that lead with
+// a longer opening prose block use the `dropcap` helper instead.
 #let section-opener(body) = {
   block(
     width: 100%,
@@ -389,6 +351,34 @@
     #body
   ]
   v(1.1em)
+}
+
+// ── Drop cap ─────────────────────────────────────────────────────────────────
+
+// Drop cap — oversized initial letter for the opening paragraph of a section.
+// Renders the letter as a heavy editorial glyph sitting on the baseline of
+// the first line and rising above it, with the rest of the paragraph flowing
+// alongside on subsequent lines. Reads as a stick-up initial rather than a
+// fully-wrapped illuminated cap — robust under Typst's layout, and visually
+// at home in a hand-set zine.
+//
+// Usage: #dropcap("Y")[ou had a fight last week. Or what almost-was…]
+//
+// Keep to one per section opener. Overuse turns the page into a children's
+// book.
+#let dropcap(letter, body) = {
+  set par(first-line-indent: 0em)
+  box(
+    baseline: 0.55em,
+    text(
+      font: editorial,
+      size: 28pt,
+      weight: "bold",
+      fill: luma(15),
+    )[#letter]
+  )
+  h(0.05em)
+  body
 }
 
 // ── Practice box ─────────────────────────────────────────────────────────────

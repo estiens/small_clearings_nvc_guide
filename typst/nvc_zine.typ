@@ -12,7 +12,7 @@
   margin: (inside: 1.8cm, outside: 2.2cm, top: 2.5cm, bottom: 3cm),
   footer: context {
     let n = counter(page).display("1")
-    set text(font: ("American Typewriter", "Courier New", "Courier"), size: 8pt, fill: luma(120))
+    set text(font: mono, size: 8pt, fill: luma(120))
     if calc.odd(here().page()) {
       align(right)[#n]
     } else {
@@ -22,7 +22,7 @@
 )
 
 #set text(
-  font: ("Athelas", "Palatino", "Georgia", "Charter"),
+  font: body-font,
   size: 11pt,
   lang: "en",
 )
@@ -30,7 +30,7 @@
 #set par(
   justify: true,
   leading: 0.7em,
-  first-line-indent: 1.2em,
+  spacing: 1.1em,
   linebreaks: "optimized",
 )
 
@@ -38,7 +38,7 @@
   v(1.5em, weak: true)
   block(breakable: false)[
     #text(
-      font: ("American Typewriter", "Courier New", "Courier"),
+      font: mono,
       size: 10pt,
       weight: "bold",
       tracking: 0.05em,
@@ -55,13 +55,10 @@
 #include "sections/03-speaking.typ"
 #include "sections/04-self-nvc.typ"
 #include "sections/05-listening.typ"
+#include "sections/06-philosophy.typ"
 #include "sections/07-conclusion.typ"
 
 // ── Appendices ────────────────────────────────────────────────────────────────
 
 #include "sections/appendix-feelings.typ"
 #include "sections/appendix-needs.typ"
-
-// ── Postscript: optional long-form deep-dive ──────────────────────────────────
-
-#include "sections/06-philosophy.typ"
