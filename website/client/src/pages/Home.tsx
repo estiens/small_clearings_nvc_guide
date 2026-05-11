@@ -420,6 +420,8 @@ export default function Home() {
                 performance most of us run right before we lose it; the practice has nothing to say about your
                 manners. Therapy has its couch and its fifty minutes; this lives in the dishes, the boss email,
                 the text from your sister at 9:47 on a Tuesday that made your chest tighten before you'd read it.
+                The articulate-fight version is the loudest of the three. Anyone who's been on the receiving end
+                of someone using the form to score points knows what that sounds like.
               </p>
             </div>
             <div className="dingmark">⁂</div>
@@ -483,6 +485,10 @@ export default function Home() {
               <p style={{ marginTop: "1.2rem" }}>
                 This is normal. People who've been practicing for thirty years still do it. The difference is they
                 tend to catch it faster, sometimes before the words are out.
+              </p>
+              <p style={{ marginTop: "1.2rem" }}>
+                They keep coming anyway, delivering a finding about someone else when what the body actually
+                needed was a report from itself. Run the translation before you open your mouth.
               </p>
             </div>
           </FadeIn>
@@ -642,6 +648,11 @@ export default function Home() {
           <FadeIn delay={250}>
             <div className="dingmark">∗</div>
             <p>
+              How sure are you, right now, that the thing you just called a feeling actually is one? You've been
+              wrong about this before. You've called resentment what turned out to be grief that hadn't been
+              allowed to cry. You've called <em>fine</em> a state you decided to stop looking into.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
               First: anger is a signal. Sometimes the most trustworthy signal you have. The consuming kind —
               the kind that leaves you in the bathtub unknotting your own muscles, the kind that has you screaming
               until there is nothing left — is reporting one thing: <em>harm is being done here, and it must be
@@ -669,6 +680,9 @@ export default function Home() {
               decades later.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
+              There's a coarser cut underneath all of this. Not what the anger is made of — what it's for.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
               Some anger is a tantrum. The wall-punching volatility of an adult who can't tolerate the word no,
               taking all the oxygen in the room, exhausting, repetitive, fundamentally an attempt to control the
               environment by terrifying it. Most of us have run this at least once. Many of us grew up with someone
@@ -681,11 +695,31 @@ export default function Home() {
               the book.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
+              This kind can feel apocalyptic. It can sound like a complete inventory of every time safety was
+              stolen. It is not kind. It is also not the child screaming <em>I hate you</em> because ice cream
+              was denied — these are different things, and the practice has to be able to tell them apart,
+              especially when you're the one doing the feeling.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
               Using NVC to translate this kind of rage away while you are actively being harmed is the practice
               being weaponized against the part of you trying to keep you alive.
             </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              What this anger needs is to be heard before it has to take the wheel at volume eleven. Trying to
+              exile it doesn't work, and the body won't let you for long. When the protective part trusts that
+              you will listen and put its snarls into words — <em>I need the harm to stop. I need to get out.
+              I need my nervous system to stop being used as a trash compactor for other people's unhealed
+              parts</em> — it doesn't have to drive every conversation.
+            </p>
             <div className="dingmark">❦</div>
             <p>
+              The specific shapes vary: fear of losing the connection, fear of being seen and rejected, fear of
+              one's own anger in households where anger had a body count, fear of becoming the parent, fear that
+              is the body remembering something the mind has agreed to forget. They feel different from the
+              inside because they are different. A lot of the work, quietly, is just slowing down enough to
+              notice which one is actually in the room with you tonight.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
               Here is a sentence you are allowed to say out loud: <em>I don't know what I feel.</em>
             </p>
             <p style={{ marginTop: "1.2rem" }}>
@@ -704,6 +738,10 @@ export default function Home() {
               puts it cleanly: <em>you cannot move the conversation faster than the ability of everyone's nervous
               system to digest, assimilate, or integrate the conversation.</em> You cannot drag a frozen body into
               a four-step. The four-step needs the body to believe it's safe before the words can do anything useful.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              When the sentence starts with <em>I feel like</em> — pause. Something else is trying to speak. Find
+              it in the body before you let your mouth name it.
             </p>
           </FadeIn>
         </div>
@@ -797,6 +835,47 @@ export default function Home() {
               to want something out loud, in front of someone who could refuse you. That is what the practice
               costs the people who need it most.
             </p>
+            <div className="dingmark">∗</div>
+            <p>
+              <strong>What it actually looks like, when it goes at all.</strong>
+            </p>
+            <p style={{ marginTop: "1rem" }}>
+              Your friend has been canceling on you for three months. Every time, a good reason. Every time, you
+              say <em>no worries</em> and have mostly convinced yourself it's true. The slight hollow in your
+              chest when she texts to reschedule is data you've been ignoring on purpose.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              What you actually feel: dropped. A little invisible. What you actually need: to know you are a real
+              priority, not just an intention.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              You've never said this out loud. The version of you who learned early that wanting things has a
+              cost has been editing the ask before it reaches your mouth for years.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              Here is the practice, applied: find the thing in the body first. Not the argument. Not the evidence
+              of how many times this has happened. The feeling — something between sad and scared — and the need
+              underneath it, which is mattering, contact, something like <em>I want to be someone's plan-A at
+              least occasionally.</em>
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              Then the request. <em>You always cancel on me</em> is a prosecution, not a request.{" "}
+              <em>Are you sure you can make it next time?</em> is pre-emptive surrender dressed as a question. A
+              real request is concrete enough that she can genuinely answer it: <em>Would you be willing to put
+              something in the calendar for next month and actually hold it — not maybe, not let me check, but
+              hold it?</em>
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              She can say yes. She can say she genuinely doesn't have the capacity right now. Either answer is
+              something you can actually plan around. Both beat another three months of <em>it's fine.</em>{" "}
+              <em>Fine</em> keeps you stuck in a room with no exits, politely.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              A request doesn't guarantee a yes. That's exactly why it's a request and not a demand. You're
+              handing another person real choice. For people who spent years swallowing their needs, the asking
+              is the bigger risk — bigger than the managed performance of not-wanting it in the first place. It's
+              also the version where anything new can happen.
+            </p>
           </FadeIn>
 
           <FadeIn delay={100}>
@@ -819,21 +898,64 @@ export default function Home() {
               even FUCKING try to use NVC? Nothing true is ever said in anger. Why won't you just TRY.
             </div>
             <p>
+              The person being chased stops. And, because they have actually read the booklet, responds:{" "}
+              <em>Okay, I'll try. When you chase me around the yard, yelling and cursing at me to fucking use
+              NVC, I feel a mixture of bewilderment, absurd hilarity, and anger. My only request is that your
+              next actions or words be ones that allow me to go with the joke.</em>
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              It didn't land. But they laughed inwardly. That felt sane.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
               <em>Nothing true is ever said in anger</em> — a paraphrase of a common workshop trope, not a sentence
               Rosenberg wrote — is the old dominator move with new vocabulary. It performs the same structural
               sleight-of-hand as the is-of-identity: <em>I am calm, therefore I am right; you are angry, therefore
               you are wrong</em> — but now with the moral authority of a nonviolent communication practice behind it.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
+              Notice what has not actually been established: that the person doing the chasing is calm. They're
+              not calm. They're screaming. They're in pursuit. <em>Calm</em> in this formula is not a description
+              of an emotional state; it's a badge handed to whoever invokes NVC grammar, regardless of what their
+              nervous system is actually doing. You don't have to be regulated to claim the calm position. You
+              only have to be using the right vocabulary while the other person is using the wrong one.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              The person demanding NVC compliance while pursuing you is doing something more violent than someone
+              who simply yells. They are enforcing a unilateral disarmament in the same sympathetic activation
+              they are accusing you of. Your anger is rendered illegitimate by the grammar. Their behavior, at
+              any volume, vanishes into the background as the unremarkable default.{" "}
               <Annotation links={A.tonePolicing}>Tone policing is the name for the move, when it has a name.</Annotation>{" "}
               It doesn't require conscious malice to operate. It works by shifting the entire conversation from
               what is being done to how you are reacting to it. The harm becomes invisible. Your response to the
-              harm is what is now on trial.
+              harm is what is now on trial. If you cooperate — soften your tone, reach for the four-step, try to
+              comply — the behavior that prompted the response is retroactively vindicated by your compliance.
+              Your trying is offered as proof that you were the problem.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              Both traps end the same place: your interior was the problem, and here is the practice to make
+              you quiet.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              What the form does well, when it's used honestly rather than weaponized, is this: when the
+              codependent person tries to assemble the sentence, the structure asks <em>hang on — do you actually
+              have a request, or are you hoping they'll guess?</em> When the controlling person tries to assemble
+              the sentence, it asks <em>is this a request, or will you punish them when they say no?</em> Either
+              question interrupts a particular kind of disappearing — the self-disappearing of the codependent,
+              the consent-disappearing of the controller. Neither is fully escapable from inside the form, not
+              without abandoning the form altogether, which a lot of people do, and which is its own kind of tell.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              The form doesn't fix the patterning. The patterning gets fixed by slow uneven work over years, if
+              it gets fixed at all. What the form does is hold up a mirror — your particular survival strategy
+              made visible, sentence by sentence, in the exact way it has been hiding itself inside your
+              particular kind of articulate.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               NVC assumes a baseline: both bodies in the room have enough safety in this moment, enough sovereignty
-              in this conversation, enough self remaining to speak from. Remove that margin and the tool stops
-              applying. The tool didn't fail; the situation changed shape.
+              in this conversation, enough self remaining to speak from. The qualifier matters — this is not
+              about whether your life is safe in general, or your household is safe overall, only whether right
+              here, right now, your nervous system has any margin left to use the form. Remove that margin and
+              the tool stops applying. The tool didn't fail; the situation changed shape.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               What Rosenberg actually wrote is that violence is the tragic expression of an unmet need. The person
@@ -845,9 +967,22 @@ export default function Home() {
               Sometimes that information sounds like: <em>I am leaving now. This conversation is over.</em>
             </p>
             <p style={{ marginTop: "1.2rem" }}>
-              NVC isn't asking you to stay. <em>I need to leave this conversation</em> is a fully valid request.
-              <em> I am not willing to be in this relationship on these terms</em> is a statement of need as
+              NVC isn't asking you to stay. <em>I need to leave this conversation</em> is a fully valid request.{" "}
+              <em>I need some space before we talk about this</em> is a fully valid request.{" "}
+              <em>I am not willing to be in this relationship on these terms</em> is a statement of need as
               legitimate as any other in the practice.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              There's a difference between <em>NVC doesn't apply here because you're being harmed</em> and{" "}
+              <em>NVC applies here, and what it is telling you is to leave.</em> The second sentence is sometimes
+              the answer. You used the practice, and the practice told you to go.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              Once sovereignty is internalized — both kinds, the one that lets you ask cleanly and the one that
+              lets you walk — a quieter grief arrives. You can't guarantee connection. Your stuff sits on your
+              side, theirs sits on theirs. Soft-pedaling needs or swallowing them only increases the distance.
+              Speaking them cleanly sometimes reveals the relationship was never what you imagined. Other people
+              become less threatening; some of them also become sadder, viewed accurately.
             </p>
             <div className="dingmark">❯ ❯ ❯</div>
             <p>
@@ -864,6 +999,27 @@ export default function Home() {
               actually after, instead of only the absence. Harder to defend against, harder to weaponize, and
               usually more honest, since most of the time the thing you want isn't the disappearance of the bad
               version; it's the presence of a better one.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              And sometimes, even with the form held lightly and the traps avoided and the language as clean as
+              you can make it, the true thing still doesn't land.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              You said the real thing. Found the feeling, named the need, made the request — clearly, cleanly,
+              without a verdict in it. And the other person could not meet you. Wouldn't. Or heard something
+              different entirely and answered that instead. Or went quiet in a way that told you everything.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              This is where a lot of people put the practice down. It feels like a betrayal — you did the work,
+              you took the risk, you were honest in a way you'd never quite managed before. And still.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              Most introductory material skips the part that comes next: there's grief built into the naming,
+              regardless of whether the other person meets you. You are saying out loud, to yourself first,{" "}
+              <em>this is what I need, and I am not getting it.</em> Saying it makes the gap real in a way that
+              swallowing it never did. Swallowing kept the door open to a world where maybe you could still get
+              it, if you found the right moment, the right words. Naming closes that door. Sometimes a different
+              one opens. Sometimes it doesn't.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               The grief that comes with naming an unmet need is part of what the form is doing. The willingness
@@ -889,17 +1045,50 @@ export default function Home() {
                 There is a gap. Between when your friend says <em>I just don't think you respect me</em> and the
                 answer that finally leaves your face. Three seconds, usually. Sometimes the rest of the conversation.
                 Sometimes the text sits on your phone for half an hour while your thumb hovers and you cycle through
-                six versions of an answer. Most of the practice happens in those gaps — alone, with the version of
-                you that gets loud when there is no one watching.
+                six versions of an answer. Sometimes the thing your boss said in the meeting becomes an email you
+                write that night, after rewriting the second sentence four times. Most of the practice happens in
+                those gaps — alone, with the version of you that gets loud when there is no one watching.
+              </p>
+              <p style={{ marginTop: "1.2rem" }}>
+                The first move is a pause. Not a long one. Long enough to ask: <em>This is a feeling. What story
+                am I telling myself about what just happened?</em>
               </p>
               <p style={{ marginTop: "1.2rem" }}>
                 One thing about the pause that's easy to miss: the inner monologue gets louder and faster when the
                 body is{" "}
                 <Annotation links={A.polyvagal}>dysregulated</Annotation>, not slower. The internal courtroom runs
                 at full volume precisely when you are least equipped to translate anything. Self-NVC is only really
-                available to a body that has decided, at least slightly, that it's safe enough to slow down.
+                available to a body that has decided, at least slightly, that it's safe enough to slow down. Feet
+                on the floor. A few breaths. Something cold in your mouth. Walking out to the kitchen. The
+                translation work happens in a body that has come back online — even partway. If the body is still
+                spinning, the work is to come back online first. The words can wait.
               </p>
-              <p style={{ marginTop: "1.2rem" }}>
+            </div>
+            <div className="dingmark">∗</div>
+            <p>
+              Sometimes the feeling and the need are enough. The story underneath isn't always the homework.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              Try this one. <em>I am feeling insecure tonight, and I am longing for some reassurance that you
+              still find me attractive.</em>
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              That sentence doesn't require a thirty-minute investigation of where the insecurity is from — your
+              mother, your last relationship, the haircut, the lighting, the third glass of wine, the article
+              about hormones, or all six at once. Sometimes the feeling is the feeling and the need is the need
+              and the work is to say it. The historical research can wait, or happen later, or never happen at
+              all. Right now, in your kitchen, what you have is enough.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              This is, counter-intuitively, one of the harder moves to learn. Because the real trap, for many of
+              us, isn't failing to find the story. The real trap is digging into the story when there was nothing
+              in it that actually needed digging up.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              <strong>When the thinking is the avoidance.</strong>
+            </p>
+            <div>
+              <p style={{ marginTop: "1rem" }}>
                 Thoughtful people, the readers of this kind of booklet most of all, run their own version of this
                 trap. <em>Let me figure out why I am feeling this</em> becomes the more sophisticated way of saying
                 <em> let me not say what I am feeling.</em> The analysis works as a way to stay in the head and out
@@ -907,6 +1096,11 @@ export default function Home() {
                 <Annotation links={A.ifs}>IFS</Annotation> and somatics and astrology and your friend's podcast
                 all come pre-installed with permission to keep digging instead of speaking. The dig turns into the
                 new performance.
+              </p>
+              <p style={{ marginTop: "1.2rem" }}>
+                The check is small. <em>Could I just say the feeling and the need now, here, to this person, and
+                let the conversation happen from there?</em> If yes, do that. The story can still be there
+                afterward — it just doesn't have to be the first thing through the door.
               </p>
             </div>
             <div className="dingmark">∗</div>
@@ -955,10 +1149,31 @@ export default function Home() {
               measurable progress on most days and a different person at the end of a year.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
+              What it sounds like, lived from the inside, is not the absence of harshness. The harshness still
+              shows up. Another voice is in the room when it does, already listening for it. After enough
+              practice, the witness picks up the shift in the body before the inner critic finishes its
+              sentence — sometimes before the critic has gotten its first word out. The chest tightens.
+              Something starts to move toward <em>you idiot.</em> The witness gets there first:{" "}
+              <em>something just got hot. What is it.</em> The translation begins before the attack does.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              The harshness has somewhere to be received now. It doesn't run the room the way it used to.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              <strong>A word on the inner critic.</strong>
+            </p>
+            <p style={{ marginTop: "1rem" }}>
               The inner critic is one part of you among others. Usually a part that learned somewhere young that
               being harsh with yourself first was the only way to head off being harshly punished by someone else.
               The voice you have been mistaking for yourself is, on inspection, a frightened protector running a
               strategy that worked once. It's doing its best. It's wrong about what's currently required.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              You don't have to fight it. You don't have to silence it. You can do the same translation move on
+              it that you would do on anyone else. <em>Something in me is afraid. Something in me is trying to
+              keep me safe by getting there first. What does that part actually need.</em> The internal monologue
+              softens because the critic stops being the only voice in the room. Other voices — calmer, more
+              accurate, usually quieter at first — start having space to speak.
             </p>
           </FadeIn>
 
@@ -977,11 +1192,51 @@ export default function Home() {
             <p style={{ marginTop: "1.2rem" }}>
               The two moves tend to amplify each other in practice. Once a part is no longer the whole self, you
               can locate what it actually feels and needs without being swept under by it. Once it has the grammar,
-              it can be heard inside the system — not just noticed, but understood in its own terms by the rest of you.
+              it can be heard inside the system — not just noticed, but understood in its own terms by the rest of
+              you. Either practice can address the same internal moment, and people who use both tend to stop
+              noticing where the seam is.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              Tuesday night. Your sister's text has been sitting on your phone for three days. Two parts of you
+              have been at war about it. One wants to call her right now and have it out — get clarity, get this
+              over with, get the not-knowing out of your body. The other wants to put the phone face-down and
+              walk it off — give it another week, see if it gets less weird on its own.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              Step one is to ask each part to step back far enough that you're not being swept under by either.
+              Step two is to ask each one — separately — what it actually feels and what it actually needs.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              The calling-now part, when it gets the floor: <em>I am furious. I need this to be over.</em>
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              The walking-it-off part, when it gets the floor: <em>I am exhausted. I need this to be over.</em>
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              Same longing, two costumes. Some older part of you has been waiting a long time for things with
+              your sister to stop costing this much. The fight between the two parts was a fight about strategy —
+              call now vs. wait it out — and the strategy fight had been running so loud that the actual want,
+              which is just rest, never made it onto the table. Once it does, neither strategy has to win.
+              Whoever writes back tomorrow is quieter than either of them.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               You don't have to commit to either lineage to use the move. The small portable grammar of feelings
               and needs is most useful as a hinge between bigger traditions, not as a religion in its own right.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              Feelings run their course; the interpretation shifts after. Often you don't need to know why. The
+              feeling passes. The need, named, gets met or it doesn't. You move on.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              Most often, when the pause has done its work and the feeling has been found, what's left is the
+              need. <em>Connection. Rest. A say in your own life. Mattering. To be seen. Solitude. Care.</em>
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              Speak from there. Or don't speak yet, because the speaking can come later, and right now what's
+              needed is a breath, a walk, a bowl of soup, the second hour of sleep you had been refusing yourself.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              Most of the practice never reaches anyone else's ears.
             </p>
           </FadeIn>
         </div>
@@ -1080,8 +1335,22 @@ export default function Home() {
               generation has ruined this country: he is, by inspection, not using NVC. You are not required to
               fix that. You can listen with NVC anyway. From the inside, what that looks like is tracking the
               feeling underneath the rant — probably some mixture of fear, helplessness, grief about a world
-              that no longer makes sense to him, pride that has been bruised — and the need underneath the feeling,
-              probably to matter, to be seen as having lived a life that meant something.
+              that no longer makes sense to him, pride that has been bruised — and the need underneath the
+              feeling, probably to matter, to be seen as having lived a life that meant something, to feel like
+              the things he believed in still exist somewhere. You don't have to agree with any of it. You
+              don't have to say any of it out loud. You can. You can also just be present and not bait the
+              trap. The asymmetric move is internal — what you're doing inside yourself while he is talking.
+              Refusing to get recruited. Keeping your own interior alive while his runs hot. Not escalating,
+              not baiting, not collapsing into the performance of agreement. That's not passivity — that's a
+              specific choice about what to do with your nervous system in a room where nobody asked for your
+              cooperation. And it does, weirdly, change the room. Sometimes.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              You can do this with people who don't deserve it by their behavior, or whose worldview you find
+              repugnant — the practice doesn't require their cooperation. Whether to spend yourself this way
+              on a particular night is your call. Protecting your own nervous system is a real concern,
+              especially across asymmetric power dynamics, and the answer is sometimes <em>no, not tonight,
+              not this person, not in this body.</em>
             </p>
           </FadeIn>
 
