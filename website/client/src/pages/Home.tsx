@@ -1465,13 +1465,21 @@ export default function Home() {
                 works by the same mechanism. It renders a person permanent by their worst behavior. Harm describes
                 behavior. Behavior can be named, accounted for, sometimes changed. The person isn't the act, even
                 when the act has been serious and the pattern long. Knowing that harm describes behavior rather
-                than freezing a person into a permanent role is precision, not minimization.
+                than freezing a person into a permanent role is precision, not minimization. One person's
+                behavior can be far more harmful. One person can go far deeper into denial, reversal, and
+                coercion. The grammar still matters: we name the pattern without rendering anyone ontologically
+                evil. This leaves room for real accountability instead of permanent verdicts.
               </p>
               <p style={{ marginTop: "1.2rem" }}>
                 This is a discipline of interior clarity — not a rule for how survivors must speak. <em>She is an
                 abuser</em>, said as a warning to whoever's next, said as the sentence that finally stopped you
-                gaslighting yourself — that sentence is doing work this passage has nothing to say about. The
-                politics of warning and the grammar of your own interior run on different rules.
+                gaslighting yourself, said because the politics of safety require naming what happened — that
+                sentence is doing work this passage has nothing to say about. The politics of warning and the
+                grammar of your own interior run on different rules.
+              </p>
+              <p style={{ marginTop: "1.2rem" }}>
+                Including, sometimes, yourself — the version of you who did something you can't forgive, who
+                you've been rendering permanent ever since.
               </p>
             </div>
             <div className="dingmark">∗</div>
@@ -1497,6 +1505,11 @@ export default function Home() {
               changing it. Saying <em>you are selfish</em> installs a particular state in your nervous system:
               prosecutorial, certain, slightly armored, ready to fight. Saying <em>I am hurt and I am longing
               for partnership</em> installs a different state: vulnerable, located in the body, no longer at war.
+              Even the sentence you don't say does construction work — same body, quieter materials.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              If that sounds like a strong claim, it is. It's also the claim Marshall Rosenberg himself was
+              making, and he was making it more sharply than his reputation would suggest.
             </p>
           </FadeIn>
 
@@ -1520,7 +1533,10 @@ export default function Home() {
               What NVC actually commits to, beneath the technique, is a particular kind of sovereignty — yours
               and everyone else's at the same time. <em>Connection over control</em> is the slogan. The claim
               doing the load-bearing work, underneath the slogan, is that no one — including you — has the
-              authority to render anyone else permanent.
+              authority to render anyone else permanent. Stories about people are stories. The person is still
+              the person. They are allowed to surprise you. They are allowed, even, to surprise themselves. The
+              same goes for you. The story you have been telling yourself about yourself for the past twenty
+              years is also a story.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               This is why NVC sits next to the anarchist mediation lineages, and why those lineages have been
@@ -1533,7 +1549,11 @@ export default function Home() {
               <Annotation links={A.edmundoNorte}>Edmundo Norte</Annotation>, and <Annotation links={A.meenadchi}>Meenadchi</Annotation> have spent years pointing
               out that NVC's standard packaging often re-installs the dominator culture it was meant to refuse —
               and that the practice has to be retooled to do its actual work in bodies it wasn't originally
-              designed for.
+              designed for. None of these are fringe; they're the part of NVC the workshop pamphlets tend to
+              soften.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              All of these approaches share the same refusal of a single, fixed, judging self.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               It's also why the{" "}
@@ -1554,7 +1574,50 @@ export default function Home() {
               codependence recovery, between somatic trauma work and anarchist mediation, between{" "}
               <Annotation links={A.korzybski}>Korzybski's general semantics</Annotation> and the dharma
               traditions that have been pointing at the same thing for two and a half thousand years. Most of
-              its actual value, lived inside, is in this translator role.
+              its actual value, lived inside, is in this translator role. The bigger lineages give you the
+              territory — parts and exiles in IFS, activation and shutdown in somatics, restorative process in
+              anarchist mediation — without necessarily giving you the actual sentence to say to the person
+              across the table when you're standing in any of that territory. NVC supplies the sentence. The
+              people who have hardened it into a primary identity have mostly missed what it is for; the ones
+              who hold it lightly inside a larger life tend to do better with it.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              For the reader arriving with no other tradition in hand — just a skeptical mind and a body that's
+              been through some things — the hinge can be enough. The grammar is substantive enough on its own
+              to do real work, even if NVC ends up being the only thing in your toolkit. If you do come across
+              the other practices later, this connects to them.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              Treat NVC as one tool among several. The people who become insufferable with it are usually the
+              ones who have decided it is the only tool they own. The four-step gives way, eventually, to
+              something closer to fluid speech — but only because by then you're pulling from somatic work, from
+              grief, from the parts of you that aren't on speaking terms with the parts that learned NVC at the
+              workshop. It doesn't replace boundaries, doesn't replace trauma therapy, doesn't replace the
+              radical move of walking away from someone who is actively harming you. Use it where it works.
+            </p>
+            <div className="dingmark">∗</div>
+            <p>
+              <strong>A note on practice and time.</strong>
+            </p>
+            <p style={{ marginTop: "1rem" }}>
+              NVC at first sounds stilted. <em>I'm feeling X and I'm needing Y.</em> Yes. Yes it does.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              The scaffolding falls away. People who've been doing this for a long time don't, in conversation,
+              sound like they're using NVC. They sound like themselves — more so, if anything, because the
+              to-be verbs and the moralistic judgments and the demands disguised as requests have been quietly
+              evicted from their sentences over time. They don't require their feelings to be agreed with. They
+              don't require their stories to be the official record. They don't press their version of you onto
+              you. They're, in a small and durable way, more sovereign in conversation than most people are.
+              And so are the people they're talking to, because the form of speech offers that sovereignty as a
+              side-effect, whether or not the other person ever picks up the practice themselves.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              What the practice does, given enough time, is not what the marketing claims. The first effect is
+              clarity — to yourself, and then to whoever is in the room with you. The second is a kind of
+              accurate location: you can tell, increasingly, where you actually are in your own body and your
+              own life. Calm doesn't really enter into it. The fury, when fury is what's in the room, is still
+              in the sentence. The fury is just no longer pretending to be a description of somebody else.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               <Annotation links={A.contactImprov}>Contact improv</Annotation>, for the people who have practiced
@@ -1595,6 +1658,12 @@ export default function Home() {
               </p>
               <p style={{ marginTop: "1.2rem" }}>
                 There is no compliance score. There is no NVC police. What matters is whether you stayed in the room.
+              </p>
+              <p style={{ marginTop: "1.2rem" }}>
+                If you came in distrustful of communication training — earned in workshops, HR rooms, households
+                where the calmer person was the more dangerous one — the suspicion isn't a problem the practice
+                has to fix. It's how you'll catch the moment the form gets weaponized. Including by you, on a
+                bad day, against someone you love.
               </p>
             </div>
             <div className="dingmark">∗</div>
