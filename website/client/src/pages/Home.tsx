@@ -961,6 +961,16 @@ export default function Home() {
               the tool stops applying. The tool didn't fail; the situation changed shape.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
+              The harder case is when the asymmetry is structural, not momentary. Your boss calling you out in
+              front of your team. A cop asking questions. A parent whose approval still shapes you at forty. These
+              conversations have something in common: you cannot make a request you cannot afford to have refused.
+              NVC isn't pretending otherwise. What it offers in those rooms isn't equal footing you don't have.
+              It's a way of staying located inside yourself while the room runs on someone else's rules — keeping
+              an accurate accounting of what happened and what you need without it detonating before you've chosen
+              the moment. Sometimes that moment comes later, in a different room. Sometimes it means leaving. What
+              the practice does is keep the information alive until you're in a position to use it.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
               What Rosenberg actually wrote is that violence is the tragic expression of an unmet need. The person
               doing the chasing is unmet somewhere. Also true. The person being chased is also unmet, also scared,
               also possibly in danger — and their anger isn't a communication failure. It's accurate information
@@ -1448,6 +1458,11 @@ export default function Home() {
                 It is the event happening.
               </p>
               <p style={{ marginTop: "1.2rem" }}>
+                (If the word <em>magic</em> makes you flinch — fair enough. Substitute <em>performative speech
+                act</em> and the passage works the same way. The grammar analysis below doesn't require the
+                metaphor.)
+              </p>
+              <p style={{ marginTop: "1.2rem" }}>
                 The pull toward the is-of-identity is mostly that fixing someone in place — even as an enemy —
                 takes less ongoing work than tracking who they're actually being from minute to minute. The cheaper
                 version is the one the body keeps reaching for.
@@ -1712,6 +1727,9 @@ export default function Home() {
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               That's all the shift is. The hurt getting faster at finding its words.
+            </p>
+            <p style={{ marginTop: "1.2rem" }}>
+              The fights don't disappear. What changes is what they're about.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               What earns the practice its keep, beyond the operative fact that it works, is what kind of stance
