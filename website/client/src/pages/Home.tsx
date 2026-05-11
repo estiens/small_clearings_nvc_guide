@@ -355,19 +355,20 @@ export default function Home() {
       <section id="cover" style={{ minHeight: "100vh", display: "flex", flexDirection: "column", justifyContent: "center", borderBottom: "2px solid var(--ink)", padding: "4rem 0 3rem" }}>
         <div className="zine-column">
           <FadeIn>
-            <div style={{ marginBottom: "0.5rem" }}>
-              <span className="stamp">CC BY 4.0</span>
-              <span className="stamp">2026</span>
-            </div>
-            <h1 className="hero-title">Small<br />Clearings</h1>
-            <p className="hero-subtitle">Language That Transforms</p>
-            <p className="hero-tagline">
+            <div className="cover-frame">
+              <div style={{ marginBottom: "1rem" }}>
+                <span className="stamp">CC BY 4.0</span>
+                <span className="stamp">2026</span>
+              </div>
+              <h1 className="hero-title">Small<br />Clearings</h1>
+              <p className="hero-subtitle">Language for Clearer Rooms</p>
+              <p className="hero-tagline">
                 A Field Guide to Nonviolent Communication<br />
                 for skeptics, cynics,<br />
                 and the emotionally exhausted
               </p>
-              <div className="cover-rule" style={{ marginTop: "2.5rem" }} />
-              <div style={{ marginTop: "1.5rem", paddingTop: "1rem" }}>
+            </div>
+            <div style={{ marginTop: "2rem" }}>
               <p style={{ fontSize: "0.75rem", color: "var(--faded)", fontFamily: "IBM Plex Mono, monospace", lineHeight: 1.7 }}>
                 This work is licensed under a Creative Commons Attribution 4.0 International license (CC BY 4.0).
                 You are free to share, copy, redistribute, adapt, remix, transform, and build upon this material
@@ -387,7 +388,7 @@ export default function Home() {
         <div className="zine-column" style={{ position: "relative" }}>
           <span className="chapter-ghost" aria-hidden="true">I</span>
           <FadeIn>
-            <div className="chapter-bar">I — The Setup: Half of This Conversation Never Happened</div>
+            <div className="chapter-bar"><span className="chap-num">I</span> — The Setup: Half of This Conversation Never Happened</div>
             <div style={{ marginTop: "2rem" }}>
               <p>
                 You had a fight last week. Or what almost-was-a-fight. Someone — possibly you — said{" "}
@@ -449,7 +450,7 @@ export default function Home() {
         <div className="zine-column" style={{ position: "relative" }}>
           <span className="chapter-ghost" aria-hidden="true">II</span>
           <FadeIn>
-            <div className="chapter-bar">II — Feelings and Needs</div>
+            <div className="chapter-bar"><span className="chap-num">II</span> — Feelings and Needs</div>
             <div style={{ marginTop: "2rem" }}>
               <div className="pull-quote">
                 I feel like you don't care.
@@ -754,7 +755,7 @@ export default function Home() {
         <div className="zine-column" style={{ position: "relative" }}>
           <span className="chapter-ghost" aria-hidden="true">III</span>
           <FadeIn>
-            <div className="chapter-bar">III — Speaking</div>
+            <div className="chapter-bar"><span className="chap-num">III</span> — Speaking</div>
             <div style={{ marginTop: "2rem" }}>
               <p>
                 There's a thing people do, once they've learned the surface shape of NVC, where they use the form
@@ -1049,7 +1050,7 @@ export default function Home() {
         <div className="zine-column" style={{ position: "relative" }}>
           <span className="chapter-ghost" aria-hidden="true">IV</span>
           <FadeIn>
-            <div className="chapter-bar">IV — Self-NVC</div>
+            <div className="chapter-bar"><span className="chap-num">IV</span> — Self-NVC</div>
             <div style={{ marginTop: "2rem" }}>
               <p>
                 Most of the work of NVC happens before anyone hears anything come out of your mouth.
@@ -1260,7 +1261,7 @@ export default function Home() {
         <div className="zine-column" style={{ position: "relative" }}>
           <span className="chapter-ghost" aria-hidden="true">V</span>
           <FadeIn>
-            <div className="chapter-bar">V — Listening</div>
+            <div className="chapter-bar"><span className="chap-num">V</span> — Listening</div>
             <div style={{ marginTop: "2rem" }}>
               <p>
                 A friend tells you something hard. Their dog died, or their boss humiliated them, or the thing
@@ -1440,7 +1441,7 @@ export default function Home() {
         <div className="zine-column" style={{ position: "relative" }}>
           <span className="chapter-ghost" aria-hidden="true">VI</span>
           <FadeIn>
-            <div className="chapter-bar">VI — Philosophy</div>
+            <div className="chapter-bar"><span className="chap-num">VI</span> — Philosophy</div>
             <div style={{ marginTop: "2rem" }}>
               <p>
                 What NVC is doing, when it's doing the thing, sits closer to magic than to communication training.
@@ -1654,7 +1655,7 @@ export default function Home() {
         <div className="zine-column" style={{ position: "relative" }}>
           <span className="chapter-ghost" aria-hidden="true">VII</span>
           <FadeIn>
-            <div className="chapter-bar">VII — Conclusion</div>
+            <div className="chapter-bar"><span className="chap-num">VII</span> — Conclusion</div>
             <div style={{ marginTop: "2rem" }}>
               <p>
                 This is the kind of thing you take up, rather than master. You do it badly, over and over, in

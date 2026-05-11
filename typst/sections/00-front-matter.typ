@@ -8,7 +8,7 @@
   ]
   #v(0.3em)
   #text(size: 14pt, tracking: 0.18em, fill: luma(60))[
-    #upper[Language That Transforms]
+    #upper[Language for Clearer Rooms]
   ]
 
   #v(1.2em)

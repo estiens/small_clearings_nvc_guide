@@ -201,12 +201,44 @@
   display: block;
   text-align: center;
   font-family: 'Playfair Display', serif;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   color: var(--turmeric);
   margin: 3rem 0 2.5rem;
-  opacity: 0.75;
+  opacity: 0.85;
   letter-spacing: 0.6em;
   line-height: 1;
+}
+
+/* ---- CHAPTER NUMBER SPAN ----
+   Used inside .chapter-bar to give the Roman numeral a separate
+   typographic register from the chapter title. */
+.chap-num {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-weight: 900;
+  font-size: 1.1rem;
+  color: var(--turmeric);
+  letter-spacing: 0.02em;
+  line-height: 1;
+}
+
+/* ---- COVER FRAME ----
+   Double-rule border around the title block — gives the cover
+   the weight of a physical printed artifact rather than a web page. */
+.cover-frame {
+  border: 2px solid var(--ink);
+  padding: 2rem 1.5rem 1.75rem;
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+.cover-frame::after {
+  content: '';
+  position: absolute;
+  inset: 5px;
+  border: 1px solid var(--turmeric);
+  opacity: 0.45;
+  pointer-events: none;
 }
 
 /* ---- ANNOTATION SYSTEM ---- */
@@ -354,8 +386,8 @@
    rather than indented within it. */
 .pull-quote {
   position: relative;
-  margin: 2.75rem 0 2.5rem;
-  padding: 1.5rem 0 0.25rem;
+  margin: 2.75rem -1rem 2.5rem;
+  padding: 1.75rem 1.5rem 1.25rem;
   font-family: 'Playfair Display', serif;
   font-size: 1.35rem;
   font-weight: 700;
@@ -363,6 +395,7 @@
   line-height: 1.35;
   color: var(--ink);
   letter-spacing: -0.005em;
+  background-color: oklch(0.925 0.015 76);
 }
 
 .pull-quote::before {
@@ -370,7 +403,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 3.5rem;
+  right: 0;
   height: 2px;
   background-color: var(--turmeric);
 }
@@ -383,7 +416,10 @@
 @media (min-width: 720px) {
   .pull-quote {
     font-size: 1.5rem;
-    padding-right: 2rem;
+    margin-left: -1.25rem;
+    margin-right: -1.25rem;
+    padding-left: 1.75rem;
+    padding-right: 1.75rem;
   }
 }
 
@@ -426,9 +462,10 @@
    This is one of two big typographic anchors in the booklet — the
    hero title and this. */
 .callout--ofnr {
-  padding: 2.25rem 0 2rem;
+  border: 2px solid var(--ink);
   border-top-width: 2px;
   border-bottom-width: 2px;
+  padding: 2.25rem 1.25rem 2rem;
 }
 
 .callout--ofnr .callout-label {
@@ -864,7 +901,7 @@
   font-weight: 900;
   font-style: italic;
   color: var(--ink);
-  opacity: 0.045;
+  opacity: 0.065;
   line-height: 0.85;
   pointer-events: none;
   user-select: none;
@@ -883,7 +920,7 @@
   position: relative;
   padding-top: 3.5rem;
   padding-bottom: 3.5rem;
-  border-top: 1px solid oklch(0.80 0.018 65);
+  border-top: 2px solid var(--ink);
 }
 
 @media (min-width: 720px) {
